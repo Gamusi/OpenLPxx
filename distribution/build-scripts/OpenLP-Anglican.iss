@@ -48,6 +48,7 @@ Source: "{#StagingRoot}\service-templates\*.osz"; DestDir: "{app}\service-templa
 ; 3. Preconfigured User Data Profile (ONLY initialized on a fresh profile; never overwrites existing data)
 Source: "{#StagingRoot}\Data\*"; DestDir: "{code:GetProfileDir}\Data"; Flags: onlyifdoesntexist uninsneveruninstall recursesubdirs createallsubdirs; Check: ShouldInitializeUserData
 Source: "{#StagingRoot}\Data\bibles\*.sqlite"; DestDir: "{code:GetProfileDir}\Data\bibles"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "{#StagingRoot}\Data\themes\*"; DestDir: "{code:GetProfileDir}\Data\themes"; Flags: onlyifdoesntexist uninsneveruninstall recursesubdirs createallsubdirs
 Source: "{#StagingRoot}\service-templates\*.osz"; DestDir: "{code:GetProfileDir}\Service Templates"; Flags: onlyifdoesntexist uninsneveruninstall
 
 [Icons]
