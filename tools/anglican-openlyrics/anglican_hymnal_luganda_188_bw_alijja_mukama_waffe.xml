@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BW'ALIJJA MUKAMA WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="188" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BW'ALIJJA Mukama waffe<br />Okuyita gy'ali<br />Abeesigwa be bonna<br />Abamwagala</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ng'emmunyeenye mu bbanga <br />Bwe zaaka waggulu <br />Nabo bwe balibeera <br />Abaagalwa be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alikungaanyiza w'ali<br />Abaana be bonna;<br />abanyiikira ennyo<br />-Okumufaanana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mumutende,olw'ekitiibwa ky(e) ekingi,<br />Mumwebaze n'ennyimb(a) ez'essanyu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abakulu-era- n'abato;<br />Abaagala Yesu <br />Talibaawulamu ye <br />Bw'alikomawo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mumutende,olw'ekitiibwa ky(e) ekingi,<br />Mumwebaze n'ennyimb(a) ez'essanyu.</lines>
+    </verse>
+  </lyrics>
+</song>

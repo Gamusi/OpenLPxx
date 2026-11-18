@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABAGEZIGEZI-EDDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="63" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABAGEZIGEZI-edda<br />Bwe baalaba-emmunyeenye<br />Baagiraba n'essanyu<br />Ne bagigoberera;<br />Naffe Yesu Mukama,<br />Twagala-okukulaba</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo baagenda mangu nnyo<br />Okunoonya-Omwana-oyo;<br />Eyafuga-ensi zonna <br />N'akka ku lwaffe-ababi;<br />Bwe tutyo twanguweko <br />Tunoonye-Omulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bo baawaayo-ebirabo <br />Eby'omuwendo-omungi <br />Ne babimutonera <br />Asinga bonna-ab'ensi;<br />Bwe tutyo naffe leero <br />Tweweeyo Yesu gy'oli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu ggwe-ennaku zonna <br />-Otukuumenga-olw'ekisa;<br />N'eby'ensi bwe biriggwaawo;<br />-Otutwalenga n'essanyu <br />Etabeera nzikiza,<br />Gy'olabikira ddala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu nsi ey'omu ggulu <br />Tebeetaaga ttabaaza; <br />Ggwe musana n'essanyu, <br />Ggwe njuba eteggwaawo,<br />Yesu otutuuseeyo; <br />Tusuutenga-erinnya lyo</lines>
+    </verse>
+  </lyrics>
+</song>

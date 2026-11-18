@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NZE NZIKIRIZA DDALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="200" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NZE nzikiriza ddala<br />Katonda Obusatu,<br />Ne Yesu-okufuuka-omuntu,<br />Nkyatulira ddala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neesiga era nsuubira <br />Yesu-eyanfiirira <br />Ebikolwa-ebibi byonna <br />Bife nga bwe yafa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amaanyi era n'obulamu-<br />Biri gy'ali yekka,<br />Gwe nsinga-okwagala yekka<br />Mutukuvu ddala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nze ntenda ne Kkanisa yo <br />Ggwe wagitonda-edda;<br />Ne by'eyigiriza byonna,<br />Bye biibyo by'osiima.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ensi zonna zikutende<br />N'eggye-ery'omu ggulu;<br />Bikusuute ggwe Kitaffe,<br />N'Omwana n'Omwoyo.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU OMULOKOZI, OTUWULIRE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="322" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU-Omulokozi,otuulire<br />-Amaloboozi gaffe nga tuyimusa.<br />Tukuwadde-ebyaffe,tukusenze ggwe.<br />Kkiriza-emibiri n'emyoyo gyaffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu kkubo-ery'okufa,twali tubula;<br />Nga tubulubuuta mu kizikiza;<br />Naye watuwonya gye twakyamira <br />Mu lukoola-ewala,n'otulokola.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kaakano twamgganga okujja gy'oli,<br />Kye kisa kyo kyokka ekitusembeza;<br />Watununula ffe-abalina ebibi,<br />N'otufuula-abaana,ne tukwebaza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bulijjo ekisa nga kyeyongera <br />Ebigenda-okujja tebisingika;<br />Eyo gye wagenda-okuteekateeka <br />Eby'omu ggulu ebitamanyika.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kale nno bannange tugende fenna,<br />N'obugumu bungi mu kkubo lyaffe;<br />Yesu ye Musaale,akulembera;<br />Mu bukoowu bwaffe atusanyusa.</lines>
+    </verse>
+  </lyrics>
+</song>

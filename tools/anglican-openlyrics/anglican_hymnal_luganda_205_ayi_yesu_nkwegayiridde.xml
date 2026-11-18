@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI YESU NKWEGAYIRIDDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="205" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Yesu nkwegayyiridde,<br />Okunjigiriza wekka;<br />Kaakano mbuulire-abantu<br />Abali mu kizikiza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwe nnali nkyali mu bibi,<br />Wampita okujja gy'oli<br />N'osasula-ebbanja lyange <br />N'ompa-obulamu bwa buwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ku lw'ekisa kyo ekingi <br />Ombeere leero-omuddu wo;<br />Nkole by'oyagala byonna,<br />Mgende gy'ondagira yonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ayi Yesu,nkwegayiridde,<br />Okunnongoosa-eby'omunda,<br />Mbeere-ekibya-ekisaanira <br />Mukama-okumuweereza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Onjijuze Omwoyo wo,<br />N'essanyu eriva gy'oli <br />Abantu bakuwulire,<br />Ne balyoka bakwesiga.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Onnyweze ,nneme-okwekuba <br />Ku nkonge-ennyingi-eziriwo;<br />Bannange ndyoke mboolese <br />Obuyinza bwo nga bwe buli.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ompummuzenga bulijjo,<br />Nneme-okweraliikirira;<br />Bannange mbategeezenga <br />Bw'owummuza abakooye.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bwe ntyo ka nkugulumize <br />Mu maaso g'abantu bonna;<br />Bo balyoke bajje gy'oli,<br />Nga bafuuse abaana bo</lines>
+    </verse>
+  </lyrics>
+</song>

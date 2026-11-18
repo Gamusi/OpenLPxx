@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA WANGE NKUWADDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="120" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA wange nkuwadde<br />-Omwoyo gwange gwonna;<br />Nnemenga okukuvaako<br />emirembe gyonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neesudde ku bigere byo,<br />Ggwe-eyakomererwa:<br />Komerera-ebibi byange,<br />Nkuweereze wekka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Olw'ekisa kyo-ontukuze ,<br />Onfuule owuwo,<br />Ndyoke ndabe amaaso go <br />Nkutenderezenga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nkuwadde byonna bye nkola <br />N'ebyo bye ndowooza,<br />Nkuweereze mu bulamu,<br />Mu kufa nbe naawe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eddungu weeriri,<br />Lye mpitamu,naye <br />Ka nnyanguwe gy'oli <br />Ennyonta yange-eggwe.</lines>
+    </verse>
+  </lyrics>
+</song>

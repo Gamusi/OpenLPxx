@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUTAMBUZE NG'AKOOYE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="323" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-OMUTAMBUZE ng'akooye<br />Bw'alengera-ekisulo kye,[ennyo,<br />Newankubadde nga wala,<br />Omwoyo ne gumuddamu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Omukristaayo era bw'atyo;<br />Bwe yeddamu omwoyo gwe,<br />Bw'alaba-olw'okukkiriza,<br />Ekifo kye eky'omu ggulu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ensi-eyo emusanyusa,<br />So takyakaabira bya dda;<br />So n'eby'okujja tabitya,<br />Kasita alituuka eyo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naabeeranga eyo ne Yesu;<br />Bw'agamba bw'atyo;ennaku</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zirinvaako,n'amaziga,<br />Katonda-aligasangula.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu,tukwesiga wekka,<br />Otukulembere gy'oli;<br />Ne bwe tukoowa mu kkubo,<br />Ggwe-olitusanyusa-ewuwo.</lines>
+    </verse>
+  </lyrics>
+</song>

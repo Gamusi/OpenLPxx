@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>SAAYUUNI MU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="230" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>SAAYUUNI mu ggulu,<br />Katonda gy'abeera;<br />Bwe ndifa,ndigenda<br />N'essanyu lingi nnyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Katonda wang(e),eyo gy'oli <br />Ndituuka dd(i) okukulaba?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Omulokozi gy'ali,<br />Gwe baayigganyanga;<br />Ne bamalayika <br />Bayimba-ettendo lye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katonda wang(e),eyo gy'oli <br />Ndituuka dd(i) okukulaba?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ab'edda baali-eyo,<br />Baakomekkereza<br />Emgendo Zaabwe,era <br />Baalaba Mukama.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Katonda wang(e),eyo gy'oli <br />Ndituuka dd(i) okukulaba?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Eri n'abatume <br />Gye balabikira;<br />Bonna-abamwesiga,<br />Nga bakuba-ennanga</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Katonda wang(e),eyo gy'oli <br />Ndituuka dd(i) okukulaba?</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Era-abajulirwa <br />-Abaalangibwa Yesu,<br />-Era abamwesiga <br />Eyabalokola.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Katonda wang(e),eyo gy'oli <br />Ndituuka dd(i) okukulaba?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU WAALI! OKUFA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="84" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU waali! Okufa,<br />Tokyayinza kututiisa:<br />Yesu yakuwangula;<br />Obulumi bwo bufudde!<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu waali! bw'alijja,<br />Baliva-ababe mu bafu: <br />Yesu waali! Okufa,<br />Gwe mulyango gw'obulamu.<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu waali! eyafa,<br />Okununula ffe-abantu;<br />Leero tumusuute nnyo <br />N'emyoyo emirongoofu;<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu waali! tewali,<br />Ddala kya kutwawukanya.<br />Atukuuma bulijjo <br />Buli wantu tatuleka.<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu waali! yaweebwa <br />-Obwakabaka bw'ensi zonna <br />Tulibeera wamu naye.<br />Aleruuya!</lines>
+    </verse>
+  </lyrics>
+</song>

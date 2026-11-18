@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA WANGE NKWEBAZA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="353" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA wange nkwebaza<br />Okundabirira;<br />Emmere n'eby'okwambala<br />Byonna biva gy'oli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ggwe wekka-onkuume mu kabi,<br />Era ne mu kufa;<br />Obulamu bwange bwonna <br />Buli mu galo zo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ontumire malayika <br />Ankuumire ddala;<br />Nneme-okuva mu maaso go <br />-Emisan n'ekiro.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe wampa bakadde bange <br />Ne baganda bange;<br />Wampa n'emikwano gyange,<br />Bonna baava gy'oli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sirina kya kusasula,<br />Naye kye nkusaba,<br />Nkwagale-era nkuwulire <br />Emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

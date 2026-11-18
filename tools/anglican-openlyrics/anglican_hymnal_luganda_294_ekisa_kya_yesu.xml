@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKISA KYA YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="294" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKISA kya Yesu,<br />Kisinga-obulungi:<br />Kiki-ekyamutufiiriza?<br />Ekisa kye kingi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu ku muti,kwe yanfiirira;<br />Yesu ye yandokola;neeyanz(a) ekisa kye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mu kisa neeraba <br />Nze nga nnina-ebibi;<br />Era kyennaavanga nteeka <br />Byonna Yesu gy'ali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu ku muti,kwe yanfiirira;<br />Yesu ye yandokola;neeyanz(a) ekisa kye.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu kisa nafuna,<br />-Omutima omuggya;<br />Kyenvudde nsaba bulijjo <br />-Okusiimwa Katonda.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu ku muti,kwe yanfiirira;<br />Yesu ye yandokola;neeyanz(a) ekisa kye.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mukama,yongera <br />Okumpa-ekisa kyo;<br />Era nze bwe ntyo nnyongere <br />-Okukwagala ennyo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yesu ku muti,kwe yanfiirira;<br />Yesu ye yandokola;neeyanz(a) ekisa kye.</lines>
+    </verse>
+  </lyrics>
+</song>

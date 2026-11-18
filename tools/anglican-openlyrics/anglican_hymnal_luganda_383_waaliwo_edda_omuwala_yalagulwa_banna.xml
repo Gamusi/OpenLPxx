@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WAALIWO EDDA OMUWALA:YALAGULWA BANNABBI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="383" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WAALIWO edda omuwala:yalagulwa bannabbi<br />Okuzaala-omulokozi nga olwa leero,<br />Atulokole mu bibi era ne mu kufa<br />Adamu-bye yatusuulamu-mu kusooka kw'ensi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ka tusanyuke nnyo nnyini ka tujaguze,<br />Yesu Omulokozi yazaalwa nga leero.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mu Beserekemu e Buyudaaya,<br />Malyamu yagenda awamu ne Yusufu <br />N'abantu-abalala bangi okwewandiisa <br />Nga bwe baalagirwa Kayisaali Agusito.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka tusanyuke nnyo nnyini ka tujaguze,<br />Yesu Omulokozi yazaalwa nga leero.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naye bwe baatuka mu kibuga omwo<br />Ne basanga nga kijjudde abantu bangi;<br />Malyamu ne Yusufu baali baavu nnyo<br />Ne batafuna bulungi kifo eky'okusulamu;<br />Ka tusanyuke nnyo nnyini ka tujaguze,<br />Yesu Omulokozi yazaalwa nga leero.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ne bamala gasula mu kisibo ky'ente <br />Ne beebeka mu nju omwo-ensolo nga mwe ziri<br />Naye tebanyooma wabi watyo;<br />Bw'atyo Omulokozi bwe yazaalibwa</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ka tusanyuke nnyo nnyini ka tujaguze,<br />Yesu Omulokozi yazaalwa nga leero.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Abasumba Katonda yabatumira <br />Nga balunda ebisibo ku ttale-ekiro,<br />Malayika n'agamba nti,Musanyuke nnyo<br />Kubanga Omulokozi azaaliddwa leero.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ka tusanyuke nnyo nnyini ka tujaguze,<br />Yesu Omulokozi yazaalwa nga leero.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Amangu ago abasumba ne balaba mu bbanga <br />Okwolesebwa kwa bamalayika,<br />Bayimba n'essanyu,ntiEkitiibwa kibe</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Eri Katonda waggulu,Emirembe mu bantu:<br />Ka tusanyuke nnyo nnyini ka tujaguze,<br />Yesu Omulokozi yazaalwa nga leero.</lines>
+    </verse>
+  </lyrics>
+</song>

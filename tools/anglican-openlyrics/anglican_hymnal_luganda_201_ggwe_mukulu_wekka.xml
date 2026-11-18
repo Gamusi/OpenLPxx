@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE MUKULU WEKKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="201" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE Mukulu wekka,<br />Byonna ggwe-obifuga,<br />Tukusinza;<br />Tega okutu kwo<br />Eri byr tusaba,<br />Bunya-ekigambo kyo<br />Mu nsi zonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-eyatuweereza,<br />Obulukozo bwo,<br />Tukusinza;<br />Ggwe bulamu bwabwe,<br />Bonna-abakwesiga,<br />Yasa-omusana gwo <br />Ku nsi zonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omwoyo-ow'ekisa,<br />Nannyini kwagala,<br />Tukusuuta;<br />Tuula mu nda zaffe <br />Omalemu-ebibi,<br />N'enzikiza y'ensi <br />Gimaleewo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omu mu Busatu,<br />Oli Mutukuvu,<br />Tukusuuta;<br />Toliiko kusooka<br />Era tolikoma,<br />Obwakabaka bwo <br />Bwa mirembe.</lines>
+    </verse>
+  </lyrics>
+</song>

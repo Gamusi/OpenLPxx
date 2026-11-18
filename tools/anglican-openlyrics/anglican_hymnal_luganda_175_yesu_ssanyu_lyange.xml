@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,SSANYU LYANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="175" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,ssanyu lyange<br />Ddundiro ly'omwoyo<br />Ka nkusinze ggwe!<br />Ennaku z'omwoyo<br />Ze zimpaliriza<br />Ndi wuwo naawe wange,<br />Nkwagala-okusinga bonna<br />Ggwe Mukama wange!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olw'okukuuma kwo <br />Abalabe bange <br />Banafu gyendi;<br />Ssetaani bw'annumba,<br />Nsaba-ompe amaanyi,<br />Tombeera wala!<br />Neetoolooleddwa-obubi <br />N'okufa kwa ntiisa, naye <br />Yesu ggwe onkuuma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ka tugonze-emyoyo,<br />Ka tumuwe-ekifo <br />Omusanyusa.<br />Yesu k'atufuge,<br />Tumuwulirenga,<br />Tujjule-essanyu <br />Mu buyinike bwonna:<br />Atuwenga-essanyu lino,<br />Okubeera naffe.</lines>
+    </verse>
+  </lyrics>
+</song>

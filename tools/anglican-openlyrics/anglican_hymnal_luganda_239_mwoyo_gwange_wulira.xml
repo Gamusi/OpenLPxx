@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MWOYO GWANGE, WULIRA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="239" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MWOYO gwange,wulira,<br />Yesu Mulokozi wo;<br />Akubuuza ggwe bw'ati:<br />Mwana wange-onjagala?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nze nakuggya mu nvuba;<br />Ne nnyiga-ebiwundu byo;<br />Ne nkuzuula ng'obuze;<br />Ne nzibula-amaaso go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nnyina ki-atajjukira<br />Bulijjo omwana we?<br />Ye yeerabira-omwana:<br />Naye siirekenga ggwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bulijjo nze nkwagala;<br />Naabeeranga naawe nze;<br />Mu bulamu, mu kufa,<br />Mu magombe,mu ggulu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwe ndiba nkuwonyezza<br />Oliraba-ettendo-eryo;<br />Oliba wamu nange;<br />Mwana wange-,onjagala?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mulokozi,gunsinze;<br />Nnali nga sikwagala:<br />Naye leero mpa ekisa,<br />Nnyongere kukwagala.</lines>
+    </verse>
+  </lyrics>
+</song>

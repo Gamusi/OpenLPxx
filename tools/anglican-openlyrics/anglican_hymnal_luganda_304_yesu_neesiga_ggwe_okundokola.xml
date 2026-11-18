@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,NEESIGA GGWE OKUNDOKOLA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="304" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,neesiga ggwe okundokola<br />Mu musango gwonna ne mu kwonoona:<br />Ali mgganga ggwe mu ggulu taliwo;<br />Ne mu nsi ggwe wekka ggwe Mulokozi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neesig(a) ekisa kyo,kyenvudde njinja <br />Nkwebaza,nkusinz(a) olw'okusaasira.<br />Yesu,neesiga ggwe okundokola,<br />Mu musango gwonna ne mu kwonoona.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu,nkwesiga n'olw'ekigambo kyo,<br />Naakawulira-omwo eddoboozi lyo:<br />Omwoyo-omulungi bw'anjigiriza,<br />Ka ntuule nga njija-era nga nsanyuka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Neesig(a) ekisa kyo,kyenvudde njinja <br />Nkwebaza,nkusinz(a) olw'okusaasira.<br />Yesu,neesiga ggwe okundokola,<br />Mu musango gwonna ne mu kwonoona.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu,neesiga ggwe,Omulokozi;<br />Toyinza kugoba yenna-akkiriza <br />Ekyo kya mazima,nange nsanyuka <br />Olw'obulokozi bwo,obw'obuwa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Neesig(a) ekisa kyo,kyenvudde njinja <br />Nkwebaza,nkusinz(a) olw'okusaasira.<br />Kyeva neesiga ggwe,kyenza nsanyuka <br />Yesu (O)mulokozi,era Katonda.</lines>
+    </verse>
+  </lyrics>
+</song>

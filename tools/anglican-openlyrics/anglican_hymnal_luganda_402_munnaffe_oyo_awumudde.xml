@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUNNAFFE OYO AWUMUDDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="402" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUNNAFFE oyo awumudde<br />Avudde mu nsi ey'ennaku<br />Agenze mu nsi ey'essanyu<br />Atulese ffe-eno mu nnaku.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weraba,weraba,<br />owummule/emirembe <br />owummule ggwe n'emirembe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Munnaffe oyo awumudde<br />Asomose-omugga gw'ensi<br />Atuuse-emitala weeri<br />Ye annyuse ku mulimu ggwe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Weraba,weraba,<br />owummule/emirembe <br />owummule ggwe n'emirembe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kristo ye yafa n'azuukira<br />Tulizuukira-era naffe<br />Fenna abeesigwa be<br />Tulina essubi-eryo bulijjo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Weraba,weraba,<br />owummule/emirembe <br />owummule ggwe n'emirembe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ffe abasigaddewo ku nsi <br />Twerongoose mu bulamu <br />Katonda bw'alituyita<br />Tugende gy'ali mu kitiibwa</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Weraba,weraba,<br />owummule/emirembe <br />owummule ggwe n'emirembe.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ka tuyimbenga nnyo bulijjo<br />Anti-okukkiriza kwaffe<br />Abo-abafiira mu Kristo<br />Babeera nga balamu gy'ali.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Weraba,weraba,<br />owummule/emirembe <br />owummule ggwe n'emirembe.</lines>
+    </verse>
+  </lyrics>
+</song>

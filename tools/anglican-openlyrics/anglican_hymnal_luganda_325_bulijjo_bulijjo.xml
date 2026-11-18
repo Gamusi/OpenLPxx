@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BULIJJO,BULIJJO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="325" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BULIJJO,bulijjo,<br />Sooka-omulimu ku nkya;<br />Nyiikira,beeera muteefu,<br />Tambula mu bwesigwa,<br />Saanira n'okolera nnyo<br />Mpeera yo-ey'obutuukirirvu,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bulijjo,bulijjo,<br />Ddayo-eka wo ekiro<br />Omubiri gwo longoosa,<br />Lya emmere ya leero <br />Era weebake-otulo two,<br />Nga bwe kikusaanidde ddala;<br />Bulijjo,bulijjo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bulijjo,bulijjo;<br />Jjukira Katonda wo,<br />Bw'akulembera,bw'akuuma <br />Amakubo go gonna;<br />Era jjukira-okusaba <br />N'okutendereza-erinya lye,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+  </lyrics>
+</song>

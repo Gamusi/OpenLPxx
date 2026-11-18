@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU KINO KYE NJAGALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="270" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU kino kye njagala,<br />Omwoyo nga gugwo;<br />-Omugonvu n'omuwombeefu,<br />Ogukukkiriza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Era-omwoyo-oguwulira <br />-Ebiragiro byonna;<br />Mukama mw'anaatuulanga <br />Okugusanyusa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omwoyo ogunaazibwa <br />-Omusaayi gwa Yesu;<br />Ogutabeeramu kibi,<br />Ogujjudde-ekisa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omwoyo-ogwenkaniddaawo <br />Ogumpe Katonda;<br />Oneemale nze kaakati,<br />Onfugire ddala.</lines>
+    </verse>
+  </lyrics>
+</song>

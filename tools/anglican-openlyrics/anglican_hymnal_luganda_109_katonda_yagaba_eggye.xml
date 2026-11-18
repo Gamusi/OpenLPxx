@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA YAGABA EGGYE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="109" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA yagaba eggye<br />-Okulwana n'ebibi;<br />-Omugabe we ye mwana we:<br />Musajja we y'ani?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akwata-omusaalaba gwe <br />Ayita ne Yesu,<br />Ass'ekimu n'ennaku ze,<br />Musajja we y'oyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ng'oli gwe baakuba edda <br />Ku lwa Mukama we, <br />Bwe yali ng'abasabira <br />Baali balabe be,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baamutta ng'afukamidde <br />Ye ng'alaba Ye su.<br />Bwe yali ng'ayimiridde <br />-Okumulwanirira.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eggye-eddungi ery'ettendo.<br />Ery'abajulirwa;<br />Abaafiira mu muliro <br />Era ne ku miti.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mu bunnya bw'empologoma <br />Bangi baasuulibwa;<br />Era baabatta n'empiima,<br />Naye ne baguma</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Eggye-eddungi ery'abantu <br />-Abakulu n'abato <br />Beeyanza Yesu n'essanyu <br />Leero ne bulijjo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mukama waffe, tusaba <br />Otuwe-ekisa kyo; <br />Ennaku bwe tuziraba,<br />Twesige-amaanyi go</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENJUBA Y'OMWOYO GWANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="12" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENJUBA y'omoyo gwange,<br />-Omulokozi gwe njagala;<br />Bw'abanga-anjakira-,obudde<br />Tebujja kunzibirira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emitawaana egy'ensi<br />Gireme-okusiikiriza<br />Omusana gw'amaaso go,<br />Ne siyinza kukulaba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe ngenda-okwebaka-ekiro<br />Onteeke mu mikono gyo,<br />Onkuume mu kabi konna,<br />Oneebase mu mirembe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Enkya,mu ttuntu, n'ekiro,<br />Era ne me bifo byonna,<br />Ggwe-ayagala abaana bo,<br />Beeranga nange,tondeka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oba nga-omu gwe watonda<br />Anyoomye-ekisa kyo leero<br />Kaakano-omutaase oyo,<br />Mu buyinza-obw'omulabe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ojjanjabe-abalumwa-ennyo,<br />N'abatayinza kwebaka,<br />Obawonye-endwadde zaabwe;<br />Obaggyeko-obubi bwonna.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Era bwe tunaazuukuka<br />Ojje otuwe-ekisa kyo;<br />Nga tetunnaba kukola<br />Emirimu-egya bulijjo</lines>
+    </verse>
+  </lyrics>
+</song>

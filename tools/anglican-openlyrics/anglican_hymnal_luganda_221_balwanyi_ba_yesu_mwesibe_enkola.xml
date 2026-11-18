@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BALWANYI BA YESU MWESIBE-ENKOLA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="221" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BALWANYI ba Yesu mwesibe-enkola,<br />Mulwane masajja,tuliwangula;<br />Tulina-Omugabe,asinga bonna,<br />Ye Kabaka Yesu-Omukulembeze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Balwanyi ba Yesu,mwesib(e) enkoba;<br />Muwulir(e) enmgoma,Kabak(a) alaya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bajjajjaffe-ab'edda baalwananga nnyo,<br />Tulwane bannaffe,naye si nga bo;<br />Abalabe baffe,bwe bubi bwonna,<br />N'obulimba bw'ensi; bye tuligoba.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Balwanyi ba Yesu,mwesib(e) enkoba;<br />Muwulir(e) enmgoma,Kabak(a) alaya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tetwetaaga mmandwa oba mayembe,<br />So n'eby'obufumu,tebitugumya;<br />Yesu ye kennyini,atuwa-amaanyi,<br />Kale nno tugume nnyo tuwangule.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Balwanyi ba Yesu,mwesib(e) enkoba;<br />Muwulir(e) enmgoma,Kabak(a) alaya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ayi Kabaka waffe,tuzze-okuwera,<br />Twesibye enkoba ng'abalwanyi bo:<br />Mu lutalo lwonna,lw'otugabyemu,<br />Genda wamu naffe ggwe,tuwangule.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Balwanyi ba Yesu,mwesib(e) enkoba;<br />Muwulir(e) enmgoma,Kabak(a) alaya.</lines>
+    </verse>
+  </lyrics>
+</song>

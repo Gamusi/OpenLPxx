@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI KATONDA OGIKUUME</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="381" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Katonda ogikuume<br />Ensi yaffe-eno Uganda;<br />Naffe-abantu-abagirimu<br />Otuwenga omukisa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kitaffe ow'omu ggulu,<br />Ggwe-eyatonda-ensi n'abantu <br />Ebimera-era n'ensolo,<br />Buli kintu wakitonda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otuwenga omukisa<br />Ffe abantu ba Uganda;<br />Ekisa n'obulungi bwo,<br />Bituukirirenga mu ffe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obakuume abafuzi<br />Okutukulemberanga;<br />Babeerenga-ab'amazima<br />Mw'ebyo bye banaakolanga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ffe-abantu abagirimu <br />Mu mawanga ne mu bika;<br />Tukusaba kimu kyokka:<br />Otuwe-okwagalananga.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ne mu buvubuka bwaffe,<br />Mu maanyi gonna ag'ensi<br />Mu buggya n'obutamanya,<br />Ayi-Katonda,tukuumenga.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>JJANGU GYE NDI BWE NZUUKUKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="5" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JJANGU gye ndi bwe nzuukuka,<br />Obudde nga busaasaanye,<br />Osige mu mwoyo gwange,<br />Ebirowoozo-ebisaana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jjangu gye ndi mu ggandaalo,<br />Eby'ensi ebitaliimu,<br />Bireme-okusiikiriza,<br />-Omusana ogw'amaaso go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akawungeezi-ojje gye ndi<br />Era bwe mba nkuvuddeko,<br />Onkomywewo,onzibire;<br />Mu nkwe zonna-eza Ssetaani.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Era mu ttumbi-ojje gye ndi,<br />Bwe neebaka-amavumira,<br />Nneme-okutya-akabi konna;<br />Nga nkuumibwa-Omulokozi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Beeranga nange mu bulamu-<br />Beeranga nange mu kufa,<br />Ompitanga-okujja gy'oli,<br />Nsanyukire mu maaso go.</lines>
+    </verse>
+  </lyrics>
+</song>

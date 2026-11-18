@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OBWAKABAKA BWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="208" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OBWAKABAKA bwo,<br />Yesu,bujje mu nsi;<br />Menya n'omuggo gwo,<br />Obuddu bw'ekibi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twetaaga-emirembe<br />N'obutuukirivu <br />-Okukyawagananga<br />-Otumalemu mangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ebyasuubizibwa <br />Bye tulindirira;<br />Bituukirizibwe,<br />Ayi Yesu Mukama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tukwegayiridde,<br />Okutusaasira;<br />Tukemgentererwa,<br />Jjangu otubeere.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Enzikiza-ekutte <br />Ebuna-ensi zonna;<br />Musana gw'obulamu,<br />Yaka-obutaggwaawo.</lines>
+    </verse>
+  </lyrics>
+</song>

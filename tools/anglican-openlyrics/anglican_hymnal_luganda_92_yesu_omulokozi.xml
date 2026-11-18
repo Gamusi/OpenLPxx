@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU OMULOKOZI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="92" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU Omulokozi,<br />Azuukidde leero<br />Bwe mutyo mujaguze<br />Mmwe-abalonde mwenna.<br />Kristo Omuwanguzi<br />Nga takyafa nate;<br />Ye Kabaka,okufa<br />Tekukyamufuga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kale nno ka tukwate <br />Embaga-ey'essanyu,<br />Era tuggyewo mu ffe <br />Byonna-ebitasaana: <br />Ka tuleke eby'edda;<br />N'obubi eby'edda;<br />Tulye nga tusanyuka <br />-Emmere ey'omu ggulu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mmwe mwenna-abazuukidde <br />-Awamu ne Mukama,<br />Munoonye-eby'omu ggulu <br />So si eby'omu nsi<br />Kristo bw'alirabika,<br />Obulamu bwaffe,<br />Ffe tulirabisibwa <br />Fenna wamu naye</lines>
+    </verse>
+  </lyrics>
+</song>

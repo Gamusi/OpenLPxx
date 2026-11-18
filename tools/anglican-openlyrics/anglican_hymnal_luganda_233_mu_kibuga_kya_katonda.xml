@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU KIBUGA KYA KATONDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="233" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU kibuga kya Katonda,<br />Nga guva mu ntebe ye,<br />Waliwo-omugga-omulungi<br />Ogw'amazzi ag'obulamu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abatukuvu ba Yesu <br />Bagusanyukirako:<br />Naffe twagal(a) okutuka<br />Ku mabbali g'omugga guli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu Omusumba waffe <br />Anatulumggamyanga,<br />Mu ddundiro ly'okwesiima<br />Eririraanye-omugga guli</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abatukuvu ba Yesu <br />Bagusanyukirako:<br />Naffe twagal(a) okutuka<br />Ku mabbali g'omugga guli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naye nga tetunnatuuka <br />Awali-omugga guli,<br />Otutikkule-emigugu<br />Egy'ennaku era n'ebibi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Abatukuvu ba Yesu <br />Bagusanyukirako:<br />Naffe twagal(a) okutuka<br />Ku mabbali g'omugga guli.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>4 <br />Olugendo lwaffe luno<br />Lwa nnaku si nnyingi nnyo:<br />Ffe tetulirwa kutuuka,<br />Okwetaba n'abantu bali</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Abatukuvu ba Yesu <br />Bagusanyukirako:<br />Naffe twagal(a) okutuka<br />Ku mabbali g'omugga guli.</lines>
+    </verse>
+  </lyrics>
+</song>

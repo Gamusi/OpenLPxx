@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LEERO LWA SSANYU, NNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="88" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LEERO lwa ssanyu,nnyo,<br />-Okunakuwala n'ekibi biggwaawo;<br />Omwagalwa wange<br />Azuukidde,kaakano ye mulamu:<br />Naye sing(a) entaana yamusibiri ddala,essuubi liruwa?<br />Naye Kristo mulamu:yavaamu,yavaamu,yava mu ntaana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Omubiri mu kufa <br /> Gubeera nga guwumudde mu ntaana,<br /> -Okutuusa -olunaku <br /> Abafu bonna lwe balizuukira.<br /> Naye sing(a) entaana yamusibiri ddala,essuubi liruwa?<br /> Naye Kristo mulamu:yavaamu,yavaamu,yava mu ntaana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Okutya n'okufa <br /> Yesu ye abiwangudde-olwa leero;<br /> Yesu atwagala;<br /> Mu kufa n'obulamu-abeera naffe,<br /> Naye sing(a) entaana yamusibiri ddala,essuubi liruwa?<br /> Naye Kristo mulamu:yavaamu,yavaamu,yava mu ntaana.</lines>
+    </verse>
+  </lyrics>
+</song>

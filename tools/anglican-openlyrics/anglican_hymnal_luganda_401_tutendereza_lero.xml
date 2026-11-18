@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TUTENDEREZA LERO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="401" />
+    </songbooks>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tutendereza lero<br />-Abakulu ne bajajafe;<br />Tujukira n'essanyu<br />Ab'ekitibwa-eda n'eda;<br />Abami,b'amasaza,<br />Era-abalamuzi<br />-Abagabe,bakabaka,<br />Era-abawanguzi,<br />-Abagezi b'okuimba<br />Ne b'okusomesa,<br />Bona mubiro byabwe<br />Balibayatikirivo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bayagala-obulamu:<br />Bo bwebamalira dala<br />-Okusimibwa-obulungi<br />Olw'okukiriza kwabwe,<br />Naye tebefunira,<br />Ebyasubizibwa,<br />Era Katonda wafe<br />Bweyatulabira<br />-Ekisinga obukulu,<br />Yatesa baleme<br />-Okutukirizibwanga<br />Fe fena nga tetuliwo.</lines>
+    </verse>
+  </lyrics>
+</song>

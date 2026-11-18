@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU EYALI MU NVUBA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="85" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU eyali mu nvuba,<br />Ez'okufa ku lwa ffe,<br />Yawngula n'azuukira,<br />N'atuwa obulamu;<br />Ka tumwebaze ennyo,<br />Leka tuyimbe n'essanyu,<br />Nga tuyimba Aleruuya!<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obulamu-bwe bwalwanyisa <br />Okufa n'amagombe,<br />Newabaawo ssematalo,<br />Okufa ne kudduka;<br />Yesu yakuwangula,<br />Ekitabo kya Katonda,<br />Nga Ye Mujulirwa webyo .<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tukuume nnyo embaga-eno <br />Nga tujjudde essanyu;<br />Yesu ye Njuba y'emyoy,<br />Ayakire mu gyaffe,<br />Twolese empisa ze;<br />Alabikire mu gyaffe,<br />Ne tutaswaza linnya lye.<br />Aleruuya</lines>
+    </verse>
+  </lyrics>
+</song>

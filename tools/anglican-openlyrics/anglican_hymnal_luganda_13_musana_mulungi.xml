@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUSANA MULUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="13" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUSANA mulungi<br />Oli ne Kitaffe;<br />Ow'ekitiibwa,-ekingi,<br />Wakka ku lwa -ababi;<br />Mulokozi Yesu,<br />Twesiimye-okukulaba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 <br /> Nga tebunnaziba,<br /> N'enzikiza ng'ejja,<br /> N'ennyimba z'olw'eggulo,<br /> Tusuute Kitaffe,<br /> N'Omwana we Yesu<br /> N'Omwoyo Omutukuvu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3<br /> Ggw'oli Mutukuvu,<br /> Tukutendereza.<br /> Yesu bulamu bwaffe<br /> Wansi ne mu ggulu;<br /> Ensi-ekusuuta<br /> Teekomyenga ttendo lyo.</lines>
+    </verse>
+  </lyrics>
+</song>

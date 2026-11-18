@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ERINNYA lyo Yesu lyebazibwe,</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="110" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Olw'abatukuvu abeebaka,<br />Nga baatula-erinnya lyo-ettukuvu;<br />Aleruuya,Aleruuya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gwe wali lwazi lwabwe-oluwanvu,<br /> Omugabe mu lutalo lwabwe,<br /> Ggwe wabamulisa mu nzikiza <br /> Aleruuya,Aleruuya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naffe-abaserikale bo leero,<br /> Tweragenga-amasajja nga bali; <br /> Naffe tutikkirwe engule eri <br /> Aleruuya,Aleruuya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fenna tussekimu wamu nabo <br /> Ffe-abakyalwana ne be watwala <br /> -Okubeera naawe mu kitiibwa kyo <br /> Aleruuya,Aleruuya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Era oluusi bwe tukoowa-ennyo <br /> Tuguma-omwoyo nga tuwulira <br /> -Oluvimba lwabwe olw'olujaguza.<br /> Aleruuya, Aleruuya!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Obudde bunaatera-oktuuka,<br /> Ne tuwummulira wamu nabo <br /> Mu nnimiro z'okwesiima ziri.<br /> Aleruuya,Aleruuya!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Laba! ate obudde bwe bukya<br /> Abatukuvu ne bazuukira <br /> Kabaka-ow'ekitiibwa ng'atuuse.<br /> Aleruuya,Aleruuya!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bava mu nkuzi zonna ez'ensi,<br /> Nga bayimba okutendereza <br /> Katonda oli-omu mu Busatu<br /> Aleruuya,Aleruuya!</lines>
+    </verse>
+  </lyrics>
+</song>

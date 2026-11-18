@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ETTENDO LINGI MU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="185" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-ETTENDO lingi mu ggulu,<br />Basuuta nnyo Katonda;<br />Olw'ekiragiro kyo<br />Byonna lwe byatondebwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Oluyimba-olukulu-ennyo <br />Lwayimbibwa mu ttumbi <br />-Olwa Kabaka-omuwere <br />Lwe yazaalibwa mu nsi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eggulu era n'ensi <br />Lwe birisangulibwa,<br />Walirabika-ebiggya,<br />Balimutendereza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ffe fekka tusirike <br />Okutuusa lw'alijja?<br />Nedda,Ekkanisa ye <br />Ejja kutendereza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abatukuvu bonna,<br />Balijaguza ddala;<br />Batandikira mu nsi <br />Ne mu ggulu basuuta.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ennyimba ez'ettendo,<br />Zikusuute,Kitaffe;<br />Naawe Yesu Omwana,<br />N'Omwoyo-Omutukuvu.</lines>
+    </verse>
+  </lyrics>
+</song>

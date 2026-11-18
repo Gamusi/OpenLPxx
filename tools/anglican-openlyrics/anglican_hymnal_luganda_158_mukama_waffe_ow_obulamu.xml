@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA WAFFE-OW'OBULAMU!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="158" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA waffe-ow'obulamu!<br />Kigambo kya Katonda ggwe!<br />Kabaka Yesu Mukama!<br />Ensi n'eggulu bisuuta,<br />Biyimbira waggulu nti Ozaana!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eggye lyonna-ery'omu ggulu<br />-Abatukuvu ab'omu nsi,<br />Abaatusooka-okwebaka,<br />Naffe-abakyaliwo leero,<br />Ffe tukutendereza nti Ozaana!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mulokozi ggwe-atukuuma <br />Beera naffe nga tusinza,<br />Nga bwe wasuubiza-ababo <br />Nga tonnalinya mu ggulu:<br />-Otubeere nga tusinza nti Ozaana!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omwoyo wo-Omutukuvu <br />Abeere mu myoyo gyaffe,<br />Gifaanane ga yeekaalu <br />Esaanidde-ekitiibwa kyo,<br />Mwe tunaasinzizanga nti Ozaana!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwe tutyo bwe tulituuka <br />N'essanyu lingi mu ggulu,<br />Ffe-endiga ze watukuza <br />Ng'omaze okutugula,<br />Ne tulyoka twebaza nti Ozaana!</lines>
+    </verse>
+  </lyrics>
+</song>

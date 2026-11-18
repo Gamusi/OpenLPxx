@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BAMALAYIKA BAYIMBA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="139" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BAMALAYIKA bayimba<br />Batendereza<br />Nga bakuba ennanga zaabwe,<br />Tebawummula;<br />Eggye lyonna-ery'omu ggulu<br />Bayimbira Katonda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Batendereza Mukama <br />Eyo mu ggulu<br />Abatuukirivu bonna <br />Abaawangula <br />Eyo bonna banaazibwa <br />Bonna batuukirivu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singa-abantu tumwagala <br />Eyatutonda <br />Tetwandyeyonoonye nebyo <br />Ebitagasa<br />Ka tubirekere ddala <br />Anti -ebyo bya Ssetaani!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu bifo-ebyo by'omu ggulu <br />Gye tulibeera <br />Nga tumutendereza-oyo <br />Eyatwagala;<br />Nga fenna tumuyimbira <br />N'essanyu eringi-ennyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oweebwe nnyo ekitiibwa <br />Ayi ggwe Kitaffe;<br />Naawe-Omwana,naawe-Omwoyo <br />Omutukuvu;<br />Obusatu -Obutukuvu <br />Otenderezebwenga.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NGA TEBUNNABA KUZIBA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="17" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NGA tebunnaba kuziba,<br />Tusaba-Omutonzi w'ensi<br />Olw'ekisa kyo ekingi<br />Ba Mukuumi waffe leero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Era bwe tuba twebase<br />Ebitutiisa biggyeewo;<br />Tuwanguze-obubi bwonna<br />Tubeerenga balongoofu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe Kitaffe tukusaba,<br />Ku bwa Yesu Omwana wo<br />Naawe Mwoyo-Omutukuvu,<br />Ggwe-afuga-emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

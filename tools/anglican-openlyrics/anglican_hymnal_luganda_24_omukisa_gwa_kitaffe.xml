@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUKISA GWA KITAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="24" />
+    </songbooks>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMUKISA gwa Kitaffe,<br />N'ogw'Omwana we Yesu<br />N'ogw'Omwoyo-Omutukuvu.<br />Gukke ku myoyo gyaffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ffe tubeere fenna wamu,<br />Nga tujjudde-okwagala,<br />Bwe tusseekimu n'essanyu<br />N'emirembe bulijjo.</lines>
+    </verse>
+  </lyrics>
+</song>

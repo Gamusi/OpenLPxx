@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,MWANA W'OMUNTU!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="182" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,Mwana w'omuntu!<br />Ggwe-,eyajja mu nsi muno<br />N'ofuuka-omwana-omuto,<br />Ku lw'okwagala-okungi.<br />Kka,-Omulokozi wange!<br />Tuula mu mwoyo gwange.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu,Omwana gw'endiga! <br />Ggwe-eyagumiikiriza,<br />-Ennaku ezitalabwa <br />N'obulumi n'okufa.<br />Kka,-Omulokozi wange!<br />Tuula mu mwoyo gwange.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe Mukama w'obulamu!<br />Ggwe-eyawangula-okufa,<br />Ggwe-eyalinnya muggulu <br />-Olw'obuyinza bwo bwokka,<br />Kka,-Omulokozi wange!<br />Tuula mu mwoyo gwange.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katonda-era Omuntu!<br />Ggwe Mukama-ow'eggulu <br />Tukuza-omwoyo gwange,<br />-Olw'ekisa-onjigirize.<br />Ndyoke mpeebwe-omukisa <br />Ntuule naawe mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

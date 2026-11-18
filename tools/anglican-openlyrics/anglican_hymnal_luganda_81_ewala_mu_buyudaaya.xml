@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EWALA MU BUYUDAAYA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="81" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EWALA mu Buyudaaya,<br />Eriyo-olusozi,<br />Kwe yatufiirira Yesu,<br />Ye Mukama waffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ffe-abantu be tetumanyi <br />Ennaku bwe zaali,<br />Ze yalaba ku lw'abantu,<br />-Omulokozi Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yafa ffe tufune-eddembe <br />Atuwe n'obulamu:<br />Yafa atutuuse-ewuwe <br />Gy'atudde mu ggulu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tewali-eyandiyinzizza <br />Kulokola munne,<br />Newankubadde ye yekka <br />Kusinga-omusango.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mukama y'ayinza yekka <br />Okutuggulira <br />Oluggi olw'omu ggulu,<br />N'okutuyingiza.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tusaanidde ffe twagale<br />Mukama waffe-oyo;<br />Tweweeyo-okumuweereza <br />Eyatufiirira</lines>
+    </verse>
+  </lyrics>
+</song>

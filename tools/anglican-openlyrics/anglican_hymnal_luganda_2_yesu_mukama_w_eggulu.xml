@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU MUKAMA W'EGGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="2" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU Mukama w'eggulu,<br />Ggwe kitiibwa kya Kitaffe,<br />Ggwe musana gw'emirembe,<br />Ogumalawo-enzikiza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jjangu Njuba y'omu ggulu,<br />Tumulise n'ekisa kyo;<br />Omwoyo wo-Omutukuvu,<br />Atuule mu myoyo gyaffe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyweza-okukkiriza mu ffe,<br />Ofuge-emibiri gyaffe,<br />Tuwe-emirembe n'essanyu,<br />Bukuusa bwonna buggweewo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Otukuze-essanyu lyange,<br />Mu lunaku lwaffe luno;<br />Tuwe fenna-okukwebaza<br />Obudde nga buwungedde.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tukusaba kino kyokka,<br />Otuwe-okukujjukira;<br />Buli nkya na buli kiro,<br />Tukusuute Mulokozi.</lines>
+    </verse>
+  </lyrics>
+</song>

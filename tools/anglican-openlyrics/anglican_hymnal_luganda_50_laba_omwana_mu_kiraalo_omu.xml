@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LABA OMWANA MU KIRAALO-OMU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="50" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LABA Omwana mu kiraalo-omu;<br />Ye Kabaka wa bakabaka;<br />Talina kifo-okuzaalirwamu<br />Naye yeetikka-ekibi byaffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omwana oyo Omutukuvu <br />Omulokozi yeetoowaza <br />Okubeera mu nsi nga muwombeefu;<br />Tulimulaba mu kitiibwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Banabbi bangi abaamulanga <br />Ne bamalayika baayimba,<br />Bo ne bagamba nti azaaliddwa,<br />Asaanidde nnyo ekitiibwa</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YIMBA GGWE MWOYO GWANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="412" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJJE mwenna-abalonde,muyimbe nnyo leero<br />Mujje tusinze Yesu eyatulokola;<br />Mumwebaze yekka,Omulokozi w'ensi;<br />Eyajja gye tuli mu kisa kye ekingi:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yimba ggwe mwoyo gwange,<br />Yimba nnyo n'eddoboozi;(ggwe)<br />Tendereza Yesu,Omulokozi wange;<br />Yimba ggwe mwoyo gwange,<br />Yimba nnyo n'eddoboozi;(ggwe)<br />Osanyukenga bulijjo olw'obulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abantu be,mujje n'emyoyo-emiwombeefu,<br />Nga mwebaza byonna n'ennyimba ez'ettendo;<br />Fenna ka tweweeyo,tumusinze ye yekka,<br />Kubanga ye Yesu,Omulokozi waffe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eyajja gye tuli mu kisa kye ekingi:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yimba ggwe mwoyo gwange,<br />Yimba nnyo n'eddoboozi;(ggwe)<br />Tendereza Yesu,Omulokozi wange;<br />Yimba ggwe mwoyo gwange,<br />Yimba nnyo n'eddoboozi;(ggwe)<br />Osanyukenga bulijjo olw'obulokozi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ka twebaze-oluyimba lwa bamalayika:<br />Nga bamulanga Yesu nti Azze gye tuli;<br />Twegatte mu kuyimba ku nsi wamu nabo,<br />Nga tuli ne Yesu,Omulokozi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Eyajja gye tuli mu kisa kye ekingi:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yimba ggwe mwoyo gwange,<br />Yimba nnyo n'eddoboozi;(ggwe)<br />Tendereza Yesu,Omulokozi wange;<br />Yimba ggwe mwoyo gwange,<br />Yimba nnyo n'eddoboozi;(ggwe)<br />Osanyukenga bulijjo olw'obulokozi.</lines>
+    </verse>
+  </lyrics>
+</song>

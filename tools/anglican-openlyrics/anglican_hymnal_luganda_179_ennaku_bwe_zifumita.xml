@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENNAKU BWE ZIFUMITA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="179" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENNAKU bwe zifumita<br />Omwoyo gw'omuntu<br />Omu,eyafumitibwa<br />Ye-anyita ekiwundu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omwoyo bwe gunyolwa-ennyo,<br />-Amaziga ne gajja,<br />Ayinza-omu,eyanyolwa,<br />Okugusanyusa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Ebibi bwe tubijjukira <br />Ebitanaazika;<br />Omugga gumu-,ogw'omusaayi,<br />Guyinza-okunaaza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ogwa Yesu gwe gunaaza <br />Gunaaliza ddala;<br />Era y'ayinza-okunyiga <br />N'okutusanyusa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kale,otusanyusa Yesu <br />-Otunyige-ebiwundu <br />-Otunaaze n'omusaayi gwo <br />Ogunaaza gwokka.</lines>
+    </verse>
+  </lyrics>
+</song>

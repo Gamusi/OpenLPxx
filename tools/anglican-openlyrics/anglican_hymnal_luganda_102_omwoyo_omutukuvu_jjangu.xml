@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWOYO OMUTUKUVU JJANGU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="102" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWOYO Omutukuvu jjangu,<br />Otusemberere fenna<br />Oyakire mu mitima gyaffe<br />Otuwe ebirabo byo byonna</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tufukeeko-okuva mu ggulu <br />Omuliro ogw'okwagala.<br />Tuzzemu obulamu mu nda yaffe;<br />Ggwe wekka-Omusanyusa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jjangu ozibulire ddala <br />Amaaso gaffe agatalaba,<br />Otukuze ffe aboonoonefu <br />N'ekisa kyo ekitakoma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Owangule abalabe baffe,<br />Otuwe ffe emirembe gyo, <br />Bw'oba otukulembera <br />Teri kibi kitutuukako.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tulage Kitaffe n'Omwana <br />Wamu naawe Katonda omu;<br />Tutendereze obulungi bwo <br />Tutendereze obuluni bwo <br />Leero n'emirembe gyonna</lines>
+    </verse>
+  </lyrics>
+</song>

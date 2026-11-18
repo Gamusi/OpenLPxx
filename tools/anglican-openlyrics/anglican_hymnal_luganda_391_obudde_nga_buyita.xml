@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OBUDDE NGA BUYITA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="391" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OBUDDE nga buyita,<br />Emmambya ng'esaze!<br />-Omusana gwa Katonda<br />Gunjakira leero<br />Enzikiza-ekutte-eno,<br />Naye bukedde eri,<br />-Ekitiibwa gye kibeera:<br />Eyo mu ggulu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Katonda yatuyiza<br />-Okwagala bwe kuli <br />Okw'ensi nga kutono,<br />Okw'eri kungi nnyo!<br />Ekisa kye ky'atuwa,<br />Mu kifo kye ky'atuwa,<br />-Ekitiibwa gye kibeera<br />Eyo mu ggulu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Ekigambo byange byonna,<br />Ye-abinoongoseza,<br />Era ne nnaku zange,<br />Ziva mu kwagala,<br />Kyenva mutendereza<br />Eyankulembera<br />Ekitiibwa gye kibeera<br />Eyo mu ggulu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ndyebakira mu Yesu,<br />Era ndizuukira,<br />Ne mbeera-awamu naye<br />Emirembe gyonna,<br />Nnayimbanga-amatendo<br />G'oyo eyampita,<br />-Ekitiibwa gye kibeera<br />Eyo mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

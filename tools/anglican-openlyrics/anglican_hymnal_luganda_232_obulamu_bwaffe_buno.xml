@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OBULAMU BWAFFE BUNO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="232" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-OBULAMU bwaffe buno<br />Bujjudde nnyo-ennaku;<br />Naye obw'ensi eyo<br />Bwa ssanyu jjereere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>N'entalo-eza kaakano <br />Za ntiisa bulijjo,<br />-Omulabe waffe-ow'edda<br />Wa maanyi mangi nnyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye Omubeezi waffe<br />Asingira ddala;<br />Era-abamwesiga ye<br />Be baliwangula.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fenna kyetunaavanga <br />Tunyiikira nnyini;<br />Kubanga tumanyi nti:<br />Ye-alituwummuza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>-Ekiseera si kinene <br />Ekirimu-akabi,<br />Ne tulyoka tutuuka <br />Awali Katonda.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Obudde bwe bulikya <br />Enzikiza n'eggwa,<br />Yesu Musana gwaffe<br />Aliba-atwakidde</lines>
+    </verse>
+  </lyrics>
+</song>

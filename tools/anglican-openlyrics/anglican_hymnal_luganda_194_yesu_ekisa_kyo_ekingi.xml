@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU EKISA KYO-EKINGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="194" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU ekisa kyo-ekingi<br />Kinjiike ku mwoyo,<br />Guleme-okukyama nate<br />Gunywerere ku ggwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omuliro gwa Katonda <br />Gwake mu nze leero;<br />Gwokye-amasengere gonna,<br />Guntukuze-omwoyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eyakka-edda ku baddu bo,<br />Omwoyo,kka ku nze;<br />Omwana wo nkukoowoola,<br />Ebyonoono-obyokye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omuliro-ogutukuza,<br />Gunjiike ku mwoyo:<br />Leeta-omnusana n'obulamu,<br />Byake bintukuze.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ne ndyoka nfuna-amaayi go,<br />Obutasirika;<br />-Obugagga bwange,Mukama,<br />-Obulamu bwange-era.</lines>
+    </verse>
+  </lyrics>
+</song>

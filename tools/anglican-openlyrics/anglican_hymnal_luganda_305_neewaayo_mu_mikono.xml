@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NEEWAAYO MU MIKONO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="305" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NEEWAAYO mu mikono<br />Gya Yesu kaakano;<br />Essanyu lyo linkutte,<br />Sirema kwewaayo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omwana wa Katonda,<br />Yesu anjagala;<br />Neewaayo gy'oli wekka,<br />N'ebyange-era byonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mukama wange,jjangu<br />Fuga-omwoyo guno;<br />Tegukyali ku bwange;<br />Gugwo wekka leero.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kabaka wange-ontwale <br />Ne bye nnina byonna;<br />Onkuume n'ekisa kyo,<br />Mbeerenga mwesigwa.</lines>
+    </verse>
+  </lyrics>
+</song>

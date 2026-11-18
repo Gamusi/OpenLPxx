@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KINO KYA KTALO NNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="47" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KINO kya kitalo nnyo<br />Ekitalabwanga;<br />Emirembe gizze nno<br />Mu nsi yaffe muno.<br />Ka tuyimbe nate,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ekitiibwa eri Katonda <br />N'emirembe mu nsi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bayimbira Kabaka<br />Mukama w'eggulu; <br />Ensozi n'ebiwonvu <br />Mwenna musanyuke: <br />Fenna ka tuyimbe,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ekitiibwa eri Katonda <br />N'emirembe mu nsi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Entiisa y'omulabe <br />Leero tekyaliwo; <br />Yesu Mukama waffe <br />Azaaliddwa leero: <br />Tuyimbe n'essanyu,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ekitiibwa eri Katonda <br />N'emirembe mu nsi.</lines>
+    </verse>
+  </lyrics>
+</song>

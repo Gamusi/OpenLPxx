@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWANA GW'ENDIGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="387" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWANA gw'endiga,<br />Gwe-eyatufiirira,<br />Twesigenga okufa kwo okw'omuwendo;<br />-Omulokozi waffe,<br />Ne mu mibiriizi zo,<br />-Enfumite mwe muli-obuddukiro waffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omwana gw'endiga<br />Mu musaayi gwo-omwo,<br />Mwe tuteekera ddala-emitima gyaffe,<br />-Otutukuzenga <br />Tube balongoofu,<br />Mu nsi-efuukafuuka-otuwanirirenga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omwana gw'endiga <br />Ggwe eyatufiirira <br />Wazuukira n'oddira mu kitiibwa kyo<br />Ggwe mmere-ey'obulamu <br />-Otuliisenga fenna,<br />Obeerenga mu ffe,naffe tube mu ggwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omwana gw'endiga<br />Ggwe-osaanide wekka,<br />Ku Nnamulondo ya Katonda Kitaffe <br />Okuva-edda n'edda,<br />Wabeeranga bumu<br />N'Omwoyo Omutukuvu bwe Busatu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENSI ZONNA ZIYIMBE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="388" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENSI zonna ziyimbe<br />Okumanyisa<br />Obukama bwa Yesu,<br />N'obulungi bwe<br />Buli bantu bayimbe<br />Ennyimba-ez'ettendo lye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ensi zonna ziyimbe,<br />Mu buvanjuba,<br />Mwe muviira bulijjo <br />Enjuba yaffe,<br />Amatendo ga Yesu <br />Gabune mu nsi zonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ensi zonna ziyimbe,<br />Mu nsalo zaazo,<br />Mu bizinga wala nnyo,<br />Ne mu bibira;<br />Mu musana n'empewo,<br />Munaalanga-amatendo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ensi zonna ziyimbe <br />Yesu Kabaka.<br />Wonna wonna wabune,<br />Ettutumu lye:<br />Tumusinze ye yekka<br />Ow'emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

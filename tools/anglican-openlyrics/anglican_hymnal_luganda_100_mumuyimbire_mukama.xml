@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUMUYIMBIRE MUKAMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="100" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUMUYIMBIRE Mukama<br />Mmwe-abantu bonna mu nsi,<br />Olw'obuwanguzi-obungi<br />Yesu bwe yazuukira:<br />Nammwe mwenna-ab'omu ggulu<br />Muyimbe nga mumulinda;<br />Ajja n'obuwanguzi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ku lwaffe yabonaabona,<br />Era eyo mu ntaana <br />Omulabe yawangulwa;<br />Naffe twasumululwa,<br />Tetukyali baddu nate:<br />Erinnya lye lyebazibwe,<br />Olw'obuwanguzi bwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otenderezebwenga ggwe <br />Olw'obulokozi bwo;<br />Era naawe.Ayi Kitaffe,<br />Ogwanidde-ekitiibwa;<br />Era naawe,Ayi Omwoyo,<br />Ka tukutenderezenga,<br />Katonda omu wekka</lines>
+    </verse>
+  </lyrics>
+</song>

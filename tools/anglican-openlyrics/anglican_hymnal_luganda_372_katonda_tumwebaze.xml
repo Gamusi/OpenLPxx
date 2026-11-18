@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA TUMWEBAZE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="372" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA tumwebaze<br />N'ennyimba-ez'amatendo<br />Ku lw'ekisa ky(e) ekingi,<br />Ekitajjulukuka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tutende-era-amaanyi ge<br />Agaatonda-enjuba-eyo;<br />Twebaz(e) ekis(a) ekingi,<br />Ekitajjulukuka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye yatonda-omwezi<br />Ogwaka nga buzibye.<br />Twebaz(e) ekis(a) ekingi,<br />Ekitajjulukuka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naye yatuwa-enkuba <br />Okumerusa ensigo;<br />Twebaz(e) ekis(a) ekingi,<br />Ekitajjulukuka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Era-olw'okukungula<br />Ne byonna bye tulina;<br />Twebaz(e) ekis(a) ekingi,<br />Ekitajjulukuka.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Era okusinga byonna<br />Olw'okufa kwa Yesu;<br />Twebaz(e) ekis(a) ekingi,<br />Ekitajjulukuka.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ebitonde bye byonna <br />Bimuleetera-ettendo;<br />Twebaz(e) ekis(a) ekingi,<br />Ekitajjulukuka.</lines>
+    </verse>
+  </lyrics>
+</song>

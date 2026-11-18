@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TEWALI MU NSI MUNO MULONGOOFU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="250" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TEWALI mu nsi muno mulongoofu<br />So nga tewaliba mu ggulu,<br />Wabula abantu be yalongoosa<br />N'omusaayi-ogwa Yesu yekka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Munaabe mu musaa(yi),ogunaaza mmwe buli kibi;<br />Mmwe temulitukul(a) awatali ye;<br />Munaabe mu musaa(yi) gwa Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omusaayi-gwe Yesu gubanaaze nnyo<br />Abagwagwa ab'omu mwoyo:<br />Kale temulwa,naye muyanguwe<br />Okunaaza emyoyo gyammwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Munaabe mu musaa(yi),ogunaaza mmwe buli kibi;<br />Mmwe temulitukul(a) awatali ye;<br />Munaabe mu musaa(yi) gwa Yesu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bw'alikomawo nate-Omulokozi<br />N'amaanyi n'ekitiibwa kingi,<br />Abatannanaaba baliyingira <br />Mu mbaga y'obugole batya?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Munaabe mu musaa(yi),ogunaaza mmwe buli kibi;<br />Mmwe temulitukul(a) awatali ye;<br />Munaabe mu musaa(yi) gwa Yesu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Balitya-okulabika mu maaso ge <br />Okutya kuliba kwereere:<br />Naye leero muyinza-okulokoka<br />Mu busungu bwe obulijja.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Munaabe mu musaa(yi),ogunaaza mmwe buli kibi;<br />Mmwe temulitukul(a) awatali ye;<br />Munaabe mu musaa(yi) gwa Yesu.</lines>
+    </verse>
+  </lyrics>
+</song>

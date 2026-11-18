@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MULOKOZI WAFFE GWE TWAGALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="19" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MULOKOZI waffe gwe twagala,<br />Tuyimiridde okusuuta ggwe:<br />Tukwegayiridde tusiibule,<br />N'emirembe,nga tufukamidde.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuwerekere n'emirembe gyo,<br />Tubeere naawe,nga bwe twakedde;<br />Tukuumenga,tuleme-okwonoona,<br />Ffe abasabidde mu nnyumba yo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuwe-emirembe,Mukama waffe<br />Mu budde bw'ekiro-otumulise:<br />Tukuume lwa kisa ffe-abaana bo:<br />Enzikiza gwe musana gy'oli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tuwe-emirembe buli lunaku<br />Lwe tuteganyizibwa eby'ensi;<br />Gitujjuze,era bwe tulifa <br />Tuwe-emirembe egitakoma.</lines>
+    </verse>
+  </lyrics>
+</song>

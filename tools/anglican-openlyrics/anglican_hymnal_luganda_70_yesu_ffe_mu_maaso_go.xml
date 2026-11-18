@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU FFE MU MAASO GO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="70" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU ffe mu maaso go<br />Tufukamidde leero:<br />Twatula-ebibi bingi<br />Amaziga ne gajja<br />Ku lw'okwagala-okungi<br />Okwakuleeta mu nsi,<br />Ng'oyima waggulu-ennyo<br />Yesu! otuwulire.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ku lw'ekisa kyo-ekingi<br />Ekyakufuula-omwana,<br />N'obuzaaliranwa bwo <br />Bwe wafuuka omuntu:<br />Ku lw'okukemebwa kwo <br />Okw'entiisa mu ddungu,<br />Ng'oyima waggulu-ennyo,<br />Yesu! otuwulire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ku lw'okusaasira kwo <br />Bwe wanyolwa omwoyo <br />Ku ntaana ya Laazaalo,<br />Ne ku Yerusaalemi! <br />Ku lw'entuuyo-ez'omusaayi <br />N'Okusaba kwo-okungi,<br />Ngo'yima waggulu-ennyo,<br />Yesu! otuwulire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ku lw'okulumwa-okungi,<br />Ku lw'okusaba-okungi;<br />Ku lw'engule ya maggwa,<br />Era n'emisumaali,<br />N'effumu mu mbiriizi,<br />N'okukaaba-okw'entiisa,<br />Wawaayo-obulamu bwo;<br />Yesu! otuwulire.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI YESU GGWE ATUDDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="98" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Yesu ggwe atudde<br />Mu kitiibwa-ekingi,<br />-Omulimu nga guwedde<br />Gwe watukolere.<br />Tukwesiga ggwe wekka<br />Nga tukyatambula<br />Mu nsi muno.ggwe mwe wajja<br />Okutununula.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tumanyi watugula,<br />Era watunaaza;<br />Tumanyi n'ekisa kyo <br />Kye kitutukuza.<br />Ewuwo mu ggulu <br />Okubeera bakabona <br />N'okukuweereza.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu okwagala kwo <br />Tekukomezeka;<br />Tekuliiko kusooka,<br />So tekuliggwaawo;<br />Ebirowoozo byaffe <br />Biremwa-okugera <br />Ekisa kyo nga bwe kiri <br />Ekitenkanika.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu,okwagala kwo <br />Tukwegayiridde,<br />Kutweweeseeyo gy'oli <br />Leero ne bulijjo <br />Tunooye kino kyokka,<br />Tunyiikire nnyini <br />-Okugulumiza erinnya <br />Ery'Omulokozi</lines>
+    </verse>
+  </lyrics>
+</song>

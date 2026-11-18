@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YASULA MU NTAANA, MUKAMA WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="90" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YASULA mu ntaana,Mukama waffe<br />Ng'alinda obudde,-Omulokozi.<br />Yazuukira mu bafu,ng'abawangudd(e) abalabe<br />Yava mu magombe ng'omwanguzi<br />N'abeer(a) omulam(u) emirembe gyonna<br />Yeebale! Yeebale!<br />Yeebale! yazuukira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baakumira busa,Mukama waffe <br />Banywereza busa, -Omulokozi.<br />Yazuukira mu bafu,ng'abawangudd(e) abalabe <br />Yava mu magombe ng'omwanguzi <br />N'abeer(a) omulam(u) emirembe gyonna<br />Yeebale! Yeebale!<br />Yeebale! yazuukira.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Okufa tekwayinza,Mukama waffe <br />Yamenya-ebisiba,-Omulokozi<br />Yazuukira mu bafu,ng'abawangudd(e) abalabe <br />Yava mu magombe ng'omwanguzi <br />N'abeer(a) omulam(u) emirembe gyonna<br />Yeebale! Yeebale!<br />Yeebale! yazuukira.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AI MUKAMA MUSUMBA,OTUWE OLWEKISAKYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="390" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ai Mukama Musumba,Otuwe olwekisakyo<br />Ekinatulisanga Mumyoyo gyafe kakano:<br />Fe-abatambuze tukoye,Kyetuvude tuja gyoli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twagala osirise Akakwano akabera<br />Munda mu myoyo gyafe,Olyoke oyogerenga<br />Nafe,tudemu amanyi Nga tuwulide byogambye</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwetutyo bwetuliba Nemirembe gya Katonda<br />Eginatoloza Kakano nenaku zona:<br />Ai Mukama tukwebaza Olwokwagalakwo kuno.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,TOTEGEEREKEKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="155" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,totegeerekeka,<br />Ogulumizibwa,<br />Ekitiibwa ky'amaaso go,<br />Kibuna-ensi zonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Katonda-ow'olubeerera,<br />-Ow'obuntu bwaffe-era,<br />Bonna bakutendereza,<br />-Emisana n'ekiro.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Okukulaba n'amaaso,<br />Kusinga-eby'omu nsi,<br />-Amagezi go n'ekisa kyo,<br />Tebikomezrka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katonda wange nga nkutya <br />Nga neewombeese nnyo:<br />Era nkusinza n'omwoyo,<br />Nga neetereereka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amaanyi go n'ekisa kyo,<br />Byombi bya tttendo nnyo:<br />Naye weefeebya-okunsaba <br />Okwagalanga ggwe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tewali akufaanana,<br />-Okuzibiikiriza,<br />-Obukyamu bwange n'obubi,<br />Ogumiikiriza.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bw'olidda ggwe mu nsi muno <br />-Okusinzibwa bonna <br />Naakwebzanga-ekisa kyo <br />Emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

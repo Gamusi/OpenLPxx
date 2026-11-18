@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU YE YAVA MU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="160" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU ye yava mu ggulu,<br />N'akka-okufiirira-abantu;<br />Era-ekitabp kyogera<br />Bw'asaasira ffe-aboonoonyi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yatambulanga bulijjo,<br />N'avumulanga-abalwala;<br />Yalongoosanga bangi nnyo,<br />N'azuukizanga abafu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yabuuliranga bulinjo <br />Enjiri-ey'obulokozi;<br />Era kubanga wa kisa,<br />N'asembezanga abaana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naye oyo-eyakolanga <br />-Obulungi bwonna-obw'ekisa<br />Yabonyaabonyezebwa nnyo,<br />N'awanikibwa ku muti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bw'atyo bwe yafa, yafuuka <br />Omuntu n'atufiirira:<br />Ffe tulyoke tusonyiyibwe <br />Ebyonoono byaffe byonna.</lines>
+    </verse>
+  </lyrics>
+</song>

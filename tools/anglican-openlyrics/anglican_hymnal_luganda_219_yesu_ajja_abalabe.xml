@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU AJJA! ABALABE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="219" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU ajja! Abalabe<br />Tulibagoba;<br />Yesu Mulokozi waffe,<br />Alitujuna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu agambaMmwe mugume</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nze njija mangu:<br />Tumuddemu Tunaalwana,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Olw'ekisa kyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Laba,eggye-erya Ssetaani,<br />Liba lingi nnyo;<br />Naye Yesu ali wamu,<br />Naffe bulijjo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu agambaMmwe mugume</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nze njija mangu:<br />Tumuddemu Tunaalwana,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Olw'ekisa kyo.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Amafamu ga Ssetaani,<br />Kwe kusoomoza:<br />Gonna ganaamenyebwanga,<br />Naye-aligobwa.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Yesu agambaMmwe mugume</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Nze njija mangu:<br />Tumuddemu Tunaalwana,</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Olw'ekisa kyo.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Ebigambo bya Katonda <br />Bitugumya nnyo;<br />Bye biyinza okugoba<br />Abalabe be.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Yesu agambaMmwe mugume</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Nze njija mangu:<br />Tumuddemu Tunaalwana,</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Olw'ekisa kyo.</lines>
+    </verse>
+  </lyrics>
+</song>

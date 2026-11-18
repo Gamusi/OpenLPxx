@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>JJANGU GGWE OMUNUNUZI WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="26" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JJANGU ggwe Omununuzi waffe,<br />Ggwe Emmanueri,Kabaka waffe;<br />Onunule Abaisirayiri,<br />Abaakyamira-edda ewala-ennyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tusanyuke! Yesu(O)mulokozi<br />Alikomawo mu nsi gye tuli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jjangu,jjangu,Omwana wa Dawudi,<br />Olokole ffe-abali mu kibi;<br />Tuwonye mu mikono gy'omubi,<br />Eyatujooga mu bukuusa bwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tusanyuke! Yesu (O)mulokozi <br />Alikomawo mu nsi gye tuli</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jjangu ggwe Musana-ogusanyusa;<br />Oyingire mu mitima gyaffe,<br />Otumalemu ekizikiza<br />N'ekisiikirize eky'okufa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tusanyuke! Yesu (O)mulokozi<br />Alikomawo mu nsi gye tuli.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jjangu, Omukulembeze waffe,<br />Tulage-ekkubo-erituuka-ewuwo,<br />Tuggulirewo tutuuke gy'oli<br />Otuzibire-ekkubo-ery'okufa.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tusanyuke! Yesu (O)mulokozi <br />Alikomawo mu nsi gye tuli.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Jjangu,Mukama ow'obuyinza,<br />Eyawa-abantu bo amateeka,<br />Mu kitiibwa, mu biseera-eby'edda.<br />Ng'oyima mu lusozi Sinaayi</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tusanyuke! Yesu (O)mulokozi<br />Alikomawo mu nsi gye tuli</lines>
+    </verse>
+  </lyrics>
+</song>

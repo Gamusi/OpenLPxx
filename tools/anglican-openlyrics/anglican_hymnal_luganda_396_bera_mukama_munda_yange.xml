@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BERA,MUKAMA,MUNDA YANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="396" />
+    </songbooks>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bera,Mukama,munda yange,-Omutima ogutukuze;<br />Onsembeze wagulu gyoli,Ne wansi ompanirire;<br />Era-onkulembere,ai Kristo,Ate-emabega onsembe;<br />Nemenga okuda enyuma,Nebuli luda-onkumenga.</lines>
+    </verse>
+  </lyrics>
+</song>

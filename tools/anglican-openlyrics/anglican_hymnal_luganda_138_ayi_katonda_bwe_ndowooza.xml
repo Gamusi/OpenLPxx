@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI KATONDA BWE NDOWOOZA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="138" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Katonda bwe ndowooza<br />Ku bingi bye wampa,<br />-Emmeeme yange ne yeewuunya,<br />Era n'ekutenda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne bwe nali nkyatondebwa,<br />Essanyu lyo-eringi <br />Walissa mu mwoyo gwange,<br />Ng'olimpa nze buwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Omokono gwo gunnywezenga <br />Nga bwe nkyali-omuto,<br />Mpite mu buzibu bwonna,<br />Ntuuke mu bukulu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obulamu bwange mu nsi <br />Leero mbukwasa ggwe,<br />Era nga mmaze okufa <br />Ntuule-eyo mu ggulu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ggwe,Ayi ow'olubeerera,<br />Bwe ntyo nkuyimbira;<br />Kuba-ekitiibwa kyo kingi <br />Ekitatendeka</lines>
+    </verse>
+  </lyrics>
+</song>

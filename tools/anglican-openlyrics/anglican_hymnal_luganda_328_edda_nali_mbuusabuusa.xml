@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EDDA NALI MBUUSABUUSA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="328" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EDDA nali mbuusabuusa,<br />Mu bigambo bya Yesu;<br />-Oluusi ssanyu,-oluusi nnaku,<br />Oluusi kukanakana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emirembe gya Yesu <br />Gye ginsanyusa leero:<br />Era ye wa maanyi nnyo-<br />Mwesize ye bwesizi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yampita okusembera,<br />N'okuleka okutya;<br />Bwe namala nze-okwewaayo<br />Emirembe n'agimpa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emirembe gya Yesu <br />Gye ginsanyusa leero:<br />Era ye wa maanyi nnyo-<br />Mwesize ye bwesizi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Leero sikyabuusabuusa <br />-Okwesiga ye kumala;<br />Yesu antwala bulungi,<br />Era-ankuuma mu bubi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Emirembe gya Yesu <br />Gye ginsanyusa leero:<br />Era ye wa maanyi nnyo-<br />Mwesize ye bwesizi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bulijjo ankuuma-omwoyo <br />Mbeerenga wa maanyi nnyo;<br />Era ne mmutendereza,<br />Ye Mulokozi nnyini.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Emirembe gya Yesu <br />Gye ginsanyusa leero:<br />Era ye wa maanyi nnyo-<br />Mwesize ye bwesizi.</lines>
+    </verse>
+  </lyrics>
+</song>

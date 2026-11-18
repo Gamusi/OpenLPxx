@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KU LWANGE NE KU LW'ENJIRI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="206" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KU lwange ne ku lw'enjiri,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mugende baana bange:<br />Ne baddamu Ka tugende;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ekitiibwa kibe gy'oli,<br />Yajja-okufiirira abantu,<br />Kitaawe ng'amutuma:<br />N'amalawo-ebibi byaffe,<br />Ggwe-okufa tokyaluma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amakondere ga Jjubiri,<br />Gavuga mu nsi zonna:<br />Gategeeza-obulokozi <br />Eri-amawanga gonna.<br />Ssetaani n'obuyinza bwe,<br />Binaatera-okuggwaawo:<br />Obwakabaka bwa Yesu,<br />Bujja,obutavaawo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kale bannange,twesibe,<br />Tulwane nnyo masajja:<br />Tuleme okugayaala,<br />Mukama waffe ajja.<br />Laba emmambya esaze,<br />Ekizikiza kidduka;<br />Kusembedde-okuwummula,<br />Tunaatera-okunnyuka.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Naye wakyasigaddeyo <br />Okulwana-ekiseera,<br />Tulyoke tugende gy'ali <br />Tugabirwe empeera.<br />Weewaawo,nze njija mangu,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Okufuga-ensi zonna.<br />Amiina tuddamu Jjangu,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mukama waffe Yesu.</lines>
+    </verse>
+  </lyrics>
+</song>

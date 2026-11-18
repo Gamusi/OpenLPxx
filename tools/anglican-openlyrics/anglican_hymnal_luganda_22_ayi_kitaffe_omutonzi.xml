@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI KITAFFE OMUTONZI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="22" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Kitaffe Omutonzi,<br />Ebitonde byo bikusinza;<br />Ku lwa Yesu Omwana wo<br />Tukuume mu kiro kino.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ayi Omwana-0mununuzi<br />Eyatuggya mu busibe,<br />Emyoyo gyaffe gikuume,<br />Tubeere mirembe mu ggwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ayi Omwoyo-ow'obuyinza <br />Atukuza Ekkanisa,<br />Mu kiro kya leero, jjangu<br />Tukuza-emitima gyaffe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Otenderezebwenga nnyo<br />Ggwe Kitaffe-era n'Omwana<br />Naawe-Omwoyo-Omutukuvu,<br />Ggwe-afuga-emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

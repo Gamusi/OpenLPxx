@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>SIYINZA N'AKATONO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="284" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>SIYINZA n'akatono<br />Yesu nga toliiwo;<br />Okulwana-akaseera<br />Mu maaso g'ekibi;<br />Abalabe bange bonna<br />Bantaayiza bubi;<br />Omulokozi wange,<br />Ombeere n'amaanyi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nze ndi munafu ddala.<br />Amaanyi gampweddemu;<br />So sirina magezi,<br />Ekkubo limbuze.<br />Beera-Omusaale wange,<br />Mu masamganzira,<br />Bw'onkwata n'omukono <br />Ndituuka-emirembe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siyinza n'akatono,<br />Kutambula nzekka;<br />Ggwe-oli Mubeezi wange <br />Mu biro-eby'ennaku:<br />Ggwe tonjabuliranga,<br />Nneme-okubungeeta,<br />Siritya kabi konna,<br />Mu ntuuko-ez'okufa</lines>
+    </verse>
+  </lyrics>
+</song>

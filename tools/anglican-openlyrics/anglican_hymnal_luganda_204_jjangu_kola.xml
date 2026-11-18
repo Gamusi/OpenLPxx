@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>JJANGU! KOLA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="204" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JJANGU! Kola.<br />Ayinza-ani leero okugayaala,<br />Ebikungulwa bingi byengedde;<br />Wulira Yesu ng'akuyita nti:<br />Jjangu1 Kola</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jjangu! Kola.<br />Kino kitiibwa kyaffe ky'atuwa:<br />Bamalayika tabakkiriza <br />Okubuulira nti-Obwakabaka bwe <br />Busembedde.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jjangu! Kola.<br />Mu nnimiro eno-eya Katonda <br />Mulimu-ebbanga ddene mwebali <br />Abantu bangi abatamanyi<br />Mulokozi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jjangu! Kola.<br />Omulabe waffe anyiikira <br />Okuggyamu-esingo-ennungi bulijjo <br />N'okusigamu ez'omu nsiko,<br />Nga twebase.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jjangu! Kola <br />Situla-ekikoligo kye-ekyangu;<br />Bw'ogumiikiriza alikuwa <br />Empeera-ennungi n'essanyu lingi,<br />Mukama wo</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU-OMUBIRI GWO Y'EMMERE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="125" />
+    </songbooks>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU-omubiri gwo y'emmere<br />Eriisa-ab'omu nsi zonna,<br />Ggwe-obulamu bw'abantu bonna,<br />Wafa ku bwaffe-,otuwonye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tunuulira-okusinda kwaffe <br />N'okukaaba kwaffe kwonna;<br />Embaga-eno-etutegeezenga <br />Nga bw'otukkusa mu njala</lines>
+    </verse>
+  </lyrics>
+</song>

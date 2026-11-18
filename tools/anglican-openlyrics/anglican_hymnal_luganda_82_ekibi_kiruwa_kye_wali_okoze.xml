@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKIBI KIRUWA KYE WALI-OKOZE?</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="82" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKIBI kiruwa kye wali-okoze?<br />Baakuvunaana ki Mukama waffe?<br />Era-omusango gwakusinga gutya?<br />-Omwagalwa waffe!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wakubibwa n'oduulirwa kitalo;<br />Ennaku ze walaba tezirabwa;<br />Awo-ne bakukomererawaggulu <br />Ku musaalaba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ensonga y'ebibonyoobonyo byo ki?<br />Lwaki walaba-ennaku-ez'ekitalo? <br />Zaakusanga lwa bibi byange byonna,<br />Mukama wange!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Okwagala kwo tekutegeerekeka:<br />Ku lw'endiga omusumba alumwa? <br />-Omwami afa mu kifo ky'omuddu we?<br />Wafa ku lwange,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ekisa kyo kimonyezza-okwegomba,<br />Kwe nali nakwo eri-eby'ensi eno:<br />Neeteeseteese okunyiikiranga,<br />Nkusanyusenga</lines>
+    </verse>
+  </lyrics>
+</song>

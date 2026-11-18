@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GYE MIREMBE NGA TULI MU BIBI?</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="329" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GYE mirembe nga tuli mu bibi?<br />Olw'omusaayi-gwa Yesu gye giri.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu miteeru tuwummule tutya?<br />Aweereza Yesu ye-awummula.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mirembe banaffe bwe babula?<br />Yesu akuuma bo naffe era.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Waali Ssetaani-omulabe waffe?<br />Yesu yamusinga n'amaanyi ge.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tetumanyi ebiritubaako;<br />Yesu,tukumanyi n'ekisa kyo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wonna wonna waabuna okufa;<br />Yesu yawangula n'azuukira.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Atuyita-eyo Yesu;ennaku <br />Ez'omu nsi mu ggulu zikoma.</lines>
+    </verse>
+  </lyrics>
+</song>

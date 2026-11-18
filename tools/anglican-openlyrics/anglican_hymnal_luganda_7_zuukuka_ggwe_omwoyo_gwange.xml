@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ZUUKUKA GGWE-OMWOYO GWANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="7" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ZUUKUKA ggwe-omwoyo gwange,<br />Busaasaanye-<br />-Era bukeeredde ddala;<br />Zuukuka ove mu tulo,<br />Waayo gy'ali<br />By'osobolera ddala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sanyukira-enjuba ye-eyo;<br />Evuddeyo,<br />Yambala amaanyi go;<br />-Obudde bw'ekiro bukedde:<br />Ye-akubedde,<br />Akuggye mu kabi-ako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>N'obulamu bwo enkeera,<br />Busanye.<br />-Okuyita mu kabi ako,<br />-Olw'olubeerwa-okuva gy'ali,<br />N'ojja-eri ye;<br />-Okusinza n'amaanyi go.</lines>
+    </verse>
+  </lyrics>
+</song>

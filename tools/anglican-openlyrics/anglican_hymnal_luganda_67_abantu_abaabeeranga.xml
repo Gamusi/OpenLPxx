@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABANTU ABAABEERANGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="67" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABANTU abaabeeranga<br />Mu nzikiza y'ensi<br />Omusana gubaakidde<br />Okugoba-okufa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watutikkula-emigugu<br />N'omenya-omujoozi,<br />Nga bwe wakola-omulabe,<br />Ku lwa Midiyaani.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anaayitibwanga-erinnya <br />Kabaka-ow'amaanyi,<br />Kabaka ow'emirembe,<br />Katonda-omwagalwa,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jjangu Enjuba-Entukuvu <br />Mulisa-ensi zonna;<br />Bonna bajjule-essanyu lyo;<br />Mu mitima gyabwe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Omwana atuzaaliddwa <br />-Omwana-atuweereddwa;<br />-Obuyinza bwe bulifuga,<br />Mu ggulu ne mu nsi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Buyinza bwe bulibuna <br />Mu mawanga gonna;<br />N'ensala ze ez'ensonga,<br />Za mirembe gyonna.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kale Yesu,jjangu leero <br />Wamu ne Kitaffe;<br />N'Omwoyo Omutukuvu <br />Tufugire ddala</lines>
+    </verse>
+  </lyrics>
+</song>

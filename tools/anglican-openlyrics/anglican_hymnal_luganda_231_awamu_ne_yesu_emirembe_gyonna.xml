@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AWAMU NE YESU,EMIREMBE GYONNA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="231" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AWAMU ne Yesu,emirembe gyonna<br />Bwe bulamu bwange nnyini,bwe yampa bwa buwa:<br />Wansi ndi muyise,Yesu nga taliiwo:<br />Buli lunaku lwe mmala,mba nsembedde gy'ali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gy'abeera Kitange,gye ndibeera nange:<br />Ne nfaanana-okulabayo,olw'okukkiriza:<br />Ne ndyoka nkaaba nnyo-okutuukayo mangu<br />Bwe busika bwabwe bonna abeesiga Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ate nga wambuze; nga-ejjiba lya Nuuwa<br />Bwe lyaddimgana ku mazzi,nange bwe mba bwe ntyo:<br />Naye-oluvannyuma,omusana gwaka<br />Bwe ntyo bwe nsanyuka nnyini, nga ndabyeyo nate</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ennaku si nnyingi,kw'alijjira Yesu<br />Okututwala ewuwe gy'atulongooseza:<br />Kyevudde njaguza,essanyu linsize <br />Yesu! awamu ne Yesu emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

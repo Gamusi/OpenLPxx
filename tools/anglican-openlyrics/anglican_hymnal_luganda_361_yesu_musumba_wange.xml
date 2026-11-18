@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU MUSUMBA WANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="361" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU Musumba wange,<br />Bulijjo ansanyusa;<br />Yesu anjagala,ammanyi,<br />Byonna-ebirungi abimpa;<br />Ampita-erinnya lyange,<br />Ambeera n'ekisa kye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ntambula nga sikyatya,<br />Yesu Mukuumi wange;<br />Mu biro-eby'enjala-andiisa,<br />Era bwe nnumwa ennyonta,<br />Antwala ku mabbali<br />Ag'amazzi-amateefu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si kirungi nsanyuke?<br />Si kirungi njaguze?<br />Ne bwe ndifa talindeka <br />Alintuusa ne mu ggulu,<br />Eyo gye naabeeranga,<br />Mu maaso ga Katonda.</lines>
+    </verse>
+  </lyrics>
+</song>

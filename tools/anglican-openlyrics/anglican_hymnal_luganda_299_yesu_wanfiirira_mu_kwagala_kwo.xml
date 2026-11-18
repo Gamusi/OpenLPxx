@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU WANFIIRIRA MU KWAGALA KWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="299" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU wanfiirira mu kwagala kwo,<br />Nnyinza ntya okukumma by'onooyagala?<br />Byonna mbikuwa ggwe,ka nfuuke-omuddu wo,<br />Obuddu ggwe gy'oli lye ddembe ddala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ku ntebe-ey'ekisa ompolereza,<br />Ompe-emirembe gyo Yesu nkwesiga;<br />Ka mbuulire wonna ettendo lyo lyonna,<br />Mu bulamu-,mu kufa,bw'onondokola.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kye njagala kyokka kukufaanananga,<br />Nzire mu kkubo lyo nga nkuweereza;<br />Emirimu gyange gyonna gikolebwe,<br />Okwebazanga ggwe eyanjagala.</lines>
+    </verse>
+  </lyrics>
+</song>

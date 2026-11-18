@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI KITANGE,NKWESIGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="61" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Kitange,nkwesiga<br />Okumbeeranga<br />Mu-ebyo-ebinambangako<br />Mu mwaka guno:<br />Sisaba kuggyibwako<br />Bizibu byonna,<br />Kyokka nsaba-erinnya lyo<br />Lyebazibwenga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwana ki-eyeerondera <br />Ye by'ayagala? <br />Ebirungi kitaawe <br />Tabimugaana.<br />Bulijjo-otuweereza <br />Emikisa gyo; <br />Kyenvu nsaba-erinnya lyo <br />Lyebazibwenga</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bw'onompa mu bulamu <br />Ebisanyusa,<br />-Essanyu lyange lye nnina <br />Lineeyongera: <br />Ka nnyimbenga bulijjo <br />Amatendo do,<br />Mu byonna erinnya lyo <br />Lyebazibwenga</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bw'onompita-okwetikka<br />-Omusaalaba gwo;<br />Ne gundeetera-ennaku <br />N'obuyinike; <br />Kandowooze ku Yesu <br />Mu kitiibwa kye.<br />Bulijjo,erinnya lyo <br />Lyebazibwenga.</lines>
+    </verse>
+  </lyrics>
+</song>

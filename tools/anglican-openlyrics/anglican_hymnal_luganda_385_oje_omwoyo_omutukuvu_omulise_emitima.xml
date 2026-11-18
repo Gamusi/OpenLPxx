@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OJE OMWOYO OMUTUKUVU OMULISE EMITIMA GYAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="385" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oje-,Omwoyo-Omutukuvu,Omulise-emitima gyaffe;<br />Gwe weka Omusanyusa,Otuwe-ebirabo byo bingi;<br />Tuzemu bulamu-okuva mu gulu,Amanyi,-esanyu nemirembe Nomuliro-ogwokwagala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jangu-ozibulire dala Amasoagatalaba; <br />Otukuze fe-abononefu Nekisa kyo ekitakoma:<br />Tuwanguze abalabe bafe; Bwobanga obera Musale wafe Tewali kibi kitutukako-</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tulage Kitafe Nomwana Wamu Nawe Katonda omu;<br />Tulyoke tutendereze Lero nemirembegyona<br />-Obulungi bwo obutakoma,Tiriniti Omutukuvu,Tiriniti Omutukuvu</lines>
+    </verse>
+  </lyrics>
+</song>

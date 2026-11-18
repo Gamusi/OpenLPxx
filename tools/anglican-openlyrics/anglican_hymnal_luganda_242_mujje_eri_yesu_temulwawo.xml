@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUJJE-ERI YESU, TEMULWAWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="242" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJJE-eri Yesu,temulwawo,<br />Atudde mu ffe wano leero,<br />Fenna-atuyita-okusembera;<br />AyogeraMujje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye atwagala,atwagala;<br />Ye atwagala aboonoonyi;<br />Era yajj(a) okutufiirira,<br />Ffe tutuuke gy'oli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mujje abazitoowereddwa,<br />Mwenna abakooye n'ebibi:<br />Mujje mwenna naabawummuza<br />Mujje mwenna gye ndi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ye atwagala,atwagala;<br />Ye atwagala aboonoonyi;<br />Era yajj(a) okutufiirira,<br />Ffe tutuuke gy'oli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abantu bonna kiyinzika <br />Leero-okusonyiyrwa ddala;<br />Kuba-ebibi by'abakkiriza<br />Byatwalibwa Yesu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ye atwagala,atwagala;<br />Ye atwagala aboonoonyi;<br />Era yajj(a) okutufiirira,<br />Ffe tutuuke gy'oli.</lines>
+    </verse>
+  </lyrics>
+</song>

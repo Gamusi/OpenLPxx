@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NGA BEESIIMYE ABAKWAGALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="336" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NGA beesiinye-abakwagala<br />Abakukkiriza;<br />Mu musaalaba gwo Yesu<br />Mwe bawummulira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nga kulungi okuyimba <br />Nga batendereza;<br />N'okwegayirira kwabwe <br />Kuwulirwa Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baweereddwa emirembe <br />Bonna-abakwagala <br />Balifuga wamu nawe <br />Ggwe Katonda wabwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tetwalina ssanyu lyona <br />Nga tujjudde-ebibi<br />Ekkubo erituuka-ewuwo,<br />Nga tetuliraba,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Otwoleke okwagala <br />Naffe tukwagale;<br />Newankubadde okufa;<br />Tekulitwawula.</lines>
+    </verse>
+  </lyrics>
+</song>

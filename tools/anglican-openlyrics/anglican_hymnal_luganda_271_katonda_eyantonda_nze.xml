@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA EYANTONDA NZE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="271" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA eyantonda nze<br />Mu mubiri-omwangu;<br />Ndyoke nnyinze-okusobola<br />-Okutambula wonna;<br />Singa mbuliddwa-amagezi,<br />Naye mujjukira<br />Mu mutima ogw'essanyu<br />Ng'omwana omuto.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu Kabaka, Mukama;<br />Ompe-ekitala kyo <br />Ekyangu era ekyogi <br />Nnwanyise-abalabe;<br />Ndyoke mbawangule abo,<br />Era nkuweereze <br />-Emisana era n'ekiro,<br />Mbeerenga-omusajja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omwoyo ogw'amazima <br />Oguwa-omubiri <br />-Essanyu mu kifo ky'ennyombo,<br />-Omusana-omulungi;<br />Amagezi nga gambuze <br />Ojje embeerenga;<br />Ompe ekirabo kino <br />-Otwale-omwoyo gwange.</lines>
+    </verse>
+  </lyrics>
+</song>

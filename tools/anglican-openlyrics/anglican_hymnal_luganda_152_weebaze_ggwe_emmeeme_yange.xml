@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WEEBAZE GGWE EMMEEME YANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="152" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WEEBAZE ggwe-emmeeme yange,<br />eebaze mwoyo gwange;<br />-Olw'ekitiibwa kye ekingi-ennyo,<br />Leeta-ettndo lyo lyonna;<br />Aleruuya,Aleruuya!<br />Weebaze Katonda wo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weebaze-ekisa kye kingi <br />Eri bajjajja-ab'edda.<br />-Olw'ekisa kye-ekitakoma,<br />Eyaliwo edda n'edda.<br />Aleruuya,Aleruuya!<br />Weebaze Katonda wo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye Kitaffe,atukuuma,<br />Atuliisa bulijjo<br />Amanyi-obunafu bwaffe,<br />Amanyi-obunafu bwaffe,<br />Atuwonya mu kabi.<br />Aleruuya,Aleruuya!<br />Weebaze Katonda wo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bamalayika be bonna <br />Bayimba ettendo lye,<br />Oyanguwe-ojje n'ebire</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Olye-obwakabaka bwo.<br />Aleruuya,Aleruuya!<br />Weebaze Katonda wo.</lines>
+    </verse>
+  </lyrics>
+</song>

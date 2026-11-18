@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WAALIWO EDDA OMUWALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="406" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WAALIWO edda omuwala<br />Mu Beserekemu Yuda<br />Empisa ze zaali nnungi<br />Era yali muwombeefu.<br />Nze ndi muzaana wa Mukama<br />Kibe ku nze nga bw'ogambye</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Malayika n'ajja gy'ali<br />Mirembe gwe-aweereddwa-Omukisa <br />Olibeera olubuto <br />Olizaala-Omulokozi.Nze ndi muzaana wa Mukama<br />Kibe ku nze nga bw'ogambye</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ekyo kirimbaako kitya?<br />Kuba simanyi musajja?<br />Malayika n'amuddamu:<br />Omwoyo alikujjira<br />Nze ndi muzaana wa Mukama<br />Kibe ku nze nga bw'ogambye</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teyagaana,teyalimba <br />Yaddamu kimu ekituufu<br />Bw'ati ye n'obuwombeefu.<br />Kibe Kityo nga bw'ogambye.<br />Nze ndi muzaana wa Mukama<br />Kibe ku nze nga bw'ogambye</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mukama akyama amalala <br />Newankubadd'empisa embi,<br />Abawombeefu mu mwoyo,<br />Katonda ye abakkiriza.<br />Nze ndi muzaana wa Mukama<br />Kibe ku nze nga bw'ogambye</lines>
+    </verse>
+  </lyrics>
+</song>

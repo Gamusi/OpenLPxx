@@ -1,0 +1,604 @@
+{
+  "source_package": "Come+and+Worship_23.0_APKPure.xapk",
+  "base_apk": "muhoozi.afritech.comeandworship.apk",
+  "total_entries": 42,
+  "category_counts": {
+    "front_matter": 2,
+    "communion_liturgy": 7,
+    "order_of_service": 4,
+    "liturgical_section": 16,
+    "prayer_and_liturgy": 6,
+    "creed_and_confession": 3,
+    "appendix": 4
+  },
+  "entries": [
+    {
+      "resource_id": "0x7f1100ef",
+      "resource_key": "story1",
+      "resource_type": "string",
+      "category": "front_matter",
+      "title": "First Published in 1980 by Centenary Publishing House Ltd. P.O. Box 2776, Kampala, Uganda.",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story01.txt",
+      "sequence_relationship": {
+        "resource_key_index": 1,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100fa",
+      "resource_key": "story2",
+      "resource_type": "string",
+      "category": "front_matter",
+      "title": "A CHRISTIAN'S FAITH",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story02.txt",
+      "sequence_relationship": {
+        "resource_key_index": 2,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110105",
+      "resource_key": "story3",
+      "resource_type": "string",
+      "category": "communion_liturgy",
+      "title": "COMMENTARY ON THE HOLY COMMUNION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story03.txt",
+      "sequence_relationship": {
+        "resource_key_index": 3,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110110",
+      "resource_key": "story4",
+      "resource_type": "string",
+      "category": "order_of_service",
+      "title": "ORDER OF SERVICE FOR MORNING AND EVENING PRAYERS",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story04.txt",
+      "sequence_relationship": {
+        "resource_key_index": 4,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110114",
+      "resource_key": "story5",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "Easter Season",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story05.txt",
+      "sequence_relationship": {
+        "resource_key_index": 5,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110115",
+      "resource_key": "story6",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "Trinity Sunday",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story06.txt",
+      "sequence_relationship": {
+        "resource_key_index": 6,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110116",
+      "resource_key": "story7",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "Then the Leader: : may say",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story07.txt",
+      "sequence_relationship": {
+        "resource_key_index": 7,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110117",
+      "resource_key": "story8",
+      "resource_type": "string",
+      "category": "prayer_and_liturgy",
+      "title": "THE LORD’S PRAYER",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story08.txt",
+      "sequence_relationship": {
+        "resource_key_index": 8,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110118",
+      "resource_key": "story9",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "1st LESSON",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story09.txt",
+      "sequence_relationship": {
+        "resource_key_index": 9,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f0",
+      "resource_key": "story10",
+      "resource_type": "string",
+      "category": "creed_and_confession",
+      "title": "THE APOSTLES’ CREED",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story10.txt",
+      "sequence_relationship": {
+        "resource_key_index": 10,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f1",
+      "resource_key": "story11",
+      "resource_type": "string",
+      "category": "prayer_and_liturgy",
+      "title": "PRAYER RESPONSES",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story11.txt",
+      "sequence_relationship": {
+        "resource_key_index": 11,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f2",
+      "resource_key": "story12",
+      "resource_type": "string",
+      "category": "prayer_and_liturgy",
+      "title": "MORNING PRAYER",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story12.txt",
+      "sequence_relationship": {
+        "resource_key_index": 12,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f3",
+      "resource_key": "story13",
+      "resource_type": "string",
+      "category": "prayer_and_liturgy",
+      "title": "INTERCESSIONS",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story13.txt",
+      "sequence_relationship": {
+        "resource_key_index": 13,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f4",
+      "resource_key": "story14",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "SERMON",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story14.txt",
+      "sequence_relationship": {
+        "resource_key_index": 14,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f5",
+      "resource_key": "story15",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "CONCLUSION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story15.txt",
+      "sequence_relationship": {
+        "resource_key_index": 15,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f6",
+      "resource_key": "story16",
+      "resource_type": "string",
+      "category": "order_of_service",
+      "title": "ORDER OF SERVICE FOR HOLY COMMUNION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story16.txt",
+      "sequence_relationship": {
+        "resource_key_index": 16,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f7",
+      "resource_key": "story17",
+      "resource_type": "string",
+      "category": "creed_and_confession",
+      "title": "CONFESSION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story17.txt",
+      "sequence_relationship": {
+        "resource_key_index": 17,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f8",
+      "resource_key": "story18",
+      "resource_type": "string",
+      "category": "prayer_and_liturgy",
+      "title": "FORGIVENESS",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story18.txt",
+      "sequence_relationship": {
+        "resource_key_index": 18,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100f9",
+      "resource_key": "story19",
+      "resource_type": "string",
+      "category": "creed_and_confession",
+      "title": "THE NICENE CREED",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story19.txt",
+      "sequence_relationship": {
+        "resource_key_index": 19,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100fb",
+      "resource_key": "story20",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "NOTICES",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story20.txt",
+      "sequence_relationship": {
+        "resource_key_index": 20,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100fc",
+      "resource_key": "story21",
+      "resource_type": "string",
+      "category": "prayer_and_liturgy",
+      "title": "GENERAL THANKSGIVING may be used",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story21.txt",
+      "sequence_relationship": {
+        "resource_key_index": 21,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100fd",
+      "resource_key": "story22",
+      "resource_type": "string",
+      "category": "communion_liturgy",
+      "title": "OFFERTORY",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story22.txt",
+      "sequence_relationship": {
+        "resource_key_index": 22,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100fe",
+      "resource_key": "story23",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE PREPARATION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story23.txt",
+      "sequence_relationship": {
+        "resource_key_index": 23,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f1100ff",
+      "resource_key": "story24",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "WORDS OF ENCOURAGEMENT",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story24.txt",
+      "sequence_relationship": {
+        "resource_key_index": 24,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110100",
+      "resource_key": "story25",
+      "resource_type": "string",
+      "category": "communion_liturgy",
+      "title": "THE CONSECRATION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story25.txt",
+      "sequence_relationship": {
+        "resource_key_index": 25,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110101",
+      "resource_key": "story26",
+      "resource_type": "string",
+      "category": "communion_liturgy",
+      "title": "PRAYER OF HUMBLE ACCESS",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story26.txt",
+      "sequence_relationship": {
+        "resource_key_index": 26,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110102",
+      "resource_key": "story27",
+      "resource_type": "string",
+      "category": "communion_liturgy",
+      "title": "PRAYER OF CONSECRATION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story27.txt",
+      "sequence_relationship": {
+        "resource_key_index": 27,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110103",
+      "resource_key": "story28",
+      "resource_type": "string",
+      "category": "communion_liturgy",
+      "title": "AFTER COMMUNION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story28.txt",
+      "sequence_relationship": {
+        "resource_key_index": 28,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110104",
+      "resource_key": "story29",
+      "resource_type": "string",
+      "category": "communion_liturgy",
+      "title": "THE DISMISSAL",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story29.txt",
+      "sequence_relationship": {
+        "resource_key_index": 29,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110106",
+      "resource_key": "story30",
+      "resource_type": "string",
+      "category": "order_of_service",
+      "title": "ORDER OF SERVICE FOR",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story30.txt",
+      "sequence_relationship": {
+        "resource_key_index": 30,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110107",
+      "resource_key": "story31",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE DUTIES OF PARENTS AND GOD PARENTS",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story31.txt",
+      "sequence_relationship": {
+        "resource_key_index": 31,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110108",
+      "resource_key": "story32",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE DECISION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story32.txt",
+      "sequence_relationship": {
+        "resource_key_index": 32,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110109",
+      "resource_key": "story33",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE BAPTISM",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story33.txt",
+      "sequence_relationship": {
+        "resource_key_index": 33,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f11010a",
+      "resource_key": "story34",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE WELCOME",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story34.txt",
+      "sequence_relationship": {
+        "resource_key_index": 34,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f11010b",
+      "resource_key": "story35",
+      "resource_type": "string",
+      "category": "order_of_service",
+      "title": "ORDER OF COMMISSIONING SERVICE",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story35.txt",
+      "sequence_relationship": {
+        "resource_key_index": 35,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f11010c",
+      "resource_key": "story36",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE PRESENTATION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story36.txt",
+      "sequence_relationship": {
+        "resource_key_index": 36,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f11010d",
+      "resource_key": "story37",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE EXAMINATION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story37.txt",
+      "sequence_relationship": {
+        "resource_key_index": 37,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f11010e",
+      "resource_key": "story38",
+      "resource_type": "string",
+      "category": "liturgical_section",
+      "title": "THE ADMISSION",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story38.txt",
+      "sequence_relationship": {
+        "resource_key_index": 38,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f11010f",
+      "resource_key": "story39",
+      "resource_type": "string",
+      "category": "appendix",
+      "title": "APPENDIX 1",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story39.txt",
+      "sequence_relationship": {
+        "resource_key_index": 39,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110111",
+      "resource_key": "story40",
+      "resource_type": "string",
+      "category": "appendix",
+      "title": "APPENDIX II",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story40.txt",
+      "sequence_relationship": {
+        "resource_key_index": 40,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110112",
+      "resource_key": "story41",
+      "resource_type": "string",
+      "category": "appendix",
+      "title": "APPENDIX III",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story41.txt",
+      "sequence_relationship": {
+        "resource_key_index": 41,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    },
+    {
+      "resource_id": "0x7f110113",
+      "resource_key": "story42",
+      "resource_type": "string",
+      "category": "appendix",
+      "title": "APPENDIX IV",
+      "source_resource_file": "muhoozi.afritech.comeandworship.apk:resources.arsc",
+      "extracted_path": "resources/story42.txt",
+      "sequence_relationship": {
+        "resource_key_index": 42,
+        "service_order_verified": false,
+        "note": "Ordered by resource key (story1..story42); exact UI/service assembly order is unknown from resources.arsc alone."
+      }
+    }
+  ]
+}

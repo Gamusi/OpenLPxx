@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU MYAKA SI MINGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="393" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU myaka si mingi,<br />Ebbanga si ddene,<br />Tulyebaka-awamu n'abo<br />Abali mu ntaana.<br />Kye nvudde nsaba ggwe<br />Eyatufiirira,<br />Teekateeka-omwoyo gwange,<br />So tondekanga-eno</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obulamu bwaffe,<br />Bunnatera okuggwaawo,<br />Olunaku lusembera,<br />Olw'omusango gwo.<br />Mulokozi wange,<br />Onziggyeko-ebibi,<br />Onnaaze mu musaayi gwo,<br />Onsembeze gy'oli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wakyasigaddeyo <br />Ennaku si nnyingi,<br />Naffe tulituuka eyo<br />Gye katajja kabi.<br />Mukama w'obulamu<br />Ompolerezenga<br />Nkwesiga okundokola<br />Mu byonoono byonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewaffe si wano<br />Naye-eri mu ggulu,<br />Yesu-tumulindirira,<br />Alituuka mangu.<br />Mununuzi wange,<br />Tunuulira bwe ndi,<br />Siyinza-awatali ggwe<br />Kugumiikiriza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kale tujjukire<br />Ebyawandiikibwa,<br />Kaakano ekiro kiyise,<br />Emmambya esaze<br />Ka twambule-ebibi<br />Ebyatusanyusa,<br />Ffe twambale-ebibi<br />Ebyatusanyusa,<br />Ffe twambale-obutukuvu,<br />Mukama waffe ajja.</lines>
+    </verse>
+  </lyrics>
+</song>

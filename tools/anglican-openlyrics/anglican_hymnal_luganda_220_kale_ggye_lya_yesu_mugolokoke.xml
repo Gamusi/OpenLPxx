@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KALE GGYE LYA YESU, MUGOLOKOKE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="220" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KALE ggye lya Yesu, mugolokoke,<br />Mulabe Mukama akulembedde:<br />Mu balabe bangi Yesu Mugambe;<br />Mukama-atuyita;tugende naye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kale ggye lya Yesu,mugolokoke,<br />Mulabe Mukama akulembedde.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tugende mu maaso,ng'abalwanyi be,<br />Tusinge Ssetaani n'amagezi ge.<br />Tukkirize Yesu ye ngabo yaffe <br />N'ekitala kyaffe kye kitabo kye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kale ggye lya Yesu,mugolokoke,<br />Mulabe Mukama akulembedde.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Erinnya lya Yesu bwe liwulirwa,<br />Abantu ba Ssetaani badduka bonna.<br />Mmwe mugume-emyoyo,abooluganda;<br />Mu Mukama waffe tuliwangula.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kale ggye lya Yesu,mugolokoke,<br />Mulabe Mukama akulembedde.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mubayite bangi bagende naffe,<br />Balyoke babeere abalwanyi be.<br />Kale abooluganda,tugume-emyoyo;<br />Omugabe waffe ye wa maanyi nnyo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kale ggye lya Yesu,mugolokoke,<br />Mulabe Mukama akulembedde.</lines>
+    </verse>
+  </lyrics>
+</song>

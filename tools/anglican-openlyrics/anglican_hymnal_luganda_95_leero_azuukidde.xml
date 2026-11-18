@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LEERO AZUUKIDDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="95" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LEERO azuukidde<br />-Omulimu guwedde,<br />Abasibe bateereddwa,<br />-Okufa kuwanguddwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu azuukidde <br />Entaana njereere<br />Abaagulibwa bawonye <br />Balifuga naye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu azuukidde <br />Mulamu takyafa,<br />Anaatuwolerezanga <br />Emirembe gyonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu azuukide <br />Mwenna musanyuke <br />Mweyonger-okujaguza <br />Kubanga azuukidde.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>-Abakubi b'ennanga <br />N'abayimbi bonna <br />Muyimbe mwenna n'essanyu <br />Yesu azuukidde</lines>
+    </verse>
+  </lyrics>
+</song>

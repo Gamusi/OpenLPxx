@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TUSAASIRE FFE-ABANAKU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="75" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TUSAASIRE ffe-abanaku,<br />Tuzirise olw'ebibi;<br />Otubeere-Omulokozi<br />Kubanga ggwe osaasira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tusonyiwe abeeneya,<br />Tutambule mu maaso go <br />Ng'aboonoonyi-abasonyiwe,<br />Tukwebaze-Omulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuzze gy'oli-Omulokozi,<br />Ggwe eyafa ku lw'abantu <br />Naffe fenna aboonoonyi <br />Tumanyi nti osaasira.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tetukyatya omulabe,<br />Takyalina maanyi gonna:<br />Kale leka tukwesige,<br />Tusaasire -Omulokozi</lines>
+    </verse>
+  </lyrics>
+</song>

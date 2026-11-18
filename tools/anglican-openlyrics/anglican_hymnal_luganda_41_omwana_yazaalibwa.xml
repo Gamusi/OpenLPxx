@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWANA YAZAALIBWA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="41" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWANA yazaalibwa,<br />Ku lwaffe mu nsi muno,<br />Mu kibuga kya Dawudi Eyasuubizibwa-edda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lunaku nga lukulu!<br />Yesu lwe yajjirako;<br />Kitegeezebwe wonna,<br />Yesu bwe yazaalibwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abasumba baalaba<br />Malayika ekiro,<br />N'agamba nti Temutya, <br />Mbaleetedde-eby'essanyu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lunaku nga lukulu!<br />Yesu lwe yajjirako;<br />Kitegeezebwe wonna,<br />Yesu bwe yazaalibwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kristo Omulokozi <br />Eyatonda-ensi zonna,<br />Olwa leero-azaaliddwa <br />Mu kiraalo eky'ente.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lunaku nga lukulu!<br />Yesu lwe yajjirako;<br />Kitegeezebwe wonna,<br />Yesu bwe yazaalibwa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Omwana-Omutukuvu,<br />Ffe leero tuzze gy'oli;<br />Tukweyanza-ennyo nnyini,<br />Olw'ekisa kyo-ekingi</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lunaku nga lukulu!<br />Yesu lwe yajjirako;<br />Kitegeezebwe wonna,<br />Yesu bwe yazaalibwa.</lines>
+    </verse>
+  </lyrics>
+</song>

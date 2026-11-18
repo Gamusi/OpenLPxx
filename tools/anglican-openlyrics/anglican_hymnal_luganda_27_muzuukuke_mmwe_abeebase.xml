@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUZUUKUKE! MMWE-ABEEBASE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="27" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUZUUKUKE! mmwe-abeebase<br />Omukuumi atukoowoola<br />Suukuka Yerusaalemi<br />Kaakano obudde ttumbi,<br />Abawala ab'amgezi<br />Mujje, batukoowoola nnyo:<br />Awasa-omugole<br />Ajja,muyimuke!<br />Aleruuya!<br />Mujje nga mweteeseteese,<br />Mujje mumusisinkane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saayuuni yenna-awulidde,<br />Okukoowoola kw'omukuumi;<br />Bonna ne bajjula-essanyu;<br />Mukwano gwabwe-akka ku nsi,<br />Wa kitiibwa-era wa mazima,<br />Wa maanyi era wa kisa.<br />Kale Yesu jjangu<br />-Omwana wa Katonda,<br />Aleruuya!<br />Fenna tusseekimu naawe,<br />Fenna tugende n'essanyu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ekitiibwa kibe gy'oli;<br />Abantu bakutendereze<br />Wamu ne bamalayika.<br />Fenna tukuyimbirenga<br />Nga twetooloola entebe yo<br />Tujaguze! tujaguze!<br />Tewalabikanga <br />Ssanyu eryenkanaawo<br />Aleruuya!<br />Tukuyimbire n'essanyu<br />Emirembe n'emirembe.</lines>
+    </verse>
+  </lyrics>
+</song>

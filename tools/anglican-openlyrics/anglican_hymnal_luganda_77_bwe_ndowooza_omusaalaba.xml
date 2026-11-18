@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BWE NDOWOOZA OMUSAALABA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="77" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BWE ndowooza-omusaalaba<br />Mukama gwe yafiirako,<br />-Obugagga bwonna obw'ensi<br />Mbulaba nga tebuliimu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwe ndaba-amazzi n'omusaayi-<br />Ebyava mu mbiriizi ze,<br />Ne ntegeera-okusaasira <br />N'okwagala kwe bwe kuli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu Mukama onkuume,<br />Nneme-okwenyumirizanga,<br />Kino kyokka kinsanyuse <br />Wanjagala n'onfiirira.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Singa mbadde n'ensi zonna <br />Ne nziwaayo Yesu gy'oli; <br />Zonna tezandisasudde <br />Ebbanja lyange-eryenkanaawo-</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naye ky'oyagala leero,<br />Era kye ndeese nze eri ggwe,<br />Kwe kwagala kwange kwona,<br />Nkuweereze,nkusanyuse.</lines>
+    </verse>
+  </lyrics>
+</song>

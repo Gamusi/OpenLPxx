@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ESSANYU-ERINGI-ERITAKOMEZEKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="154" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ESSANYU-eringi-eritakomezeka,<br />Era n'emirembe-egitabuulikika,<br />Byombi birirabika-eyo mu ggulu<br />Byateekerwawo abatukuvu bonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu bwakabaka bwonna-obw'ensi yonna <br />Teri kitiibwa-ekirifaanana ng'ekyo,<br />Katonda gy'ali eyatulokola ffe <br />Abatasaanira bulokozi obwo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abatuuka eyo singa bayinza <br />Okutegeeza-essanyu lyabwe bwe liri <br />Twandiyanguye-okusseekimu nabo,<br />Tetwandyesiimye na bigambo by'omu nsi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu-Omugabe w'eggye lya Katonda,<br />Otusaanyize okuyitibwa kwaffe,<br />Otutuukirize,otuwe amaanyi,<br />Ffe-abakweyabiza ggwe Mukama waffe.</lines>
+    </verse>
+  </lyrics>
+</song>

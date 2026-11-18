@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMPISE,MUKAMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="296" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMPISE,Mukama,<br />Okujjanga gy'oli,<br />Onnanze n'omusaayi gwo<br />Ogusinga byonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ka njije,Yesu;ka njije gy'oli:<br />Nnaaza,nnaaza n'omusaayi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nange ndi munafu;<br />Omubi-omwereere:<br />Ajja gye ndi simugoba<br />Bwe bwesige bwange.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka njije,Yesu;ka njije gy'oli:<br />Nnaaza,nnaaza n'omusaayi</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu,wanfiirira <br />Nze alina-ebibi <br />Okwagala kumpaludde,<br />Laba,nzize gy'oli.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ka njije,Yesu;ka njije gy'oli:<br />Nnaaza,nnaaza n'omusaayi</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Katonda Kitaffe,<br />Katonda Omwana,<br />N'Omwoyo Omutukuvu,<br />Tweyanze bulijjo!<br />Ka njije,Yesu;ka njije gy'oli:<br />Nnaaza,nnaaza n'omusaayi</lines>
+    </verse>
+  </lyrics>
+</song>

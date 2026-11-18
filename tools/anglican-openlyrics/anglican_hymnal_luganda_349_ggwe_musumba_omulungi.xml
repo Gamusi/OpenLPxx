@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE MUSUMBA-OMULUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="349" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE Musumba-omulungi<br />Ggwe-okuuma endiga zo;<br />Tewali-ekiriyinza<br />Kuzikusikulako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Omulokozi wawaayo <br />-Obulamu bwo ku lwaffe;<br />Mu ngalo zo mulimu <br />-Enkovu z'emisumaali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naakutenderezanga <br />Nga mpulira by'omggamba;<br />Ndyoke nfaanane ng'abo <br />B'oli nabo mu ggulu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ayi-Musumba-omulungi <br />Beeranga kumpi nange,<br />Njige eddoboozi lyo,<br />Nkwatenga ekkubo lyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naakugobereranga <br />Buli wonna w'oyita;<br />Olintuusa mu ggulu <br />Mu maaso ga Kitaffe.</lines>
+    </verse>
+  </lyrics>
+</song>

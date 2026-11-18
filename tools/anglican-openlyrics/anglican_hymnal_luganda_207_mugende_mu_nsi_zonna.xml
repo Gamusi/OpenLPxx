@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUGENDE MU NSI ZONNA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="207" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUGENDE mu nsi zonna,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mubuulire-Enjiri<br />Eri-amawanga gonna <br />Agabeera mu nsi,<br />Balyoke bategeere <br />Yesu gwe tusinza <br />Bw'ali Katonda ddala,<br />Bw'alokola bonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mukama waffe Yesu <br />-Otunyiikize fenna <br />Tukolerenga ddala <br />Ebitusaanira;<br />Tweweeyo gy'oli leero <br />-Emibiri n'emyoyo <br />Tuleetenga-ebirabo <br />N'essanyu lingi nnyo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(O)kugaba kwa mukisa <br />-Okusinga-Okutoola<br />Byonna bye tuli nabyo <br />Biva-eri Katonda;<br />Otukkirizise-ebyo,<br />Tukwegayiridde<br />Tuleme okugamba nti <br />Bye byaffe ku bwaffe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ayi Katonda Kitaffe,<br />Oyimuse mu ffe <br />Abakunguzi-abangi,<br />Balyoke bagende <br />Banyiikirenga wonna <br />-Okubunya-Enjiri yo,<br />Babuulirenga bonna,<br />-Abakulu n'abato</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu Mukama waffe,<br />-Otuwe ku maanyi go,<br />Tukwatirenga ddala<br />Empisa-ennungi-ennyo <br />Tuleme-okugayaala,<br />Naye tufube nnyo <br />Mu mirimu gyo gyonna <br />Olw'omukisa gwo.</lines>
+    </verse>
+  </lyrics>
+</song>

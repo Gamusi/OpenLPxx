@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENZIKIZA YALI EBUNYE KU NSI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="248" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENZIKIZA yali ebunye ku nsi,<br />Yesu gwe musana gw'ensi:<br />Okwaka kwe kungi ne kwaka mu ye;<br />Yesu gwe musana gw'ensi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jjangu,laba,gukwakidde ggwe;<br />gumpoomera nze,gunsanyusa,<br />Nnali muzibe,leero ndaba <br />Yesu gwe musana gw'ensi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abeera mu ye taba mu nzikiza,<br />Yesu gwe musana gw'ensi,<br />Tumugoberere-omusana gwake<br />Yesu gwe musana gw'ensi,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jjangu,laba,gukwakidde ggwe;<br />gumpoomera nze,gunsanyusa,<br />Nnali muzibe,leero ndaba <br />Yesu gwe musana gw'ensi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abazibe b'amaaso ab'enzikiza;<br />Yesu gwe musana gw'ensi;<br />Mugende munaabe,munaazibuka;<br />Yesu gwe musana gw'ensi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jjangu,laba,gukwakidde ggwe;<br />gumpoomera nze,gunsanyusa,<br />Nnali muzibe,leero ndaba <br />Yesu gwe musana gw'ensi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mu ggulu,tusoma,teri musana,<br />Yesu gwe musana gwayo,<br />Yesu gwe musana ogwakirayo,<br />Yesu gwe musana gwayo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jjangu,laba,gukwakidde ggwe;<br />gumpoomera nze,gunsanyusa,<br />Nnali muzibe,leero ndaba <br />Yesu gwe musana gw'ensi.</lines>
+    </verse>
+  </lyrics>
+</song>

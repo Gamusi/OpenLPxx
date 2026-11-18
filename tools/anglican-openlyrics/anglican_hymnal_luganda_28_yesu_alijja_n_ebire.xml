@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU ALIJJA N'EBIRE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="28" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU alijja n'ebire<br />Eyafiirira-abanyu;<br />Abatukuvu be bangi<br />Wamu naye bayimba,<br />Aleruuya!<br />Ajja wansi-okufuga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bonna baliraba Yesu<br />Ng'ali mu kitiibwa kye:<br />N'abo-abaamuyigganya <br />N'abo-abaamufumita<br />Balikaaba,<br />Yesu bw'alirabika.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wansi ne waggulu wonna<br />N'ebirimu biriggwaawo-:<br />Abaamulyamu olukwe<br />Baliwulira Yesu<br />Bw'alisala,<br />Gubasinze,muveewo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abeegendereza bonna<br />Abamulindirira <br />Balitwalibwa mu bbanga,<br />Balisangayo Yesu.<br />Eyeewayo,<br />Okuleeta-obulamu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bonna bonna bakusinza <br />Yesu, mu kitiibwa kyo;<br />Jjangu,Mulokozi waffe<br />Olye-Obwakabaka bwo<br />Tukusuute;<br />Jjangu,Mukama waffe.</lines>
+    </verse>
+  </lyrics>
+</song>

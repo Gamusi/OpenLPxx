@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU KWETAAGA KWAFFE-OKUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="73" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU kwetaaga kwaffe-okungi<br />Tukoowoola,AyiKatonda,<br />Tusaasire,tega-okutu,<br />Tuwulire-olw'ekisa kyo!<br />Mukama bw'onoolabanga<br />-Ebibi n'ensonyi-eby'abantu<br />Aliyimirira-aluwa?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naye kino kye tumanyi <br />Nga waliwo-okusonyiwa.<br />Eri ggwe Katonda waffe,<br />Awulira n'asaasira!<br />-Ekigambo kyo,Ayi Mukama <br />Kya nsuubira -ennaku zonna,<br />Nindirira ggwe Mukama.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Abakuumi baalindirira <br />Obudde okukya,naye <br />Emmeeme yange-esinga nnyo <br />-Okuyaayaanira Katonda,<br />Kubanga-awali Mukama <br />Wewali okusaasira,Mwenna mumusuubirenga.</lines>
+    </verse>
+  </lyrics>
+</song>

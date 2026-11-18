@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ZUUKUKA MWOYO GWANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="261" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ZUUKUKA mwoyo gwange,<br />Katonda-akusembeza,<br />Taakugobere bweru,<br />Akwagalira ddala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gw'osaba ye Kabaka <br />Omuyinza wa byonna,<br />-Okumukooyesa teri <br />Olw'ekisa kye-ekingi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu,sooka-ontikkule <br />Omugugu ogw'ebibi,<br />Ogunzitoowerera,<br />Gwe sijja kusobola.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu musaayi-ogwayiika<br />Edda ku musaalaba;<br />Ku lw'abalina-ebibi,<br />Yesu,-onnaalize ddala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nkooye nnyo,ompummuze <br />Weemale-omwoyo gwange,<br />Njagala-Omulokozi <br />Anammalamu-ebibi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwe ntyo bwe nkuyimbira <br />Bulijjo ettendo lyo;<br />Abakwesiga wekka,<br />Baliraba-ekisa kyo</lines>
+    </verse>
+  </lyrics>
+</song>

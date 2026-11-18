@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MMWE MWENNA-ABALONDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="34" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MMWE mwenna-abalonde,<br />Mujje musanyuke<br />Mujje tugende e Beesirekemu,<br />Gy'azaaliddwa Omwana wa Katonda</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mujje nno tumweyanze,<br />Mujje nno tumweyanze,<br />Mujje nno tumweyanze Mukama.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Katonda, Katonda;<br />Ye musana gwa nsi:<br />Teyagaana kufuuka omuntu;<br />Katonda ddala,-Omwana si mutonde.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mujje nno tumweyanze,<br />Mujje nno tumweyanze,<br />Mujje nno tumweyanze Mukama.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mmwe mwenna muyimbe,<br />Ennyimba ez'-amatendo,<br />Ab'omu ggulu mumuyimbire; <br />Musuute Yesu,mumutendereze.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mujje nno tumweyanze,<br />Mujje nno tumweyanze,<br />Mujje nno tumweyanze Mukama.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tukulamusizza <br />Eyazaalwa leero:<br />Yesu Mukama, tukusinza ggwe:<br />Katonda ddala,watwala-omubiri.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mujje nno tumweyanze,<br />Mujje nno tumweyanze,<br />Mujje nno tumweyanze Mukama.</lines>
+    </verse>
+  </lyrics>
+</song>

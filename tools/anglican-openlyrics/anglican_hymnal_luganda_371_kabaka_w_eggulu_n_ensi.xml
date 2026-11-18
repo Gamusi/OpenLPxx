@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KABAKA W'EGGULU N'ENSI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="371" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KABAKA w'eggulu n'ensi<br />Tukuwe-ekitiibwa kingi,<br />Tusuuta n'essanyu lingi<br />Ggwe-Omugabi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olw'obulamu n'essanyu<br />N'emirembe gyaffe gyonna,<br />Leero twebaza nnyo nnyini<br />Ggwe-Omugabi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omwaka ggwe ogwengeza<br />Ne byonna-ebitusanyusa<br />Emmere n'eby'okwambala<br />Ggwe-obigaba.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omwana wo omu yekka<br />Tewamugaana na kufa<br />Ku lwaffe abatasaana,<br />Abajeemu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Olw'emyoyo-emirokole,<br />Olw'ebibi-ebisonyiwe;<br />Tulikusasula tutya?<br />Ggwe-Omugabi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ebbanja lyaffe teriggwa;<br />Naye bye tukuleetedde<br />Biva kw'ebyo by'otwazika,<br />Tobinyooma.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Otufukeko-Omwoyo wo<br />Okutuyinzisa leero<br />Mu ntalo zaffe,tugobe<br />Omulabe.</lines>
+    </verse>
+  </lyrics>
+</song>

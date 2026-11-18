@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU KIBUGA KYA DAWUDI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="40" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU kibuga kya Dawudi<br />Eky'e Beesirekemu,<br />Omwazaalirwa Omwana,<br />Mu kiraalo eky'ente;<br />Omwana-oyo ye Yesu;<br />Nnyina ye Maliyamu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye yakka mu nsi ku lwaffe,<br />Ye Mukama wa byonna;<br />Yabeeranga n'abakopi,<br />Mu kyalo-ekinyoomebwa;<br />Yakwananga-abanaku, <br />N'asembezanga-ababi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu mu buto bwe bwonna, <br />Yalinga muwombeefu;<br />Yayagalanga nnyo nnyina,<br />Ne bakulu be bonna;<br />N'abaana bonna mu nsi <br />Bakolenga bwe batyo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Edda tulirabagana, Olw'okwagala-okungi,<br />Kubanga Omwana oyo,<br />Ye Mukama wa byonna,<br />Alituusa-abaana be <br />Mu ggulu,babe naye.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tetukyamulaba nate <br />Mu kiraalo eky'ente; <br />Tulimulaba mu ggulu,<br />Ng'atudde ne Katonda.<br />Naffe tulibeera-eyo,<br />Nga tumutendereza.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BAWEEREDDWA-ABAFU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="369" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BAWEEREDDWA-abafu<br />Bonna-abeebakira<br />Mu mukama waffe,<br />Kuba bawummula.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So,nga basanyuka;<br />Okulaba n'amaaso <br />Gwe baali baagala<br />Nga tannalabika!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Katonda-asangula <br />Amaziga gaabwe;<br />Abawa-essanyu lye <br />Erituukiridde.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ffe tubakaabira<br />Fenna ku ntaana-eno<br />Nga tulowoozezza<br />Ku mikwano gyaffe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>-Ekiseera kitono <br />Naffe-alituyita,<br />Okwetaba nabo<br />Emirembe gyonna.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Obudde bulikya,<br />Nammwe-,eddoboozi lye<br />Muliriwulira:<br />Mwenna muzuukuke.</lines>
+    </verse>
+  </lyrics>
+</song>

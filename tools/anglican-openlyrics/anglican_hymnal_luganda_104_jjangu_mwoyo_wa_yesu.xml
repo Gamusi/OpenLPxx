@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>JJANGU MWOYO WA YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="104" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JJANGU Mwoyo wa Yesu,<br />Mu nzikiza otuwe<br />Omusana gw'obulamu-<br />Sembera, Musanyusa,<br />Tuula mu myoyo gyaffe,<br />Otufugire ddala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe Kiwummulo kyaffe,<br />Mu byonna bye tukola <br />Otuwummuze gy'oli<br />Otumalemu-ebibi,<br />Merusa mu ffe-ekisa,<br />Tulyoke tukwagale.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Longoosa-ebyonoonese <br />Wonya-ebiwundu byaffe,<br />Tonnyesa-emikisa gyo.<br />Emyoyo gy'abajeemu,<br />Era-abalina-ebibi <br />Ogikyusize ddala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abeesigira ddala <br />Obuyinza bwo bwonna <br />Bulijjo-obakuumenga <br />Mu nsi-otwe-ekisa kyo,<br />Era ku lw'amaanyi go,<br />Otutuuse mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

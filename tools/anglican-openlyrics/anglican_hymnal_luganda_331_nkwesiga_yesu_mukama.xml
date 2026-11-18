@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NKWESIGA YESU MUKAMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="331" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NKWESIGA Yesu Mukama,<br />Nkwesiga wekka:<br />Laba,ntodde-obulokozi<br />Bwa buwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nkwesiga okunzigyako <br />Ebibi byonna:<br />Nkuvuunamidde,Mukama <br />-Omuddu wo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nkwesiga-okunnongoosanga <br />N'omusaayi gwo;<br />Emisana nkwesigenga <br />N'ekiro.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nkwesiga-okunnumggamyanga <br />Gye mggenda yonna;<br />Bulijjo naawuliranga <br />Ggwe wekka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nkwesiga-okumpanga amaanyi <br />Nze ndi munafu.<br />Olina gonna ggwe,mu nsi <br />N'eggulu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nkwesiga ggwe,Yesu,nneme <br />Okuzirika;<br />Mu byonna n'ennaku zonna<br />Nkwesiga.</lines>
+    </verse>
+  </lyrics>
+</song>

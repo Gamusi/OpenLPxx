@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TUSANYUSE-OKUJJA MU MAASO GO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="117" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TUSANYUSE-okujja mu maaso go,<br />Tusuubiza leero mu maaso go;<br />Tubeere-abaana bo-ennaku zonna,<br />Okukuweereza n'obwesigwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naye tumanyidde ddala kino <br />Nti tetuyinza awatali ggwe;<br />Naye ggwe watusuubiza kino <br />Okubeeranga naffe bulijjo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tumanyi nti ggwe oli mwesigwa,<br />Toyinza kutuleka mu kkubo;<br />Kale-essubi eryo litugumye <br />Liryoke litutuuse mu ggulu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Otuyise okukuweereza <br />Tuwaayo-obulamu bwaffe bwonna;<br />Tukuweereze nga bw'osaanira <br />Olyoke-oweebwe-ekitiibwa mu nsi</lines>
+    </verse>
+  </lyrics>
+</song>

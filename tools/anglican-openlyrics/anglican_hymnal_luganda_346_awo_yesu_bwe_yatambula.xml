@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AWO-YESU BWE YATAMBULA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="346" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AWO-Yesu bwe yatambula<br />Edda mu nsi entukuvu,<br />Abakyala-Abayudaaya<br />Baamusemberera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bajja nga bamuleetera <br />Abaana baabwe abato <br />-Abateeke mu mikono gye <br />Baweebwe-omukisa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye abayigirizwa <br />Ne babagobera ddala,<br />Nti Temumutegannya nnyo,<br />Tubeegayiridde.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwe yabalaba-abaana be,<br />Yesu yalagira badde,<br />Yayogera n'eggonjebwa:<br />-Abato bajje gye ndi</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI KITAFFE-OW'OMU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="276" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Kitaffe-ow'omu ggulu<br />Leero twewaayo gy'oli;<br />Mu nsi eno-ejjudde-ennaku<br />Kuuma-obulamu bwaffe<br />Tewali mubeezi yenna<br />Wabula ggwe Kitaffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ayi Mukama waffe Yesu,<br />Tusaba-otusonyiwe <br />Kubanga-obunafu bwaffe <br />Gggwe-obumanyidde ddala;<br />Omanyi bwe buli-obungi <br />Otusnyiwe Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naawe-Omwoyo-Omutukuvu <br />Kka leero mu nda zaffe <br />Tujjuze okwagala kwo <br />Okw'enkalakkalira,<br />Tunaabeera n'emirembe,<br />Ng'otusonyiwa-ebibi.</lines>
+    </verse>
+  </lyrics>
+</song>

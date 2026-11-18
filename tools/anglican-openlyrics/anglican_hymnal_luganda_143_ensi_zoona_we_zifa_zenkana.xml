@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENSI ZOONA,WE ZIFA ZENKANA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="143" />
+    </songbooks>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENSI zonna,we zifa zenkana<br />-Eggulu lyonna,<br />Bitende Mukama<br />Bimugulumize.<br />Atenderezebwe,<br />-Abantu n'ebitonde,<br />Ensi zonna,we zifa zenkana,<br />Zimusuuta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ensi zonna,we zifa zenkana,<br />Zimusinze,<br />Yimbanga Zabbuli,<br />Yimbisa-amagezi;<br />Okusinga byonna <br />Yimbisa-omutima,<br />Ensi zonna, we zifa zenkana.<br />Zisinze-oyo.</lines>
+    </verse>
+  </lyrics>
+</song>

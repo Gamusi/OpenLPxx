@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EDDA MU NSI ABAYUDAAYA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="365" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EDDA mu nsi-Abayudaaya<br />Bwe baatambulanga<br />Omukono gwo-ogw'amaanyi<br />Gwawonya-abalwadde:<br />Bamuzibe n'abalema<br />Baakweyunanga ggwe;<br />Gy'oli abanaku bonna<br />Basanyusibwanga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abo be wakomangako <br />Mu kisa kyo-ekingi <br />Baafunanga obulamu<br />-Essanyu n'emirembe:<br />Okulwala-era n'okufa <br />Byonna byaddukanga<br />Ne leero jjangu gye tuli <br />N'ekisa kyo-ekingi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naffe tukwegayiridde <br />Ggwe-agaba-obulamu;<br />Otuwonye-endwadde zaffe <br />Ezituteganya;<br />Ez'omubiri n'omwoyo:<br />Tuwonyeze ddala,<br />N'abo bonna abeetaaga <br />Bawonyezebwenga.</lines>
+    </verse>
+  </lyrics>
+</song>

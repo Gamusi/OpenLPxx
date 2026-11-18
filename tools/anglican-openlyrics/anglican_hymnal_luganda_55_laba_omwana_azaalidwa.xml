@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LABA -OMWANA AZAALIDWA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="55" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LABA -Omwana-azaaliddwa,<br />Okuva mu ggulu;<br />Laba azze ng'omuto,<br />Mukama w'abakama.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kristo yeefeebya bw'atyo; <br />Bwe yafuuka -Omwana,<br />Mu kiraalo Malyamu<br />Gye yamuzazikira.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kerode-omukambwe-ennyo<br />Ye yatya nnyo nnyini,<br />N'atuma abantu be <br />Ne batta-abaana bangi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omwana Yesu,kye kisa,<br />-Ekituwaliriza <br />Okukwata-ekkubo-eryo<br />Eritutuusa gy'ali.</lines>
+    </verse>
+  </lyrics>
+</song>

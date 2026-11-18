@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LABA-EMMUNYEENYE-ENNUNGI-ENNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="66" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LABA-emmunyeenye_ennungi_ennyo<br />Ey'ekisa n'amazima<br />Emasamasa leero!<br />Omwana wa Dawudi ggwe,<br />Kannoonyenga amaaso go,<br />Omuva omusana.<br />Yesu wange,<br />Gw'oli-okumpi,ayi Kabaka ow'ekitiibwa,<br />Omuwanguzi wa byonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emmeeme yange essanyuka <br />Kubanga amaaso ga Yesu <br />Galaba omuddu we.<br />Yesu gw'oli-omulungi enyo,<br />-Omutima gwange n'obulamu,<br />Era-amagezigange,<br />Beera nange <br />Emirembe n'emirembe ,Ozaana! <br />Ggwe-obulamu-obutaggwawo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kale kaakano njaguza,<br />Kubanga mmanyi nga Yesu <br />Muganzi-anjagala nze;<br />Ankwata mu mikono gye,<br />Ankuuma mu kifuba kye,<br />Tunaagendanga wamu,<br />Jjangu mangu <br />Engule ey'omuwendo,-era tolwawo;<br />Omugole akulinze.</lines>
+    </verse>
+  </lyrics>
+</song>

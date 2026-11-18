@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OWEEBWE NNYO-EKITIBWA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="76" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OWEEBWE nny(o) ekitiibwa,<br />Ggw(e) eyatununula;<br />Eyagulumizibwa<br />N'emimwa gy'abaana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kabaka-agaba-obuwa,<br />Omwana wa Dawudi,<br />Mu linnya lya Mukama,<br />Eyajja gye tuli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oweebwe,nny(o) ekitiibwa,<br />Ggw(e) eyatununula; <br />Eyagulumizibwa <br />N'emimwa gy'abaana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bamalayika nabo <br />Baasuuta-erinnya lyo;<br />Abantu n'enitonde <br />Mu nsi ne baddamu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oweebwe,nny(o) ekitiibwa,<br />Ggw(e) eyatununula; <br />Eyagulumizibwa <br />N'emimwa gy'abaana.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Abayudaaya-ensansa<br />Baakukulembeza;<br />Naffe tuyimba-ennyimba <br />Nga tutendereza.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oweebwe,nny(o) ekitiibwa,<br />Ggw(e) eyatununula; <br />Eyagulumizibwa <br />N'emimwa gy'abaana.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bo baakutendereza <br />Eyafa ku mit:<br />Ffe tusinza n'ennyimba <br />Kabaka-afuga-ensi.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Oweebwe,nny(o) ekitiibwa,<br />Ggw(e) eyatununula; <br />Eyagulumizibwa <br />N'emimwa gy'abaana.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ennyimba ez'abaana <br />Ggwe wazikkiriza <br />Naffe-era totugaana <br />Byonna bye tusaba.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Oweebwe,nny(o) ekitiibwa,<br />Ggw(e) eyatununula; <br />Eyagulumizibwa <br />N'emimwa gy'abaana.</lines>
+    </verse>
+  </lyrics>
+</song>

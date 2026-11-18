@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUZIBE W'AMAASO EDDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="236" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-OMUZIBE w'amaaso edda<br />Eyali ng'asabiriza<br />N'awulira-abantu bangi<br />N'ababuuza nti Ekyo ki?<br />Bonna ne bamubuulira,<br />Yesu Omunazaaleesi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiki ekimuyinzisa <br />Okubavumula bonna?<br />Si ye mugenyi bugenyi?<br />Ekibamwagaza kiki?<br />Laba bwe bayogerera <br />Waggulu: Yesu ayita.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu ye wuuyo eyava<br />Mu ggulu,okulokola<br />Abalina-ebibi,n'abo<br />Abazitoowereddwa-ennyo.<br />Bali kyebava boogera <br />Yesu Omunazaaleesi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bannange mu nnaku zino<br />Yesu atuyita fenna,<br />Ng'abuulira abantu be <br />-Ebirabo by'abaleetedde.<br />Tewali n'omu-amwenkana<br />Yesu Omunazaaleesi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naye bwe muba munyooma <br />Ekisa-ekitenkanika <br />Ennaku ziribasanga <br />Yesu bw'alibagamba nti:<br />Muve we ndi aboonoonyi,<br />-Ekiseera kyammwe kyayita</lines>
+    </verse>
+  </lyrics>
+</song>

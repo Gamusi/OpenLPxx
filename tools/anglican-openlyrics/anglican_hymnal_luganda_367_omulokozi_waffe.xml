@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMULOKOZI WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="367" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMULOKOZI waffe<br />Ekisa kyo kingi;<br />Wansanyusa-abalwadde<br />Bwe wabeera mu nsi.<br />Kaakano ffe tuutuno<br />Mu nnaku nnyingi nnyo;<br />Mu kwagala kwo-okungi<br />Otega-amatu go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ffe-abakumggaanye wano <br />Twetaaga-ekisa kyo;<br />Kubanga mu mibiri <br />Naye Katonda waffe <br />Bw'otuula gye tuli,<br />Endwadde zaffe zonna <br />Zinaafuuka-amaanyi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jjangu-,otubeere Yesu,<br />Tuleme okutya;<br />Newankubadde-okufa <br />Bwe kunaatujjira;<br />Kuba Mukam waffe <br />Wawangula-okufa:<br />Eri abeesigwa be <br />-Okufa kwe kwebaka</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4 <br /> Bwe tunaalaba-ennaku <br /> Ffe tunaakwesiga;<br /> Tunaalwana bulungi <br /> Ng'abaweereza bo.<br /> Ka tugume emyoyo <br /> Tunywereze ddala.<br /> Taaleme kutubeera,<br /> Ku lw'obuyinza bwe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5 <br /> Edda twalaba-ennaku <br /> Ezaatuluma-ennyo<br /> Kaakano-essanyu lyokka <br /> Yesu,-olw'ekisa kyo;<br /> Netuweebwa ku lulwo <br /> Obutuukirivu;<br /> Ayi-Omusawo waffe,<br /> Mukama tolwawo.</lines>
+    </verse>
+  </lyrics>
+</song>

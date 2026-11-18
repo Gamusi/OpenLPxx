@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU EYASOOKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="268" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU eyasooka<br />Okutwagala;<br />Saasira-obunafu<br />Bwaffe-abaddu bo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu ggwe muteefu <br />Ggwe muwombeefu;<br />N'obuvumu bungi,<br />Ffe tujja gy'oli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye tuli bayi,<br />Ffe tuyidde nnyo:<br />Era-ebibi byaffe<br />Bituyinze nnyo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe Ayinza-byonna,<br />Otuwe-amaanyi <br />Okuwangulanga <br />Mu kukemebwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuli bagayaavu;<br />Ggwe munyiikivu <br />Tuwe-fenna-amaanyi,<br />Okunyiikira.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tuli banafu nnyo,<br />Ggwe-oli wa maanyi;<br />Otunywerezenga <br />Mu mazima go.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ggwe mubeezi waffe,<br />Otuzibire <br />Eri omulabe <br />Eri omulabe <br />Waffe Ssetaani.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tukweyanza Yesu,<br />Ggwe-atujuna-ennyo:<br />Otuwe Omwoyo <br />Omutukuvu.</lines>
+    </verse>
+  </lyrics>
+</song>

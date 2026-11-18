@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>JJO NE LEERO N'OKUTUUSA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="341" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JJO ne leero n'okutuusa<br />Emirembe gyonna,Yesu<br />Aba bumu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kye kiddukiro-eky'amaanyi <br />Mwe tuwummulira fenna <br />Nga tukooye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Edda twabula,twatuula <br />Mu kizikiza-ekikutte,<br />Yatunoonya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yatunoonya mu lukoola <br />Mwe twabulubuutiranag,<br />Nga tubula.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>N'atuleetera-obulamu,<br />N'atutikkula-omugugu,<br />Gw'ebyonoono.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ebibi bye twakolanga.<br />Yesu abinaaza byonna,<br />Mu musaayi gwe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Anaatutuukirizanga <br />Era-alitutuusa-ewuwe,<br />Mu mirembe,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yesu Mulokozi waffe,<br />Mukama w'abantu bonna,<br />Tukusuuta.</lines>
+    </verse>
+  </lyrics>
+</song>

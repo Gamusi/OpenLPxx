@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA TUFUKAMIDDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="378" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA tufukamidde,<br />Tukwegayirira leero,<br />Olwa baganda baffe-abo,<br />Kaakano-abali mu ntalo<br />Sembera kumpi gye bali,<br />Mukama obakuumenga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Era-n'eri abakyala,<br />N'abo bannyina b'abaana,<br />-Abalindiridda nga batya<br />-Okuwuliza-abantu baabwe;<br />Katonda Omusanyusa,<br />Nabo obasanyusenga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tunuulira-ab'ebiwundu;<br />Wonya obulumi bwabwe;<br />N'emyoyo-egitaataagana<br />Egya baganda baabwe-eka;<br />Katonda nnannyini kisa<br />Sembera kumpi gye bali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sonyiwa Mukama waffe<br />Okwonoona kwaffe kwonna;<br />Okutuleetedde-ennaku,<br />Ffe abazibe b'amaaso;<br />KAtonda-ow'okusaasira,<br />Saasira emyoyo gyaffe.</lines>
+    </verse>
+  </lyrics>
+</song>

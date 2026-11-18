@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA TUKUTENDA GGWE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="292" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA tukutenda ggwe;<br />Tukkiriza-obukama bwo;<br />Aleruuya! Aleruuya!<br />Ayi Kitaffe ataggwaawo,<br />Ensi zonna zikusinza:<br />Aleruuya! Aleruuya!<br />Aleruuya! Aleruuya! Aleruuya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abakukoowoola ennyo,<br />Be bamalayika bonna:<br />Aleruuya! Aleruuya!<br />Basseraafi,Bakkerubi,<br />N'obuyinza-obw'omu ggulu:<br />Aleruuya! Aleruuya! <br />Aleruuya! Aleruuya! Aleruuya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mutukuvu,Mutukuvu,<br />Mutukuvu,Omugabe;<br />Aleruuya! Aleruuya!<br />Mukama ow'egye lyonna,<br />Kitiibwa kyo kyala wonna.<br />Aleruuya! Aleruuya! <br />Aleruuya! Aleruuya! Aleruuya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ekibiina-ekya batume <br />Ekyayatiikirira-ennyo:<br />Aleruuya! Aleruuya! <br />Ab'ekibiina-ekirungi <br />Ekya Banabbi ab'edda:<br />Aleruuya! Aleruuya! <br />Aleruuya! Aleruuya! Aleruuya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abattibwa ku lwa Yesu <br />Nabo bayimba-ettendo lye:<br />Aleruuya! Aleruuya! <br />Ekkanisa entukuvu <br />Mu nsi zonna ekwatula:<br />Aleruuya! Aleruuya! <br />Aleruuya! Aleruuya! Aleruuya!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kitaffe ggwe-omukulu-ennyo;<br />Omwana wo ow'ekitiibwa:<br />Aleruuya! Aleruuya! <br />N'omwoyo Omutukuvu,<br />Obusatu-obw'ekitiibwa:<br />Aleruuya! Aleruuya! <br />Aleruuya! Aleruuya! Aleruuya!</lines>
+    </verse>
+  </lyrics>
+</song>

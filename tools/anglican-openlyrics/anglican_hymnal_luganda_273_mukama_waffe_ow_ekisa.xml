@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA WAFFE-OW'EKISA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="273" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA waffe-ow'ekisa,<br />Tusonyiwe fenna;<br />-Ebirowoozo-ebitukuvu<br />N'empisa ezisaanira<br />-Otujjuzenga fenna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ku nnyanja,abtume bo <br />Baakuwuliranga;<br />Fenna fenna tusituke <br />Era tukugoberere <br />Amangu nga bali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tujjukira ennyanja eyo <br />N'ensozi ennungi;<br />Yesu kwe yafukamira <br />Ng'asba-eri Katonda we <br />Atwagala fenna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Otereeze-emyoyo gyaffe <br />Ennaku ziggweewo;<br />-Emitima nga giteredde <br />gijjukire-emirembe gyo<br />Egitasingika.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Era okwegomba kwaffe <br />Kumalibwe mu ggwe;<br />Eby'omubiri n'eby'ensi <br />Bisirike,tuwulire,<br />By'oyogera naffe.</lines>
+    </verse>
+  </lyrics>
+</song>

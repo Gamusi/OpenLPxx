@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MMWE MWENNA ABANOONYA-OKUTUUKA MU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="252" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MMWE mwenna abanoonya-okutuuka mu ggulu,<br />Mulabe ku Mukama,mubeere n'essanyu;<br />Tewali kkubo ddala,bwe mutayingira<br />Mu luggi lw'omu ggulu olwalagirirwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oluggi olwo ye Yesu-eyatugamba nti:<br />Buli akkiriza nze asonyiyibwa-ebibi;<br />Mmwe mwenna abakooye,kale mujje gye ndi <br />Nammwe aboonoonyi be najja-okulokola.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leero terunnaggalwa oluggi lw'eggulu;<br />Lukyali-awo luggule okuyingiramu.<br />Kale tolwa,yanguwa okuyita omwo;<br />Katonda-akugamba ntiKale jjangu leero.</lines>
+    </verse>
+  </lyrics>
+</song>

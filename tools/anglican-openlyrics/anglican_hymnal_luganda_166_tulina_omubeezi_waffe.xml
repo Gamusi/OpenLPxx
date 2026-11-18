@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TULINA-OMUBEEZI WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="166" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TULINA-Omubeezi waffe<br />Nga-atwagala!<br />Akira baganda baffe<br />Nga-atwagala!<br />Emikwano gyaffe ku nsi<br />Batutamwa,batuvaako:<br />Naye oyo tatukuusa,<br />Nga-atwagala!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buno bwe balamu bwaffe <br />Nga-atwagala!<br />Yesu okumumanyanga <br />Nga-atwagala!<br />Yatunoonya mu likoola <br />N'atununula n'omu-wendo<br />N'atuleeta mu kisibo;<br />Nga-atwagala!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiki-ekimusanyusa-era,<br />Nga-atwagala!<br />Kwe kutuwa ffe-omukisa <br />Nga-atwagal!<br />Ka tugume-emyoyo gyaffe <br />Ka tutambule n'essanyu <br />Alitutuusa ewuwe,<br />Nga-atwagala!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ku lw'erinnya lye-ery'amaanyi<br />Nga-atwagala!<br />Tuliwangula-abalabe <br />Nga-atwagala! <br />Kale nno tweyongeremga <br />Okuyimba nti Asinze <br />Asinze Mukama waffe;<br />Nga-atwagala!</lines>
+    </verse>
+  </lyrics>
+</song>

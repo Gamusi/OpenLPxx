@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA BWE YAMGGAMBA NTI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="295" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA bwe yamggamba nti<br />Jja,osembere gye ndi;<br />Owummule ggwe-akooye-ennyo<br />Ennaku z'omu nsi;<br />Ne nsembera nga bwe nnali<br />Nga nnakuwadde nze;<br />N'angabira-okuwummula,<br />Kaakano nsanyuse.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mukama bwe yamgamba nti <br />Kye nkuwa kya buwa;<br />Amazzi g'obulamu,nywa,<br />Ggwe-alumiddwa-ennyonta;<br />Ne nnywa amazzi-ago,<br />Ne nzikuta;-omwoyo gyange <br />Ne gufuna-amaanyi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mukama bwe yamgamba nti <br />Ensi-eno-ekutte nnyo;<br />Tunuulira nze,ofune <br />Omusana bulijjo;<br />Ne mutunuulira Yesu,<br />Ye ye njuba yange:<br />So saagala njuba ndala <br />Kunjakiranga nze.</lines>
+    </verse>
+  </lyrics>
+</song>

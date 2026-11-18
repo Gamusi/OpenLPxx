@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWOYO GWANGE,WULIRA-AMALOBOOZI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="311" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWOYO gwange,wulira-amaloboozi,<br />Ba-malayika be nga basuuta;<br />Nga batenda-obulungi bwe obungi,<br />N'obulamu obw'olubeerera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mmwe bamalayika abaddu be,<br />Mutwanirize ffe abatambuze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kale tugende nga tuwuliriza,<br />-Ennyimba zaabwe,Yesu ng'atuyita;<br />Tuyite mu nzikiza y'ensi eno,<br />Enjiri ye ng'etukulembera.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mmwe bamalayika abaddu be,<br />Mutwanirize ffe abatambuze.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>-Eddoboozi lya Yesu likoowoola nnyo <br />Nga liva-eri waggulu gy'atudde;<br />Nga lituuka eri abantu bangi,<br />-Abanafu n'abazitooweredwa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mmwe bamalayika abaddu be,<br />Mutwanirize ffe abatambuze.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bwe tulituuka mu ggulu gy'abeera,<br />Ennaku z'omu nsi zirikoma:<br />Tulibeera mu ssanyu ejjereere.<br />Nga tutendereza-Omulookozi</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mmwe bamalayika abaddu be,<br />Mutwanirize ffe abatambuze.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mmwe-ab'omu ggulu,bamalayika be,<br />Mutuyimbire-ennyimba ez'essanyu;<br />-Okutuusa olunaku olwo-olukulu <br />-Obuyinike bwonna lwe buliggwaawo.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mmwe bamalayika abaddu be,<br />Mutwanirize ffe abatambuze.</lines>
+    </verse>
+  </lyrics>
+</song>

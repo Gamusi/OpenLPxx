@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,BWE NNAKUSENGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="218" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,bwe nnakusenga,<br />Ne nsuubiza kino,<br />-Okukugoberenga<br />Obutaddirira.<br />Naye Mukama wange,<br />Beeranga nange ggwe,<br />Nnemenga okwesittala-,<br />Oba kukyamanga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Abalabe bange bangi,<br />Ba kyejo,ba ttima;<br />Naye ggwe-osinga bonna<br />-Okubeera n'amaanyi,<br />Sijja kuggwaamu mwoyo,<br />Ggwe ononnyinzisanga <br />-Olutalo-olw'entiisa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe mba nga neesittala,<br />Nkwata ku mikono,<br />-Awatali ggwe siireme<br />Kukyamira ddala;<br />Bwe mba nga nafuwadde,<br />Onzizeemu-omwoyo,<br />-Obusungu nga bunkutte,<br />Onkomeko mpola.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naawe,Mukama wange,<br />Wasuubiza kino,<br />Ankwesiga-amazima,<br />-Okumutuusa-ewuwo <br />Kale, nze nnakusenga,<br />Ombeere lwa kisa,<br />Nnemenga-okudda-ennyumba,<br />Mbeerenga mwesigwa.</lines>
+    </verse>
+  </lyrics>
+</song>

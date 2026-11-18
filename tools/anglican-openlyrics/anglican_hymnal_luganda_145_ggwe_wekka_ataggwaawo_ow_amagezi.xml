@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE WEKKA-ATAGGWAAWO,OW'AMAGEZI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="145" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE wekka-ataggwaawo,ow'amagezi<br />Ggwe-amasamasa-ennyo tetukulaba;<br />Oweebwe-ekitiibwa,ggwe Ayi Katonda;<br />Ggwe Ayinza-byonna tukusinza nnyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bulijjo tokoowa,so towummula,<br />-Obuyinza bwo bwokka bufuga byonna:<br />Oli wa mazima,tokyukakyuka,<br />Olw'okwagala kwo tuli ba ddembe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe-agaba-obulamu mu bintu byonna,<br />Byonna bibeerawo ku lulwo wekka;<br />Tugejja ne twanya ng'omuddo gw'ensi;<br />Mangwago gukala; ggwe tokyukako.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kitaffe-ow'ettendo,Omutukuvu<br />Tuyambe-okulaba ekitiibwa kyo;<br />Bamalayika bo awamu naffe,<br />Tusuute, tusinze, tutndereze.</lines>
+    </verse>
+  </lyrics>
+</song>

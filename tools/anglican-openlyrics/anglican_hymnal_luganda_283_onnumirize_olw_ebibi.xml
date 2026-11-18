@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ONNUMIRIZE OLW'EBIBI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="283" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ONNUMIRIZE olw'ebibi<br />Mwoyo Mutukuvu;<br />Eby'omu bulamu bwange<br />Byerulibwe mangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu amaanyi ebyama,<br />N'esulo-ez'omu nda <br />Ez'ebirowoozo bynge,<br />Ozimbikkulire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Onjakize-omusana gwo,<br />Ommulise mu nda,<br />Ommanyise-ebibi byange <br />Byonna-ebikisibwa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naweerezanga Ssetaani,<br />Mu nnaku ez'edda;<br />Ekisa kyo kye kyansenza;<br />Yesu anjagla.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwe ntyo bwe ndifukamira <br />Mu maaso ga Yesu,<br />Naakwebalizanga ddala,<br />Nga neewombeese nnyo</lines>
+    </verse>
+  </lyrics>
+</song>

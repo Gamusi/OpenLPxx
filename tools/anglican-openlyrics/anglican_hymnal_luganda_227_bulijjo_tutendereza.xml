@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BULIJJO TUTENDEREZA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="227" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BULLIJO tutendereza<br />Ekibuga kyaffe,<br />Ekyakubibwa mu ggulu,<br />Yesu kye yazimba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singa mbadde n'ebiwawa <br /> Nga bamalayika,<br /> Nandibuuse,nandituuse<br /> Eri mu Sayuuni</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Era-ennyumba zaakyo zonna<br /> Ziringa nga zaabu;<br /> Ze zisinga zonna ddala<br /> Ezizimbibwa abantu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Singa mbadde n'ebiwawa <br /> Nga bamalayika,<br /> Nandibuuse,nandituuse<br /> Eri mu Sayuuni</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu mwali,ye Mukama,<br /> Abafuga bonna;<br /> Bamalayika beeyanza,<br /> Nga bamuweereza.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Singa mbadde n'ebiwawa <br /> Nga bamalayika,<br /> Nandibuuse,nandituuse<br /> Eri mu Sayuuni</lines>
+    </verse>
+    <verse name="v7">
+      <lines>4 <br /> Mu ntebe ye mufuluma <br /> -Amazzi g'obulamu <br /> Agamasamasa ddala <br /> Nga-effeeza-ennungi.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Singa mbadde n'ebiwawa <br /> Nga bamalayika,<br /> Nandibuuse,nandituuse<br /> Eri mu Sayuuni</lines>
+    </verse>
+    <verse name="v9">
+      <lines>5 <br /> Era gy'ali gye gumera<br /> -Omuti gw'Obulamu <br /> Amalagala kwe gali<br /> Agawonya-abantu</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Singa mbadde n'ebiwawa <br /> Nga bamalayika,<br /> Nandibuuse,nandituuse<br /> Eri mu Sayuuni</lines>
+    </verse>
+    <verse name="v11">
+      <lines>6 <br /> Ffe tusiime ekibuga <br /> Yesu Kristo waffe <br /> Kye yatulongoosereza <br /> Ekiri mu ggulu.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Singa mbadde n'ebiwawa <br /> Nga bamalayika,<br /> Nandibuuse,nandituuse<br /> Eri mu Sayuuni</lines>
+    </verse>
+    <verse name="v13">
+      <lines>7 <br /> Otuzibule amaaso,<br /> Yesu tukulabe;<br /> Tubiwulire-ebigambo<br /> Bya Mukama waffe.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Singa mbadde n'ebiwawa <br /> Nga bamalayika,<br /> Nandibuuse,nandituuse<br /> Eri mu Sayuuni</lines>
+    </verse>
+  </lyrics>
+</song>

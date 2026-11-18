@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU MULOKOZI WANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="177" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU Mulokozi wange<br />Leero nze wuwo wekka;<br />Omusaayi gwo gunnaazizza,<br />Yesu Mwana gw'endiga</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tukutendereza,Yesu:<br />Yesu Mwana gw'endiga;<br />Omusaayi gwo gunnaazizza,<br />Nkwebaza,Mulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Edda nafyba bufubi <br />Okufuna-emirembe;<br />Leero mmaliridde ddala,<br />Okweyabiza Yesu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tukutendereza,Yesu:<br />Yesu Mwana gw'endiga;<br />Omusaayi gwo gunnaazizza,<br />Nkwebaza,Mulokozi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nnaababuuliranga-abantu <br />Obulokozi bwonna,<br />Obutali bwa kitundu <br />Obulamba-ob'obuwa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tukutendereza,Yesu:<br />Yesu Mwana gw'endiga;<br />Omusaayi gwo gunnaazizza,<br />Nkwebaza,Mulokozi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nnaategeezanga-ebya Yesu <br />N'obuvuumu ne sitya;<br />Eyanzigya mu busibe <br />N'okuwonya-eyamponya.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tukutendereza,Yesu:<br />Yesu Mwana gw'endiga;<br />Omusaayi gwo gunnaazizza,<br />Nkwebaza,Mulokozi.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Neebaza-eyannunula nze;<br />Eyamponya wa kisa! <br />Yesu-ankuuma ansanyusa-era,<br />Bulijjo yeebazibwe.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tukutendereza,Yesu:<br />Yesu Mwana gw'endiga;<br />Omusaayi gwo gunnaazizza,<br />Nkwebaza,Mulokozi.</lines>
+    </verse>
+  </lyrics>
+</song>

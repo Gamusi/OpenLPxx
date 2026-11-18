@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KWATA-OMUKONO GWANGE,NDI MUNAFU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="315" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KWATA-omukono gwange,ndi munafu;<br />Sirina maanyi,nafuwadde nnyo.<br />Naye bw'onkwata,siriiko kye naatya.<br />Naasobolanga byonna-eby'entiisa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mulokozi,kwata-omukono gwange,<br />Onsembeze kumpi n'omwoyo gwo <br />Enzikiza-ekutte,onjakire nze,<br />Nneme-okukyamanga mu kkubo lyo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwata-omukono gwange,ggwe-otegeera,<br />Enkwe n'obulimba bwa Ssetaani;<br />Bw'obeeera nange naafuna-emirembe,<br />Naatambulanga n'essanyu lingi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwata-omukono gwange,mu bulwadde,<br />Nga nzirika nga sissa mukka nnyo;<br />Onsomose-omugga-ogw'okufa kwange <br />Ontuuse gy'oli-olwa ssaddaaka yo.</lines>
+    </verse>
+  </lyrics>
+</song>

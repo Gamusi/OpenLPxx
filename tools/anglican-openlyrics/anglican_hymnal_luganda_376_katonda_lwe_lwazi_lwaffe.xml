@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA LWE LWAZI LWAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="376" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA lwe Lwazi lwaffe:<br />Ge maanyi-agataggwaawo-:<br />Tutya ki ffe bannannyini<br />Mukwano-ogwenkanaawo-?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obwedda abatukuvu<br />Baakwesiganga ggwe;<br />-Omukono gwo gwamala-abo;<br />Gunaatumala ffe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ensi nga tennatondebwa,<br />Ebintu nga mpaawo;<br />Edda n'edda ggwe-oba bumu,<br />Katonda-atavaawo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emyaka-olukumi gy'oli <br />Lwe lunaku lumu;<br />Gikulukuta ng'amazzi<br />Agayita-amangu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>N'ebintu byonna-eby'omu nsi <br />Biyita bwe bityo:<br />Leero tuba nabyo,naye<br />Jjo nga biweddewo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Katonda lwe lwazi lwaffe,<br />Ge maanyi-agataggwaawo-;<br />Tugume ffe bannannyini <br />Mukwano-ogwenkanaawo-.</lines>
+    </verse>
+  </lyrics>
+</song>

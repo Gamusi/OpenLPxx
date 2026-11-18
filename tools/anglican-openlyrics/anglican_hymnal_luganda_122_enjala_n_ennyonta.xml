@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENJALA N'ENNYONTA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="122" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENJALA n'ennyonta<br />Binnuma-:ompeereze<br />Amazzi g'obulamu-<br />N'emmere-eva gy'oli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-eyabetentebwa,<br />Ku bwange,Mukama;<br />-Omugaati gw'obulamu <br />Gumpe, nneme-okufa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe,Ayi Muzabibbu<br />Oguleeta-obulamu <br />Onnywese-enviinyo yo,<br />Envumule-omwoyo,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nkooye n'okukoowa,<br />-Olugemdo lunnyinze;<br />-Ondiise ku mmere yo, <br />-Ombeere,Mulokozi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eddungu weeriri,<br />Lye mpitamu,naye <br />Ka nnyanguwe gy'oli<br />Ennyonta yange-eggwe.</lines>
+    </verse>
+  </lyrics>
+</song>

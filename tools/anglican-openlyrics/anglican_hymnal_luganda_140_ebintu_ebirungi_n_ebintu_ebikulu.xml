@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EBINTU-EBIRUNGI N'EBINTU-EBIKULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="140" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-EBINTU-ebirungi n'bintu-ebikulu<br />Eby'amagezi,n'ebituukirivu;<br />-Ebintu ebinene n'ebintu-ebitono<br />Byonna byakolerwa ddala Katonda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nate-ebigambo ebiri mu kyama,<br />Bye tulowooza-era ne bye twogera <br />Bwe tubikisa mu mwoyo-abimanyi <br />Ebyo-ebikweke,byonna abiraba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Abantu ba wano n'abantu b'ewala,<br />-Abantu abasiru n'abantu-abagezi;<br />-Abaana ba Adanu bonna-abalamu,<br />Bonna bakuumibwa Yesu Mukama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>-Abantu-abgaga n'abantu abanaku,<br />-Abantu ba wano n'abava-e Bulaaya;<br />-Abaana b'abaddu n'abaana b'Abaami<br />Bonna benkana mu maaso ga Yesu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu nsi tewali na mwana wa muntu,<br />Atayagalwa Katonda-Omuyinza;<br />Bonna abalina-omwoyo-omuwombeefu,<br />Ogumuwulira,abakkiriza.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kale,tweyanze Katonda-ow'ekisa;<br />Ffe abanaku twakyama twabula:<br />Tumweyanze,alokolera ddala <br />Bonna-abakkiriza Yesu Mukama.</lines>
+    </verse>
+  </lyrics>
+</song>

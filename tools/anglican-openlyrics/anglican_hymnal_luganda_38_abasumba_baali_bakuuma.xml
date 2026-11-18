@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABASUMBA BAALI BAKUUMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="38" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-ABASUMBA baali bakuuma,<br />-Endiga zaabwe-ekiro,<br />Malayika n'akka ku nsi<br />N'eyakaayakana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mmwe-abasumba temwekanga <br />Ndeese-amawulire <br />-Ag'essanyu lingi nnyo nnyini <br />Eri-abantu bonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leero mu kyalo kya Dawudi <br />Era mu kika kye,<br />Muzaaliddwa-Omulokozi,<br />Yesu lye linnya lye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omwana munaamulaba<br />Ng'azazikiddwa-eri <br />Ng'abikkiddwa mu bugoye <br />Mu kiraalo ky'ente.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amangu ne walabika,<br />Mu ggulu ne ku nsi, <br />Eggye-erya bamalayika <br />Ne bayimba bati:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Katonda -aweebwe-ekitiibwa <br />Mu ggulu ne mu nsi:<br />-Emirembe gibe mu bantu <br />Bonna-abasiimibwa.</lines>
+    </verse>
+  </lyrics>
+</song>

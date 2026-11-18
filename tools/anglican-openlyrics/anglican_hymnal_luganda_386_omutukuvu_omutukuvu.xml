@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUTUKUVU OMUTUKUVU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="386" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Omutukuvu,Omutukuvu,Omutukuvu,<br />Mukama Katonda owegye lyona,<br />Egulu nensi zona bujude ekitibwa-,ekitibwako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omutukuvu,Omutukuvu,Omutukuvu,<br />Mukama Katonda owegye lyona,<br />Owebwe ekitibwa,Ai Mukama ali wagulu enyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

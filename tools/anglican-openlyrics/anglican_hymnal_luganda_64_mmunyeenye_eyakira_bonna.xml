@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MMUNYEENYE- EYAKIRA BONNA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="64" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MMUNYEENYE-eyakira bonna<br />-Abatambula-ekiro!<br />Otwakire otuwonye<br />Mu nzikiza yaffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jjangu! Muwanguzi waffe,<br />Yolesa-amaanyi go,<br />Ensi zonna zikusuute,<br />Zikugulumize.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leero-ebitonde byo byonna <br />Bikaaba bisinda,<br />Awamu n'emyoyo gyaffe <br />Nga tukusuubira.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe-eyeetikka-omusaalaba <br />Otuwonye-okufa. <br />Musuutwa waffe, labika, <br />Jjangu:tukwetaaga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Labika n'ekitiibwa kyo,<br />Weetikkira-engule,<br />Naffe ne bamalayika<br />Tusinzize wamu</lines>
+    </verse>
+  </lyrics>
+</song>

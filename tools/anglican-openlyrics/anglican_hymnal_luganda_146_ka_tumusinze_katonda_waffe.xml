@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KA TUMUSINZE,KATONDA WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="146" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KA tumusinze,Katonda waffe<br />Tumuyimmbire-eby'okwagala kwe,<br />Akuuma,ayamba,Mukulu wa dda,<br />Ekitiibwa kyonna kimwetooloola.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obuyinza bwe neby'ekisa kye <br />Tubibuulire mu nsangi zonna,<br />Eggulu n'eraddu-era n'omuyaga <br />Byonna be baddu be abaweereza.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wansi w'eggulu,Kabaka waffe,<br />Waateekebwa dda enkuluze yo <br />Y'ensi gye wasimba,n'ogyetoolooza <br />Ennyanja zonna nga ensalo zaayo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ani ayinza okunnyonnyola <br />Eby'Omugabi waffe by'agaba;<br />Ensozi n'ensenyi,-enkuba n'olume,<br />Empewo, n'omusana bimusuuta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ffe-abaana-abato banafu ddala <br />Tukwesiga ggwe atatulimba,<br />Eby'ekisa kyo bye by'okwewuunyisa,<br />Ggwe-atonda,ggwe akuuma,ggwe-akwana,Yesu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ayi ow'amaayi, ow,okwagala;<br />Bamalayika bakutenda nnyo <br />Emigigi egy'abanunule bo <br />Basinza, basuuta,baleeta-eteendo.</lines>
+    </verse>
+  </lyrics>
+</song>

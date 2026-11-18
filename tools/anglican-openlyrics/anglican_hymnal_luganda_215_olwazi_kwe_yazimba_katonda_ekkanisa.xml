@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OLWAZI KWE YAZIMBA KATONDA-EKKANISA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="215" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OLWAZI kwe yazimba Katonda-Ekkanisa,<br />Ye Mulokozi waffe eyagitukuza,<br />-Olwamazzi n'ekigambo-,okuba-omugole we;<br />N'ava mu ggulu,n'akka ku nsi,erokoke.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abantu bonna-ab'ensi bayingira omwo,<br />Kyebava bagiyita yokka-Ebuna wonna;<br />Eyatula Mukama omu n'ekkiriza,<br />-Ekigambo kye, n'etoola emmere-emu yokka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leero newankubadde enyoomebwa-abantu,<br />Olw'obukyamu bwamu,n'olw'okwesalamu;<br /> -Abatukuvu beekuuma ngabakukaabira,<br /> Olijja ddi Mukama? tukulindirira.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu mitawaana gyayo, mu ntalo n'obwowe,<br />-Emirembe gya Katonda gyo gy'erindiridde;<br />Terirema kuweebwa bye yagisuubiza,<br />Ekkanisa erwana n'eryoka-ewummula.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yagattibwa-era ku nsi ne Katonda waffe,<br />N'esseekimu mu mwoyo n'abo abeebaka,<br />Baweereddwa n'essanyu;Yesu otuwe ffe,<br />-Okubeeranga mu ggulu nga bo-awamu naawe.</lines>
+    </verse>
+  </lyrics>
+</song>

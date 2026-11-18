@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU NZIKIZA GGWE-oMUSANA OGWAKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="319" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU nzikiza ggwe-Omusana ogwaka,<br />Onjakire.<br />-Obudde bukutte nange ntidde nnyo,<br />Onjakire.<br />Nkulembera,siraba gye mggenda,<br />Naye ggwe omanyi byonna,Ayi Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Edda saakwagala ggwe kunnumggamya,<br />Nakukyawa.<br />Nali njagala-okweronderanga <br />-Ekkubo lyange <br />Naye leero-onsaasire-olw'ekisa,<br />Tojjukira byonoono byange-eby'edda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Ekisa kyo ekintuusizza kaakano<br />Tekiggwaawo;<br />Tekiiremenga kunneetooloolanga <br />-Ennaku zonna;<br />Era ne mu ggulu bwe mdituukayo <br />Naayimbanga-okutendereza Yesu.</lines>
+    </verse>
+  </lyrics>
+</song>

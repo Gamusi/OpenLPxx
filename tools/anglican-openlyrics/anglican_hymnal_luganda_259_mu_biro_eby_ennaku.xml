@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU BIRO-EBY'ENNAKU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="259" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU biro-eby'ennaku<br />Yesu-onnyambenga<br />Nneme-okugwa wansi,<br />Nga nkwerabidde.<br />Bwe mba mbuusabuusa,<br />Ontunuulire,<br />Ompanirirenga<br />Olw'amaanyi go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Enkwe za Ssetaani <br />Ze zinnumba-ennyo,<br />Obugagga-obw'ensi <br />Businza-omwoyo <br />Ka njijukireggwe <br />Eyafiirira:<br />Ggwe-oli kigo kyange <br />Mwe neekweka nze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu bw'onoobanga <br />Onkangavvula,<br />Byonna-ebijja ku nze <br />Ka mbikkirize;<br />Neewaayo nze gy'oli <br />Ndi wuwo wekka,<br />-Ontukuze,ombeere,<br />Ennaku zonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu ntalo-ez'entiisa <br />Nkwesiga wekka <br />Bwe ndinafuwala,<br />Ojjanga gye ndi;<br />Omubiri gwange <br />Ne bwe gulifa,<br />-Onzuukize mu bafu <br />Nze-akweyabiza.</lines>
+    </verse>
+  </lyrics>
+</song>

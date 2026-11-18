@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LEERO BAMALAYIKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="42" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LEERO bamalayika<br />Bayimbira Kabaka,<br />Azaaliddwa gye tuli,<br />Laba bwe yeetoowaza;<br />Ye afuuse omuntu,<br />Okutugulumiza,<br />Mujje ab'ensi zonna,<br />Okumutendereza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leero bamalayika,<br />Bayimbira Kabaka</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ffe tujje tumusuute,<br />Emanuweri waffe,<br />Omwana w'omuwala<br />Yesu Omulokozi!<br />Azze-omusana gw'ensi <br />-Okutumulisa fenna <br />Tuleme-okutambula <br />Mu nzikiza y'ekibi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leero bamalayika,<br />Bayimbira Kabaka</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kristo wa lubeerera,<br />Mukama-ow'ekitiibwa <br />Ye Kabaka yennyini <br />Azze-okubeera naffe;<br />Azze mu buwombeefu,<br />Mu ngeri ey'obuddu <br />-Okutufiirira fenna,<br />Tuleme okubula,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Leero bamalayika,<br />Bayimbira Kabaka</lines>
+    </verse>
+  </lyrics>
+</song>

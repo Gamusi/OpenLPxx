@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KINO KYE NSIIMA-ENNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="320" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KINO kye nsiima-ennyo<br />Bwe nkirowoozaako,<br />-Okusembera-okumpi<br />N'okufa nga sitya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buli kiro mmala <br />Ebbanga mu kkubo;<br />Eririntuusa-eyo <br />Ewaffe mu ggulu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siriiko kye ntya nze <br />Mu lugendo luno,<br />Gye mgenda mu ggulu <br />Kitange gy'abeera.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Byonna ndibiraba <br />Bye nasomangako,<br />-Abatukuvu bonna <br />Abankulembera.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ne bamalayika <br />Nga bakuba-ennanga,<br />Era ne Katonda,<br />Mukama w'obulamu-.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Namuwammantira <br />Mu nzikiza-ey'ensi;<br />Yanzaawula,era <br />Mu kufa-alimponya.</lines>
+    </verse>
+  </lyrics>
+</song>

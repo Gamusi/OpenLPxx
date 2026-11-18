@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OKWAGALA OKUTAGGWAAWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="172" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OKWAGALA-okutaggwaawo<br />Okw'olubeerera,<br />Kukulukuta n'amaanyi,<br />Ge mazzi agataggwaawo-.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ffe tetuyinza kulinnya,<br />Mukama Kristo-akke:<br />Ye abeera wonna-wonna,<br />Tewali w'abula.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye ye Mubeezi waffe <br />-Atubeera bulijjo;<br />Alabwa mu kizikiza <br />Ne mu kwagala-era.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ebyambalo bye byawonya,<br />Endwadde z'abantu;<br />tumweyune bwe tulumwa,<br />Tuwonere ddala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>-Okwagala-okutagambika,<br />-Erinnya lyo liwonya,<br />Okukugaana kwe kufa,<br />Ggwe-olina obulamu-</lines>
+    </verse>
+  </lyrics>
+</song>

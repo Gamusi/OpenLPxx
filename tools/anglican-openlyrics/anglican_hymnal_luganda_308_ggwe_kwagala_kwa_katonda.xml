@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE KWAGALA KWA KATONDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="308" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE kwagala kwa Katonda<br />Tomanyika bukulu bwo,<br />Nze nnyimiridde-ewala-ennyo<br />Nga mkufumiitirizaako;<br />-Obuyinike bunjijudde<br />-Okutuusa lw'olimpummuza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wampita-edda lwa kisa kyo <br />N'olyoka-empa-emirembe gyo <br />Naye bwe mba nkyatambula <br />Mu mpisa-enkyamu ez'ensi,<br />Emirembe-egyo gimbula <br />Ndituuka ddi-okuwummula?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kyonna,kyonna-,ekigezaako<br />-Okunfuga leero mu mwoyo <br />Nsaba nti Okimmalemu <br />Okisse ku musaalaba;<br />Nneme-okwegomba-eby'abantu <br />-Omwoyo gunywerere ku ggwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Buli kaseera nkusaba <br />Weeyongere-okumpalula;<br />Byonna mbireke,wabula <br />Ebiva mu bulungi bwo;<br />Njijule-ebyo by'ontonera <br />N'okusinga okwagala.</lines>
+    </verse>
+  </lyrics>
+</song>

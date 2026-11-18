@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU BULIJJO NKWETAAGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="266" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU bulijjo nkwetaaga,<br />Tondeka bw'omu;<br />Beera nange ggwe okumoi,<br />So tonvaamu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwe mba nsanyuka nkugamba <br />ebinsanyusa;<br />Era-ombeere okukola,<br />Ky'oyagala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe mba ndaba-ennaku nnyingi <br />Ezintengezza;<br />Ggwe-ozimanyi ggwe Mukama <br />N'onsaasira</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwe mba nsobya ku ggwe Yesu <br />Olw'obunafu;<br />Nsaasira-obunafu bwange <br />Ompe-amaanyi.</lines>
+    </verse>
+  </lyrics>
+</song>

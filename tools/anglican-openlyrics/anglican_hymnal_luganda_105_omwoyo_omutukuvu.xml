@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWOYO OMUTUKUVU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="105" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-OMWOYO-Omutukuvu<br />Oyingire mu ffe;<br />Emitima gyaffe<br />Gijjule-okwagala;<br />Mubeezi waffe yakira<br />Mu bulamu bwaffe bwonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Omwoyo-Omutukuvu <br />-Otumalemu mu ffe <br />Okwegomba kwonna <br />Okutasaanira;<br />-Omusana-ogwakaayakana <br />Omulise-emyoyo gyaffe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Omwoyo-Omutukuvu <br />Tuwe-Okwagalana;<br />Tutuukirizenga <br />Etteeka lya Yesu:<br />Twesibenga-obuwombeefu <br />Tunakuwalire-ebibi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>-Omwoyo-Omutukuvu <br />Otusobozese <br />Okutuukiriza <br />Yesu by'ayagala;<br />Tuyaayaanire Katonda,<br />Bye yategekera fenna.</lines>
+    </verse>
+  </lyrics>
+</song>

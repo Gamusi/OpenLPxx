@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BULIJJO TUMUSUUTENGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="212" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BULIJJO tumusuutenga<br />Mukama waffe Yesu,<br />Tumwebaze-olw'okukuuma<br />Kw'akuumye-Ekkanisa ye<br />Okuva mu nnaku ezo,<br />-Enjiri bwe yaleetebwa,<br />Mu nsi yaffe y'e Uganda  N'eyigganyizibwa nnyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bulijjo tukitendenga,<br />Ekitiibwa kye kyokka <br />Bw'abawangudde-abalabe <br />Ab'amaanyi-,ab'entiisa;<br />Tugobererenga abo <br />Abaasooka-okutiibwa <br />Ne batamwegaana Yesu,<br />Mu nnimi z'omuliro.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bulijjo ka twewengayo <br />Yesu-okumuweereza;<br />Okusooka-emyoyo gyaffe <br />Gifuuke nga ssaddaaka;<br />Ate tumutonerenga,<br />-Ebintu,n'abaana baffe <br />Atuggyemu obukodo,<br />Atuwe ku ssanyu lye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bulijjo twewombeekenga,<br />Tusabenga Mukama <br />Atuggyemu obunafu,<br />Agabenga-Omwoyo we;<br />Mu mawanga-agaliraana <br />-Ensi yaffe-enjuyi zonna,<br />Ebika bikkirizenga,<br />-Eddiini ebune mu-Africa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bulijjo tweyongerenga <br />Yesu-okumufaanana,<br />Tuyige-okutuukiriza <br />-Empisa z'obuwombeefu <br />Nga tusuubira-okujja kwe,<br />Nga tumwesiga yekka;<br />Nga tukola,nga tusuuta,<br />Nga tumulindirira</lines>
+    </verse>
+  </lyrics>
+</song>

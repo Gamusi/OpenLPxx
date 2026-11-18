@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWANA-E BEESIREKEMU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="57" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWANA-e Beesirekemu<br />Beesirekemu;<br />Omwana-azaaliddwa-omuto</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aleruuya,Ale,Aleruuya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Endiga-,endogoyi n'ente; <br />-Endogoyi n'ente <br />Zaasinza Kabaka waazo;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aleruuya,Ale,Aleruuya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>N'essanyu abatukuvu <br />Abatukuvu; <br />Baalaba obulokozi;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aleruuya,Ale,Aleruuya</lines>
+    </verse>
+  </lyrics>
+</song>

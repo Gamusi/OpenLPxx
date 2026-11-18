@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMBUULIRE KU KISA EKY'OMULOKOZI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="247" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMBUULIRE ku kisa eky'Omulokozi,<br />Ye nga bwe yafaanana,bw'alina-obulungi,<br />Yesu-eyatununula,eyatufiirira;<br />Nnali mgenda-okubula,Yesu n'andokola.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ombuulire ku kisa,ombuulire ku kisa,<br />Ombuulire ku kisa eky'Omulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ombuulireko-empola ye bw'alina-ekisa <br />Ekitakomezeka,Yesu ng'atwagala,<br />Yabonyaabonyezebwa Laba-okwagala kwe<br />Ababi ne baweebwa obutukuvu bwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ombuulire ku kisa,ombuulire ku kisa,<br />Ombuulire ku kisa eky'Omulokozi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ombuulire-ekitiibwa ky'alibeera nakyo,<br />Bw'alikomawo ku nsi,kwe yakomererwa.<br />Ye alijja n'ebire,ne bamalayika,<br />Abeesigwa be bonna ne balinnya naye</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ombuulire ku kisa,ombuulire ku kisa,<br />Ombuulire ku kisa eky'Omulokozi.</lines>
+    </verse>
+  </lyrics>
+</song>

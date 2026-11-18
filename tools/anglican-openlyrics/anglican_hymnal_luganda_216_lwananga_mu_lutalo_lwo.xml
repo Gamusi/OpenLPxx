@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LWANANGA MU LUTALO LWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="216" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LWANANGA mu lutalo lwo,<br />Okulwana okulungi,<br />Nyweza ggwe obulamu bwo,<br />Yesu atuwa empeera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wakana ggwe-omuwakanyi,<br />Leeta amaanyi go gonna,<br />Gumira-olugendo lwo,<br />Yesu atuwa empeera.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leka-okweraliikirira,<br />Tulina-Omusaale waffe;<br />Mwesige ye,oliraba <br />Yesu bw'atuwa-ebirungi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tozirika,ali kumpi,<br />Tajjulula kwagala kwe,<br />Kkiriza ggwe,oliraba <br />Yesu bw'ali-Omulokozi</lines>
+    </verse>
+  </lyrics>
+</song>

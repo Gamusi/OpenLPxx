@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LABA NNYIMIRIDDE W'OLI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="237" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LABA nnyimiridde w'oli,<br />Neeyanjula ku luggi lwo,<br />-Ebibi tebikukooyesa?<br />Onnyingize,onnyingize.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Laba nnyimiridde w'oli <br />Neeyanjula ku luggi lwo,<br />Ebibi tebikukooyesa?<br />Onnyingize,onnyingize.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ku lulwo nnakomererwa,<br />Tojjukira kufa kwange?<br />Essanyu lyo liddirira;<br />Oyingire,oyingire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Laba nnyimiridde w'oli <br />Neeyanjula ku luggi lwo,<br />Ebibi tebikukooyesa?<br />Onnyingize,onnyingize.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tomggaana,laba nkwolesa,<br />Mu maaso go enkovu zange:<br />Nneemale omutima ggwo?<br />Onsembeze,onsembeze.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Laba nnyimiridde w'oli <br />Neeyanjula ku luggi lwo,<br />Ebibi tebikukooyesa?<br />Onnyingize,onnyingize.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nkuleetedde-ebirabo byo<br />-Emirembe,-essanyu,n'obulamu<br />Ka nkulokolere ddala,<br />Ayi mwana wange-,onnyingize</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Laba nnyimiridde w'oli <br />Neeyanjula ku luggi lwo,<br />Ebibi tebikukooyesa?<br />Onnyingize,onnyingize.</lines>
+    </verse>
+  </lyrics>
+</song>

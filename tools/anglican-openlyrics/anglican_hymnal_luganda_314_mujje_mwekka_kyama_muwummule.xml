@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUJJE MWEKKA KYAMA MUWUMMULE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="314" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJJE mwekka kyama muwummule,<br />Nange,mu kifo eteri bantu,<br />Emitawaana gibayinzeeko,<br />Oluyoogaano lubakooyezza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Muleke byonna-ensi by'yagala,<br />Munoonye-ebitanoonyezeka nsi,<br />Awamu nange-era ne Kitange <br />So temuli mwekka,tuli nammwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mumbuulire byonna bye mukola,<br />Bye mwogera-era bye muwangula,<br />Mu nnaku zammwe bwe mulemeddwa,<br />Bimanyibwa-Atakisika byama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ekkubo lya wala,muwummule,<br />Olugendo lunaabazirisa;<br />Mutoole-emmere-eva gye ndi mulye,<br />-Amazzi ag'obulamu muganywe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ate mudde ku mirimu gyammwe,<br />Muli banafu,naye ndi nammwe;<br />Omwesigwa-aliweebwa-empeera ye,<br />Njija mangu emmambya esaze.</lines>
+    </verse>
+  </lyrics>
+</song>

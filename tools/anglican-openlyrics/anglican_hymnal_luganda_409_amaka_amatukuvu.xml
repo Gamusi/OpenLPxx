@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AMAKA AMATUKUVU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="409" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AMAKA ga kitiibwa mu kkanisa yaffe;<br />Okusinga eri omwami n'omukyala;<br />Be yegatta Mukama okubeera-awamu<br />Mu ssanyu wamu n'abaana baabwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abo be babiri abaakola endangano <br />Mu kkanisa ne bagattibwa mu lwatu;<br />Babeerenga wamu okutuusa-okufa;<br />Ago ge maka amutukuvu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amaka amalungi kya bugagga mu nsi;<br />Gwe musingi omunywevu og'eggwanga;<br />Omukyala n'omwami we nga baagalana,<br />Olwo nno nga n'abaana balaba.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abo be babiri abaakola endangano <br />Mu kkanisa ne bagattibwa mu lwatu;<br />Babeerenga wamu okutuusa-okufa;<br />Ago ge maka amutukuvu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abo be babiri abaakola endangano <br />Mu kkanisa ne bagattibwa mu lwatu;<br />Babeerenga wamu okutuusa-okufa;<br />Ago ge maka amutukuvu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mu maka okusinza kye kimu n'okulya;<br />Abakulu n'abaana basinza Yesu;<br />Ku makya, mu kulya-emmere era n'ekiro<br />Basaba era beenenya-ebibi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Abo be babiri abaakola endangano <br />Mu kkanisa ne bagattibwa mu lwatu;<br />Babeerenga wamu okutuusa-okufa;<br />Ago ge maka amutukuvu.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Amaka gaffe tegayinza kweyagaza,<br />Endagaano zaffe bwe tutazikuuma;<br />Omukyala oba-omwami bwe tutazikuuma;<br />Okukuuma munne mu bwesigwa.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Abo be babiri abaakola endangano <br />Mu kkanisa ne bagattibwa mu lwatu;<br />Babeerenga wamu okutuusa-okufa;<br />Ago ge maka amutukuvu.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mmwe abaami kirungi muleke-okusobya,<br />Okufuna abakazi mu bukyamu;<br />Era nammwe-abakazi mumanye nti kibi<br />Okufumba nga tewagattibwa.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Abo be babiri abaakola endangano <br />Mu kkanisa ne bagattibwa mu lwatu;<br />Babeerenga wamu okutuusa-okufa;<br />Ago ge maka amutukuvu.</lines>
+    </verse>
+  </lyrics>
+</song>

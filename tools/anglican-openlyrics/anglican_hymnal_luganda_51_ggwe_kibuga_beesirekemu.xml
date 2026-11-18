@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE KIBUGA BEESIREKEMU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="51" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE kibuga Beesirekemu-<br />Tukutunuulire;<br />Nga osiriikiridde nnyo<br />Mu maaso g'eggulu.<br />Mu nzikiza mu nguudo zo<br />-Omusana gwo guzze;<br />Byonna bye watyanga edda<br />Biweddewo leero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Malyamu-azadde Kristo <br />Omutabaganya;<br />Abantu mu butamanya<br />Katonda-abaagala,<br />Ggwe Kristo-,era ggwe Kabaka <br />Tukusuute leero: <br />Oweebwenga ekitiibwa <br />Eyaleeta-essanyu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ayi Katonda nga watuwa<br />Yesu Omwana wo, <br />Kye kirabokyo-ekirungi <br />Ekyava mu ggulu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Otuwe ffe aboonooyi <br />Okumukkiriza,<br />N'emyoyo emiwombeefu, <br />Ayingire mu ffe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ggwe-Omwana Omutukuvu <br />Jjangu-obeere mu ffe; <br />Otuggyeko-ebibi byonna <br />Ozaalibwe mu ffe. <br />Tuwulira bamalayika <br />Bayimba-eby'essanyu <br />Eby'Omulokozi w'ensi <br />Emanuweri waffe.</lines>
+    </verse>
+  </lyrics>
+</song>

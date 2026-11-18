@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU MIKONOGYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="113" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU mikono gyo, Yesu,<br />Tuleeta-omwana-ono;<br />Ku Bbatirizo lino,<br />Tukusaba-omukuume.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tumanyi-okwagala kwo <br /> Eri-abaana bonna;<br /> Kubanga wabanenya <br /> Abaali babagoba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naffe leero tusaba <br /> Bwe tuleeta ono <br /> Omutuule-omwana wo <br /> -Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omulabe wa maanyi,<br /> Naye wamusinga <br /> Otukuume mu kkubo,<br /> Otutuuse mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

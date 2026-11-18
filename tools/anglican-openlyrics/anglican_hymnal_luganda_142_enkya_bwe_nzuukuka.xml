@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENKYA BWE NZUUKUKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="142" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENKYA bwe nzuukuka,<br />Bwe mba ngolokose;<br />Nnasuutanga Katonda</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ng'amaaso galaba <br />Enjuba evuddeyo <br />Nnaasuutanga Katonda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ng'engoma-entukuvu<br />Ez'akawungeezi <br />Bwe ziyita-okusaba,<br />Kyenva njijukira <br />Obulungi bwe bwonna <br />Ne nsuutanga Katonda.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwe nkola-omulimu <br />Ogundagirirwa,<br />Nnaasuutanga Katonda;<br />Nga ntoowolokoka,<br />Nga nzannya-,oba nga ndya,<br />Nnaasuutanga Katonda.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mmwe-abantu b'omu nsi,<br />Mmwe mwenna, bulijjo <br />Musuutenga Katonda <br />Bw'asaanidde yekka <br />-Okutenderezebwa;<br />Katonda-Ayinza byonna.</lines>
+    </verse>
+  </lyrics>
+</song>

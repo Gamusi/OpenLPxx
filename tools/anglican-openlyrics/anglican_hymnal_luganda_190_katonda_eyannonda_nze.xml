@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA-EYANNONDA NZE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="190" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA-eyannonda nze<br />Si lwa bulungi bwange,<br />Eyannonda-obulonzi<br />N'anzigyako ebibi.<br />Nnyinza ntya-okumalayo<br />-Ebbanja lyange-eryenkanaawo-?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yanzigya mu balabe,<br />N'anfuula omwana we;<br />Yanzigya mu bujeemu<br />N'anfuula-omutukuvu;<br />Nnyinza ntya-okumalayo <br />-Ebbanja lyange-eryenkanaawo-?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe ndituuka mu ggulu <br />Olw'obutuukirivu;<br />Obwa Yesu,si bwange,<br />Bwe ndiraba-amaaso ge;<br />Ne ndyoka ntegeereraawo-<br />-Ebbanja bwe litaggwaayo.</lines>
+    </verse>
+  </lyrics>
+</song>

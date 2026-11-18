@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU MUKAMA WANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="327" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU Mukama wange,<br />Neesiga-amaanyi go;<br />Sitya balabe bange<br />Ne bwe bannumba.<br />Bw'onkuuma-ennyo-olw'ekisa,<br />Siriiko kye ntidde;<br />Mu ngalo za Kitange,<br />Mwe mpummulira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ssetaani bw'aba-annumba <br />N'ettima lye-eringi;<br />Buli lw'ajja-okunnumba <br />Nenziramu bwe nti:<br />Weegendere Ssetaani,<br />Yesu yakusinga;<br />Nali nkusenze edda,<br />Ne nkusenguka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omulokozi Yesu,<br />Tewali ayinza <br />Okutusikula ffe <br />Mu mikono gyo;<br />Alituloopa ye-ani?<br />Ggwe watununula;<br />Wawangula Ssetaani,<br />Tetukyamutya.</lines>
+    </verse>
+  </lyrics>
+</song>

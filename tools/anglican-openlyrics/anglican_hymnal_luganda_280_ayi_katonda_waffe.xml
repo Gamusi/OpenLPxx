@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI KATONDA WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="280" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI Katonda waffe<br />Ggwe watonda ffe,<br />Naye twakuvaako<br />Dda,ne twonoona.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ayi Katonda waffe,<br />Twakujeemera;<br />Naye tukusinza <br />Tuli baana bo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ayi Katonda waffe,<br />Watusaasira;<br />Twebaze ggwe leero,<br />Olw'okutwagala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ayi Mukama waffe.<br />watununula;<br />Twagala-okukusenga <br />Tukuweereze.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ayi Mukama waffe,<br />Twali bajeemu;<br />Naye otusenze,<br />Tube-abaddu bo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ayi Katonda-,Omwoyo <br />Omutukuvu,<br />Fenna otukuume,<br />Leero mu bibi.</lines>
+    </verse>
+  </lyrics>
+</song>

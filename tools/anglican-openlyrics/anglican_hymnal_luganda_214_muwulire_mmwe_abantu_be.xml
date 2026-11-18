@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUWULIRE MMWE-ABANTU BE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="214" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUWULIRE mmwe-abantu be<br />Abamukiriza;<br />Mubunye ebigambo bye<br />Kristo wa Katonda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mubuulire wonna wonna,<br />Mu mawanga gonna;<br />Banabbi ye gwe baalanga <br />Ye musana gw'ensi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Katonda-ow'olubeerera,<br />Eyeefuula omuntu,<br />Eyatwala omubiri,<br />Ye Katonda ddala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katonda-ava mu Kitaffe <br />Asinzibwa bonna,<br />Eyatuwonya mu kufa <br />N'atufuula abaana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fenna abamukkiriza<br />Atuwe-omwoyo gwe;<br />Bwe tuba tataataagana,<br />Ye atulumgamya</lines>
+    </verse>
+  </lyrics>
+</song>

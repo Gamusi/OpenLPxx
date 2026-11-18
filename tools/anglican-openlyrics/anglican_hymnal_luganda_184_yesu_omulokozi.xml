@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU OMULOKOZI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="184" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU Omulokozi<br />Yanfiirira ku muti,<br />N'anzigyako ebibi:<br />Yesu Mulokozi wange!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gunsinze,so sirina:<br />Butuukirivu bwonna:<br />Naye ggwe wanfiirira: <br />Yesu Mulokozi wange!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obutukuvu bwange,<br />Bwonna nziina njereere;<br />Kyennaavanga nkweisga,<br />Yesu Mulokozi wange!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ebibi byansonyiyibwa,<br />N'ebbanja lyange lyaggwa;<br />Lwe nakukkiriza ggwe:<br />Yesu Mulokozi wange!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ombeerenga bulijjo,<br />Ntabule mu kkubo lyo;<br />Nkwatenga-amateeka go.<br />Yesu Mulokozi wange!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MMWE-ABANTU MU MUMUWULIRE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="399" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MMWE-abantu mu mumuwulire<br />Amalooboozi muyimuse,<br />Ensana muziwuube nnyo,<br />Ozaana waggulu mu ggulu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Awo-Yesu bwe yasembera,<br />Okumpi ne Yerusaalemi,<br />N'atuma-abayigirizwa;<br />Ozaana waggulu mu ggulu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>N'agamba ntiMugendo nno <br />Babiri okuyingira <br />Mu kyalo kiri mu maaso<br />Ozaana waggulu mu ggulu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>-Amangu ago,eneerabika;<br />Endogoyi ng'esibiddwa;<br />Kale mugisumulule<br />Ozaana waggulu mu ggulu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bagenda-okugoberera<br />Endogoyi-era n'akaana,<br />Yesu ne bamutuuzaako,<br />Ozaana waggulu mu ggulu!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Awo Yesu bwe yayingira<br />Mu kibuga-ekitukuvu,<br />Abantu baayogerera <br />Ozaana waggulu mu ggulu!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>-Omwala wa Yerusalemi,<br />Ng'edda bwe kyawandiikibwa,<br />Leero Kabaka wo ajja<br />Ozaana waggulu mu ggulu!</lines>
+    </verse>
+  </lyrics>
+</song>

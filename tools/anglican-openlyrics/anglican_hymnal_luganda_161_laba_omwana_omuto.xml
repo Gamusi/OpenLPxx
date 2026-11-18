@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LABA OMWANA-OMUTO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="161" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LABA Omwana-omuto<br />Yazaalibwa mu nsi<br />Mu nnyumba enjavu-ennyo,<br />Ente nga weeziri.<br />Naye Omwana-oyo y'ani?<br />Ye Yesu eyatonda-ensi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ekyo kitalo nnyo!<br />Katonda Omwana <br />-Okujja mu nsi muno <br />N'obuwombeefu-atyo;<br />Fenna tuyigire ku ye,<br />Okwewombeeka-obulungi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Era bwe yakula,<br />N'afuuka-omubazzi <br />N'akola n'engalo,<br />Eyatonda ensi.<br />Emirirmu n'obwesiggwa,<br />Biweebwenga-omukisa gwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe Yesu eyajja <br />-Omulenzi ow'essanyu <br />-Otumulise fenna <br />-Omusana ogw'obulamu <br />Okwagala kwo okungi <br />Kwe kutuwalula gy'oli.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABAKRISTAAYO BOONA-AB'OMU NSI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="35" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABAKRISTAAYO bonna-ab'omu nsi<br />Mugolokoke leero n'essanyu<br />Mutendereze Omulokozi<br />Eyazaalirwa-e Beesirekemu:<br />Bamalayika be be baasooka<br />Okutendereza Omwana oyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo baasooka okukibuulira <br />Abasumba-abo abawombeefu;<br />Nti temutya,kubanga-olwa leero <br />Azaaliddwa-Omulokozi wammwe:<br />Leero Katonda kye yasuubiza <br />Kituukiridde: Yesu ye azze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Awo ekibiina ne kirabika <br />Eggye lyonna-erya bamalayika <br />Nga bayimba oluyimba-olugya, <br />Nga batendereza okwagal <br />Okwamuleeta okuzaalibwa <br />N'obuwombeefu obwenkanidde-awo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nabo bwe baamala-okuwulia<br />Amangu ago ne bagolokoka, <br />Ne bagendayo mbiro nnyingi nnyo <br />Balabe Katonda kye yakola;<br />Ne basanga Omwana we Yesu, <br />Ne bamusinza n'essanyu lingi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naffe twanguwe-okugulumiza <br />Ekisa-ekingi-eky'Omulokozi;<br />Tujjukirenga-ekisa kye kyonna <br />Ekyamuleeta-okutufiirira; <br />Bwotutyo bwe tunaamuyimbira <br />Kabaka waffe-ow'olubeerera</lines>
+    </verse>
+  </lyrics>
+</song>

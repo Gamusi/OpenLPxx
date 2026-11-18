@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABALAGUZI EDA BAVA WALA NNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="394" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-Abalaguzi eda bava wala nnyo,bava wala nyo,Nebaita ku nsozi era ku miga,era ku miga,Ngabagenda-okunonya Kabaka wabwe,Kabaka wabwe, Erinya lye Yesu,Mukama wafe,Mukama wafe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emuyenye kaingo yabakulembera,yabakulembera,yabakulembera Kunyumba enjavu e Beserekemu,eBeserekemu,Nebalaba omwana-eyazalibwayo,eyazalibwayo,Erinyalye Yesu,Musana gwensi,Musana gwensi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Era bwebaVUnama bamusinza dala,bamusinza dala,Nebawayo-ebirabo by'omwendo mungi,by'omwendo mungi,Kubanga omwana oyo omuto,oyo omuto,Erinya lye Yesu,Mukama wafe,Mukama wafe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Era nafeng'abo tumutonerenga,tumutonerenga,Tainza kunyoma obwavu bwafe, obwavu bwafe,Atwagala fena,yaja kulwafe,yaja kulwafe, Erinnyalye Yesu,Katonda wafe,Katonda wafe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mukale-abakulu n'abana-abato,n'abana-abato,Muje,mumusinze omwana ono,omwana ono,Eyava mu gulu nabera kunsi ,nabera kunsi,Alioke-atuwonye fena mu bibi,fena mu bibi.</lines>
+    </verse>
+  </lyrics>
+</song>

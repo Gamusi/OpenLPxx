@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE-ASUUTIBWA BULI MUNTU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="286" />
+    </songbooks>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE-asuutibwa buli muntu,<br />Kkiriza-eteendo lyaffe;<br />-Okusobya kwe tukoze ffe,<br />Twenenyerezza ddala;<br />-Ebirabo bye tukuwa ffe,<br />-Obitwale n'omukisa gwo;<br />-Ogutuwe,ggwe Kabaka.</lines>
+    </verse>
+  </lyrics>
+</song>

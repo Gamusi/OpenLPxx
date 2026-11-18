@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU OMWANA OW'EKISA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="53" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU-Omwana ow'ekisa<br />Era-Omwana-omuwombeefu<br />Eyazaalwa mu kiraalo<br />Ggwe asuutibwa bonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe azzikiddwa mu mmanvu,<br />Otuggye mu bibi byonna;<br />Okuume mikwano gyaffe,<br />Otuwe-emikisa gyo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu-eyajja mg'omuwere<br />Saasira-obunafu bwaffe; <br />Bonna-abaana be watonda <br />Obawe emikisa gyo.</lines>
+    </verse>
+  </lyrics>
+</song>

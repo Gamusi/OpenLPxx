@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NALYOKA NE NKUSENGA GGWE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="338" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NALYOKA ne nkusenga ggwe,<br />Omulokozi Katonda:<br />Kyenvudde nsanyuka nnyini,<br />Ne njatula bwe nsanyuse</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nsanyuse,nsanyuse,<br />Yesu yannaazaak(o) ebibi;<br />Y(e) anjagaza by'ayagala;<br />Ansanyus(a) ennaku zonna;<br />Nsanyuse,nsanyuse;<br />Yesu yannaazaak(o) ebibi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Namusenga n'atangoba,<br />Nze ndi wuwe,naye wange <br />Yampita ne nditegeera,<br />-Eddoboozi lye nga lya Yesu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nsanyuse,nsanyuse,<br />Yesu yannaazaak(o) ebibi;<br />Y(e) anjagaza by'ayagala;<br />Ansanyus(a) ennaku zonna;<br />Nsanyuse,nsanyuse;<br />Yesu yannaazaak(o) ebibi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Edda nasagaasagana,<br />Kaakano nteredde ku ye;<br />Sikyamusenguka-,alina <br />Mukama,ye-alina byonna.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nsanyuse,nsanyuse,<br />Yesu yannaazaak(o) ebibi;<br />Y(e) anjagaza by'ayagala;<br />Ansanyus(a) ennaku zonna;<br />Nsanyuse,nsanyuse;<br />Yesu yannaazaak(o) ebibi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nalayira nti ndi wuwo;<br />Naakyogeranga bulijjo;<br />Era mu ntuuko-ez'okufa <br />Ndisanyuka-okba-owuwo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nsanyuse,nsanyuse,<br />Yesu yannaazaak(o) ebibi;<br />Y(e) anjagaza by'ayagala;<br />Ansanyus(a) ennaku zonna;<br />Nsanyuse,nsanyuse;<br />Yesu yannaazaak(o) ebibi.</lines>
+    </verse>
+  </lyrics>
+</song>

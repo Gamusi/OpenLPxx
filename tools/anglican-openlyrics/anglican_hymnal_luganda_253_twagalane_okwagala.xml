@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TWAGALANE;-OKWAGALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="253" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TWAGALANE-; okwagala<br />Kwe kuva-eri Katonda:<br />Kale,ffe-abooluganda,<br />Tube nnyo n'okwagala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twagalanenga;twagalanenga;<br />Twagalanenga;Katonda kwagala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twali tulina-ebibi <br />Yesu n'afa ku muti:<br />Oyo gwe yafiirira,<br />Ffe tunaaakyawa tutya?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twagalanenga;twagalanenga;<br />Twagalanenga;Katonda kwagala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bonna ffe tubaagale,<br />Twagale-abatukyaye <br />N'abo abalina-ebibi <br />Twagalenga bwagazi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Twagalanenga;twagalanenga;<br />Twagalanenga;Katonda kwagala.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kale-ekisa mu myoyo <br />Kyakenga ng'omuliro;<br />Kyokere ddala byonna <br />Ebitali bya kisa.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Twagalanenga;twagalanenga;<br />Twagalanenga;Katonda kwagala.</lines>
+    </verse>
+  </lyrics>
+</song>

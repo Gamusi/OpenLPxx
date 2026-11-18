@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>SIMANYI BINABAAWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="392" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Simanyi binabaawo,<br />Katonda abinkweka<br />Ennaku ze ndiraba-edda<br />Ankweka lwa kisa;<br />N'essanyu ly'atusuubiza<br />Lye lituwoomera</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ng'enda gy'antwala yonna<br />Mwesiga bwesizi!<br />Sibuusabuusa so sitya;<br />Kubanga ye amanyi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obutamanya obwo <br />Bwe nsinga okwagala;<br />Ankute n'omukono gwe<br />Yesu-annywezeza<br />Ampummuza buwummuza,<br />Kubanga mwesiga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ng'enda gy'antwala yonna<br />Mwesiga bwesizi!<br />Sibuusabuusa so sitya;<br />Kubanga ye amanyi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ka ntambule ne Yesu<br />Yonna gy'aba-antwala<br />Awali ye mu nzikiza<br />Nyinza okulaba<br />Era muzibe-amwesiga<br />Tayinza kubula.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ng'enda gy'antwala yonna<br />Mwesiga bwesizi!<br />Sibuusabuusa so sitya;<br />Kubanga ye amanyi.</lines>
+    </verse>
+  </lyrics>
+</song>

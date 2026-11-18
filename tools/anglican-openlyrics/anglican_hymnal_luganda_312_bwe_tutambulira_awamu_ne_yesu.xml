@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BWE TUTAMBULIRA AWAMU NE YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="312" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BWE tutambulira awmau ne Yesu<br />Mu musana ogw'enjiri ye,<br />Tubeera mu kkubo ery'ekitiibwa kye<br />Wamu n'abeesigwa be boona.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mugondere era omwesige,<br />Tewali kkubo ddala <br />Erireet(a) essanyu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ebisiikirize n'ebire biggwaawo <br />Okutya n'okubuusabuusa;<br />Era n'amaziga nago tegabaawo <br />Eri abeesigwa be boona.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mugondere era omwesige,<br />Tewali kkubo ddala <br />Erireet(a) essanyu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Obubi n'ennaku abitwetikkira,<br />Atuggyako n'obuyinike;<br />Ebituganya obikomerere <br />Singa tukwesiga ggwe Yesu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mugondere era omwesige,<br />Tewali kkubo ddala <br />Erireet(a) essanyu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tetunnakakasa kwagala na ssanyu <br />Fenna bye tulibeera nabyo,<br />Okutuusa Yesu lwe tulimulaba <br />Wamu n'abeesigwa be bonna.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mugondere era omwesige,<br />Tewali kkubo ddala <br />Erireet(a) essanyu.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Tu libeera naye,tulituula naye <br />Tulitambula wamu naye <br />By'anaatugambanga tunaabikolanga,<br />Kino kyokka tumwesiga ye.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mugondere era omwesige,<br />Tewali kkubo ddala <br />Erireet(a) essanyu.</lines>
+    </verse>
+  </lyrics>
+</song>

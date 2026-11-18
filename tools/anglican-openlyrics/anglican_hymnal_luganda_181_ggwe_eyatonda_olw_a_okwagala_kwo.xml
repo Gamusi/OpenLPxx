@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE EYATONDA OLW'A OKWAGALA KWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="181" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE eyantnda-olw'a-okwagala kwo<br />Leka nze ntwale ku kifaananyi kyo;<br />Ggwe era-eyannonya ku lwa-ekisa<br />Newankubadde nga nkyamye-ewala;<br />Ggw(e) ayitiibwa wekka nti kwagala;<br />Leka neeweeyo mbeeren(ga) owuwo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-eyazaalibwa,n'ofuuka-omuntu <br />Mu ngeri yaffe,awatali kibi;<br />N'olyoka-otulokola ffe-abantu,<br />Ng'ofumitibwa, n'otufiirira.<br />Ggw(e) ayitiibwa wekka nti kwagala;<br />Leka neeweeyo mbeeren(ga) owuwo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe-eyakkiriza,nga weewombeese,<br />Okunkwanira ddala-obutandeka,<br />Ggwe-alina wekka-obuyinza bwonna,<br />Okuumire ddala-omunafu wo.<br />Ggw(e) ayitiibwa wekka nti kwagala;<br />Leka neeweeyo mbeeren(ga) owuwo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe-eyansuubiza olw'obwesigwa,<br />Nti ng'omaze-okufa ndikuzuukiza;<br />Ggwe-afuga wekka ebintu byonna,<br />-Eby'omu nsi muno, n'eby'omu ggulu.<br />Ggw(e) ayitiibwa wekka nti kwagala;<br />Leka neeweeyo mbeeren(ga) owuwo.</lines>
+    </verse>
+  </lyrics>
+</song>

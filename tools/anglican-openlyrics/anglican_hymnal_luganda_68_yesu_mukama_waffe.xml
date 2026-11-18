@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU MUKAMA WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="68" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU Mukama waffe,<br />Otugumiikirize,<br />Twetoowazizza leero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu ggwe-Omutukuvu <br />Otugonze ffe-emyoyo <br />Nga tukyalina-ebbanga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otujjuze ffe-Omwoyo <br />Omubeezi ow'ekisa,<br />Tukwatenga-amazima.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ku lw'entuuyo ez'omusaayi,<br />N'amaziga go gonna;<br />Ge watonnyesa mu nsi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ku lw'okwagala-okungi <br />Okwakutufiiriza,<br />Yesu otuwulire</lines>
+    </verse>
+  </lyrics>
+</song>

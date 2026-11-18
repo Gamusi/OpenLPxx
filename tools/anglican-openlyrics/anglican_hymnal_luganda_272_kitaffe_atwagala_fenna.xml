@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KITAFFE-ATWAGALA FENNA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="272" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KITAFFE-atwagala fenna,<br />-Oyambenga-abaana bo;<br />Bakuumenga-ennaku zonna<br />-Obusika-obulungi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twetikke-omusaalaba gwo <br />N'obwesigwa bwonna;<br />-Amazima gobunenga <br />Mu mawanga gonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuwe twegenderezenga <br />Tube balongoofu;<br />-Essaddaaka-ey'obuntu bwaffe <br />Esiimibwe gy'oli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tuwe okwesiganga ggwe,<br />-Omulamuzi waffe;<br />-Ensonyi n'entiisa bireme <br />Kutukwata fenna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuwe-amaanyi n'obuvumu <br />Ebituyinzisa <br />-Okuyamba bonna-ab'ennaku <br />N'obutabajooga.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tuwe-okusonyiwagana <br />N'okwagala bonna;<br />Tube n'essanyu lingi nnyo <br />Eriva eri ggwe.</lines>
+    </verse>
+  </lyrics>
+</song>

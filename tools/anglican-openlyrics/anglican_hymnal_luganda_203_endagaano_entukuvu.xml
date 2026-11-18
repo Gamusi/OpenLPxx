@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENDAGAANO-ENTUKUVU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="203" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENDAGAANO-entukuvu,<br />Gye njagalira ddala,<br />Byonna bye neetaaga nze,<br />Birabikira mu yo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omwoyo-Omutukuvu,<br />Yagiwandiisa edda;<br />Teyagunjibwa bantu,<br />Kyenaavanga ngyesiga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe nkyama enkomyawo,<br />Bwemba ngwa ennyimusa,<br />Bwe siraba mu kkubo,<br />Eba gye ndi-omusana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu nnaku ensanyusa <br />Yesu ng'anjigiriza,<br />Era-ewoomesa gye ndi <br />Obulamu,n'okufa.</lines>
+    </verse>
+  </lyrics>
+</song>

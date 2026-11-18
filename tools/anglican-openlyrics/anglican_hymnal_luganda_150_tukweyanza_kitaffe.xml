@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TUKWEYANZA KITAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="150" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TUKWEYANZA Kitaffe<br />Ggwe-atukumye-olw'ekisa<br />Mu budde-obw'emisana,<br />Ne mu mirimu gyaffe;<br />Tukuume,Ayi Mutonzi,<br />Mu nzikiza ya leero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tukusinza ggwe wekka,<br />Nga tusuuta-erinnya lyo;<br />Emikisa gyo-emingi,<br />Gy'otuwa mu kisa kyo.<br />Ffe abatasaanira;<br />Kyetuva tweyanza-ennyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye-okusinga byonna <br />Tweyanza-okwagala kwo,<br />Olw'Omwana wo Yesu,<br />Eyafiira ku muti,<br />Ku lwaffe aboonoonyi;<br />Tweyanza nnyo Kitaffe!</lines>
+    </verse>
+  </lyrics>
+</song>

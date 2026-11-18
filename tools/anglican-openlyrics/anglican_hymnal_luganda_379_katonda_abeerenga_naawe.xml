@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA ABEERENGA NAAWE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="379" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA abeerenga naawe<br />Akuwenga omukisa,<br />Akubalire mu babe,<br />Akukuume-okutuusa-okufa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weeraba,weeraba,<br />Otambule mirembe;<br />Weeraba,weeraba,<br />Omutonzi abeere naawe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Katonda abeerenga naawe,<br />Akukwate mu ngalo ze,<br />Akuwe-emmere y'omwoyo,<br />Akukuume-okutuusa-okufa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Weeraba,weeraba,<br />Otambule mirembe;<br />Weeraba,weeraba,<br />Omutonzi abeere naawe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Katonda abeerenga naawe,<br />Entiisa bw'erikujjira,<br />Akwetoolooze ekisa,<br />Abeerenga naawe bulijjo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Weeraba,weeraba,<br />Otambule mirembe;<br />Weeraba,weeraba,<br />Omutonzi abeere naawe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Katonda abeeranga naawe,<br />Akuwe okwagala kwe,<br />Akuyise mu mayengo,<br />Akutuuse mu kisulo kyo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Weeraba,weeraba,<br />Otambule mirembe;<br />Weeraba,weeraba,<br />Omutonzi abeere naawe.</lines>
+    </verse>
+  </lyrics>
+</song>

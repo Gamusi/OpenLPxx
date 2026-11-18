@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BEWAAYO-ABAANA BEEBAZIBWA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="380" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bewaayo-abaana beebazibwa<br />Ku lwaffe bawaayo-obulamu ne byonna;<br />Tumanyi Makayi ne banne<br />Abaaleeta Yesu-Omulokozi yekka</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baabatemako-emikono ne babasiba<br />Mu nkabazi ne babookya nga balaba bonna;<br />Baali bato-abasoma-akatono,<br />Yesu yebazibwe-abajulira leero.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ekyewuunyisa Balikuddembe,<br />Gonza ne Kaggwa nabo-abo baali bagumu;<br />Baabatemako-emikono,baabasalako<br />Ebigere,baatemwatemwa-ofufiifi bonna.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Walukagga ne Lugalama wamu<br />Ne kakumba,Kadoko ne Munyagabyanjo<br />Okukkiriza kwe mwagala n'obuvumu <br />Bwe mutyo ne mubeera-abasaale baffe.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mu kajanga yatuuyana n'atawuka <br />Nga bookebwa n'abamu nga batemebwatemebwa,<br />Mwalimu n'omwana gw'azaala:<br />Ku olwo kyamubuukako naye bwe yakkiriza.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Baali bumu nga bookebwa-omuliro,<br />Ne wataba n'omu awanjaga-ateebwe;<br />Baali ku kimu-eky'okusaba-obusabi<br />Yesu gwe bakkiriza-atwale myoyo gyabwe.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Waliwo nnyo-amaanyi gaakoseza <br />Yesu eri byonna-abamwesiga bulijjo;<br />-Omuliro-ogw'entisa,musaayi-ogwayiika<br />Yesu yalinga wakati waabwe.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Twewaddeyo naffe-olwa leero-<br />Okubonyabonyezebwa,oba kuttibwa kujje;<br />Tuli bagumu nga-abalenzi bali nga<br />Twesiga-amaanyi ge-okutuusa lw'alidda.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Aleruuya ku lwa Yesu <br />Battibwa nga bayimba;<br />Bewaayo-abaana beebazibwa,<br />Ku lwaffe bawaayo-obulamu ne byonna.</lines>
+    </verse>
+  </lyrics>
+</song>

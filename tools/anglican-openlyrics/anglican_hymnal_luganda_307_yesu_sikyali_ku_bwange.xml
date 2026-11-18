@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,SIKYALI KU BWANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="307" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,sikyali ku bwange,<br />Nze ndi muddu wo buddu;<br />Nali mu nsi ya Ssetaani<br />N'ojja n'oginziyamu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Muddu wo,muddu wo:<br />Yesu,nze ndi muddu wo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obulamu bwange bwonna <br />Mpaayo mu mikono gyo;<br />Ggwe-olinkuuma n'okutuusa<br />Olintuusa ewuwo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Muddu wo,muddu wo:<br />Yesu,nze ndi muddu wo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Era mpaayo-ensimbi zange <br />N'ebintu byange byonna;<br />N'ekitiibwa n'emikwano,<br />Leero byonna mbiwa ggwe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Muddu wo,muddu wo:<br />Yesu,nze ndi muddu wo.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Omubiri gwange gwonna,<br />Ebigere n'engalo;<br />N'amagezi gange gonna,<br />Byonna byonna bye bibyo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Muddu wo,muddu wo:<br />Yesu,nze ndi muddu wo.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nsanyuse,Yesu andeeta <br />Mu ggye ly'abatukuvu;<br />Be baweereza Katonda,<br />Be batuuka mu ggulu.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Muddu wo,muddu wo:<br />Yesu,nze ndi muddu wo.</lines>
+    </verse>
+  </lyrics>
+</song>

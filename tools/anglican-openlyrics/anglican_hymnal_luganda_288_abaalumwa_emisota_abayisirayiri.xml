@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABAALUMWA-EMISOTA-ABAYISIRAYIRI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="288" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABAALUMWA-emisota-Abayisirayiri.<br />Mu lukoola bwe baatambula;<br />Buli muntu yawona eyatunnuulira<br />Omusota ogwo ku muti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mutunule:munaawona mwenna,bwe mukkiriza Yesu:<br />Munaawona kaakano mwenna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Temulwa,mumutunuulire Mulokozi,<br />Mmwe mwenna abalumwa-ebibi:<br />Munaawona mwenna bwe mukkiriza Yesu,<br />Eyatufiirira ku muti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mutunule:munaawona mwenna,bwe mukkiriza Yesu:<br />Munaawona kaakano mwenna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naye ku lw'ebikolwa ebituukirivu,<br />Temuyinza kulokolebwa:<br />Abisiima Katonda,naye tebiyinza <br />Kutuggyako-omusango gwaffe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mutunule:munaawona mwenna,bwe mukkiriza Yesu:<br />Munaawona kaakano mwenna.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Naye ku lw'okufa kwe ku muti ku lwaffe <br />Tulibera-abalamu mu ye;<br />Tulisanyuka bwe tusonyiyibwa-ebibi,<br />Ne tutuuka mu ggulu fenna.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mutunule:munaawona mwenna,bwe mukkiriza Yesu:<br />Munaawona kaakano mwenna.</lines>
+    </verse>
+  </lyrics>
+</song>

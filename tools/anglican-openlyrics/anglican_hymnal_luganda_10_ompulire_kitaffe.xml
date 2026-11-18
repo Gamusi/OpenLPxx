@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMPULIRE KITAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="10" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMPULIRE Kitaffe<br />Ggwe Mukuumi wange:<br />Beera kumpi nange;<br />Onjijanjabenga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ayi Mukaama Yesu,<br />Atuwa-obulamu,<br />Ka nziruke-embiro<br />Okutuuka gy'oli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe Mubeezi waffe,<br />Mwoyo wa Katonda,<br />Laba bwe nkwetaaga<br />Nsembeza, nnongoosa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jjangu, Ayi Katonda;<br />Tondekanga wano,<br />Okuva kaakano,<br />Tuula mu nda yange.</lines>
+    </verse>
+  </lyrics>
+</song>

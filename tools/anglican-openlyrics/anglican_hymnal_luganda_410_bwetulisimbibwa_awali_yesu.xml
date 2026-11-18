@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BWETULISIMBIBWA AWALI YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="410" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwe tulisimbibw/a awali Yesu)<br />Tunnyonnyol/e ebyaffe,)<br />Mukama Alituvunaan/a ebyo )<br />Bye twonoonye ku nsi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bw'alikoowol/a erinnya lyange (Aleruya)<br />Nze siritya kumuyitaba;<br />Kubanga nze yannaaza/a omwoyo(Aleruya)<br />Mu musaayi gwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nze ndifun/a engule entukuvu<br />Ey'obulokozi <br />Era nze siriva mu maaso ge<br />emirembe gyonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bw'alikoowol/a erinnya lyange (Aleruya)<br />Nze siritya kumuyitaba;<br />Kubanga nze yannaaza/a omwoyo(Aleruya)<br />Mu musaayi gwe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fenna abaligenda mu ggulu <br />Tuliwon/a ens/i eno;<br />Ebyonoono byaffe biriggwaawo <br />Lw/a amaanyi ge Yesu</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bw'alikoowol/a erinnya lyange (Aleruya)<br />Nze siritya kumuyitaba;<br />Kubanga nze yannaaza/a omwoyo(Aleruya)<br />Mu musaayi gwe.</lines>
+    </verse>
+  </lyrics>
+</song>

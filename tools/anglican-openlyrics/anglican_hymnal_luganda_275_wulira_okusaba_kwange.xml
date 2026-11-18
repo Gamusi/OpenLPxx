@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WULIRA-OKUSABA KWANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="275" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WULIRA-okusaba kwange,<br />Okw'omwana wo-omuto nze,<br />Fuka ebirabo byo,<br />Fuka ku nze bulijjo:<br />Ssasira-omunafu bwange<br />Obw'omwana wo-omuto nze<br />Saasira-omunafu nze;<br />Nsaasiranga bulijjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sonyiwa-ebyonoono byange <br />Ng'obinaaza n'omussayi-<br />-Ogw'Omulokozi Yesu;<br />Nsonyiwanga bulijjo,<br />Ne mu maanyi ga Ssetaani;<br />Lokola omwoyo gwange;<br />Lokla omwaoyo nga nsaba ggwe,<br />Ndokolanga bulijjo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kkiriza omwoyo gwange <br />Gwe nkuwadde-okugukuuma;<br />Nsanyuse n'ekisa kyo,<br />Nsanyusanga bulijjo:<br />Olw'obwesigwa bwo bwonna,<br />Ayi Katonda,onnyambenga;<br />Mbeere gy'oli omwesigwa.<br />Onnyambenga bulijjo.</lines>
+    </verse>
+  </lyrics>
+</song>

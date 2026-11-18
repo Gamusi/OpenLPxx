@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKITIIBWA KYO KINENE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="287" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKITIIBWA kyo kinene,<br />Omununuzi waffe;<br />Emimwa gy'abantu bonna<br />Giyimba-ettendo lyo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erinnya lya Yesu ddungi <br />Limalawo-okutya;<br />Lituleetera-obulamu <br />N'emirembe mu nda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amaanyi g'ekibi gonna <br />Yesu yagamenya;<br />Ffe abaali abasibe <br />Twafuuka ba ddembe!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Buli akkiriza Yesu <br />Alirokolebwa;<br />N'abo abaafiira mu ye <br />Kaakano balamu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Muwulire mmwe-abanaku <br />Nammwe bakasiru,<br />Bwe munaasembera gy'ali <br />Munaawonyezebwa!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mukama waffe-ow'ekisa <br />Tukwegayirira,<br />Otuyigirize fenna <br />Okukusuutanga.</lines>
+    </verse>
+  </lyrics>
+</song>

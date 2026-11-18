@@ -21,11 +21,15 @@
 """
 This module contains tests for the settings tab for the Presentations plugin.
 """
+import tempfile
+import unittest
+from pathlib import Path
 from unittest.mock import MagicMock
 
-from PyQt5 import QtCore, QtTest
+from PyQt5 import QtCore, QtTest, QtWidgets
 
 from openlp.core.common.registry import Registry
+from openlp.core.common.settings import Settings
 from openlp.plugins.presentations.lib.presentationtab import PresentationTab
 
 __default_settings__ = {
@@ -87,3 +91,85 @@ def test_check_boxes_when_controllers_unavailable(settings):
     assert form.settings.value('presentations/powerpoint slide click advance') == QtCore.Qt.Unchecked
     assert form.settings.value('presentations/powerpoint control window') == QtCore.Qt.Unchecked
     assert form.settings.value('presentations/impress use display setting') == QtCore.Qt.Unchecked
+
+
+class TestPresentationTabPowerPointProbe(unittest.TestCase):
+    """Focused regression tests for skipping disabled PowerPoint startup probes."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.app = QtWidgets.QApplication.instance() or QtWidgets.QApplication([])
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        Registry.create()
+        Settings.setDefaultFormat(Settings.IniFormat)
+        Settings.set_filename(Path(self.tmp.name) / 'test.ini')
+        self.settings = Settings()
+        self.settings.extend_default_settings({
+            **__default_settings__,
+            'presentations/Powerpoint': QtCore.Qt.Checked,
+            'presentations/Impress': QtCore.Qt.Checked,
+            'presentations/override app': QtCore.Qt.Unchecked,
+        })
+        Registry().register('settings', self.settings)
+        Registry().register('settings_form', MagicMock())
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
+    def test_skips_powerpoint_probe_when_disabled_and_keeps_checkbox_accessible(self):
+        self.settings.setValue('presentations/Powerpoint', QtCore.Qt.Unchecked)
+        controllers = Mocked_Controllers(True, True)
+        form = PresentationTab(None, 'Presentations', 'Presentations', controllers, None)
+
+        controllers['Powerpoint'].is_available.assert_not_called()
+        controllers['Impress'].is_available.assert_called_once()
+        ppt_box = form.presenter_check_boxes['Powerpoint']
+        self.assertTrue(ppt_box.isEnabled())
+        self.assertFalse(ppt_box.isChecked())
+        self.assertFalse(form.ppt_slide_click_check_box.isEnabled())
+
+    def test_probes_powerpoint_when_enabled(self):
+        self.settings.setValue('presentations/Powerpoint', QtCore.Qt.Checked)
+        controllers = Mocked_Controllers(True, True)
+        form = PresentationTab(None, 'Presentations', 'Presentations', controllers, None)
+
+        controllers['Powerpoint'].is_available.assert_called_once()
+        controllers['Impress'].is_available.assert_called_once()
+        self.assertTrue(form.presenter_check_boxes['Powerpoint'].isChecked())
+        self.assertTrue(form.ppt_slide_click_check_box.isEnabled())
+
+    def test_skips_impress_probe_when_disabled_and_keeps_checkbox_accessible(self):
+        self.settings.setValue('presentations/Impress', QtCore.Qt.Unchecked)
+        controllers = Mocked_Controllers(True, True)
+        form = PresentationTab(None, 'Presentations', 'Presentations', controllers, None)
+
+        controllers['Impress'].is_available.assert_not_called()
+        controllers['Powerpoint'].is_available.assert_called_once()
+        impress_box = form.presenter_check_boxes['Impress']
+        self.assertTrue(impress_box.isEnabled())
+        self.assertFalse(impress_box.isChecked())
+        self.assertFalse(form.odp_display_check_box.isEnabled())
+
+    def test_probes_impress_when_enabled(self):
+        self.settings.setValue('presentations/Impress', QtCore.Qt.Checked)
+        controllers = Mocked_Controllers(True, True)
+        form = PresentationTab(None, 'Presentations', 'Presentations', controllers, None)
+
+        controllers['Impress'].is_available.assert_called_once()
+        self.assertTrue(form.presenter_check_boxes['Impress'].isChecked())
+        self.assertTrue(form.odp_display_check_box.isEnabled())
+
+    def test_neither_probed_when_both_disabled_and_both_remain_configurable(self):
+        self.settings.setValue('presentations/Powerpoint', QtCore.Qt.Unchecked)
+        self.settings.setValue('presentations/Impress', QtCore.Qt.Unchecked)
+        controllers = Mocked_Controllers(True, True)
+        form = PresentationTab(None, 'Presentations', 'Presentations', controllers, None)
+
+        controllers['Powerpoint'].is_available.assert_not_called()
+        controllers['Impress'].is_available.assert_not_called()
+        self.assertTrue(form.presenter_check_boxes['Powerpoint'].isEnabled())
+        self.assertTrue(form.presenter_check_boxes['Impress'].isEnabled())
+        form.presenter_check_boxes['Impress'].setChecked(True)
+        self.assertTrue(form.presenter_check_boxes['Impress'].isChecked())

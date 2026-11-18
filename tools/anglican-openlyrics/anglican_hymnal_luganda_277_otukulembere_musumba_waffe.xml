@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OTUKULEMBERE, MUSUMBA WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="277" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OTUKULEMBERE,Musumba waffe<br />Tukwetaaga bulijjo;<br />-Otugalamize mu ddundiro lyo<br />Ery'omuddo omuto.<br />Watugula n'omusaayi-gwo<br />Otukuume mu kabi;<br />Watugula n'omusaayi-gwo<br />Otukuume mu kabi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuli baana bo-otuzibirenga <br />Mu balabe ab'-amaanyi <br />Otuyingize mu kisibo kyo <br />Mwe tubeera-obulungi.<br />Nga bwe tukaabirira ggwe <br />Otuwulire mangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ajja gye ndi;bwe wagamba bw'otyo <br />Siimugobere bweru, <br />Okomyewo emitima gyaffe <br />Otunaaze mu bibi.<br />-Otulumgaamye mu makubo <br />Ag'obutuukirivu;<br />-Otulumgamye mu makubo <br />Ag'obutuukirivu.</lines>
+    </verse>
+  </lyrics>
+</song>

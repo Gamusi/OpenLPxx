@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKIRO-EKYO,EKY'ETTENDO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="403" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKIRO-ekyo,eky'ettendo<br />-Emmunyeenye zaayaka<br />-Omwana we yali-azazikiddwa<br />Zakuuma-Omwana-omutukuvu<br />N'emirembe;Yebake mu mirembe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ekiro-ekyo-,ekitukuvu<br /> -Abasumba baalaba<br /> Bamalayika abayimba<br /> Okulanga omwana oyo<br /> Kristo omulokozi-azaaliddwa leero.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ekiro ekyo,eky'ettendo<br /> Omwana-omusuutwa<br /> Ajjudde-essanyu n'okwagala<br /> Amasamasa ng'emmunyeenye,<br /> Mutukuvu webake mu mirembe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE-OMANYI YESU OBUKOOWU BWAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="285" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE-omanyi Yesu obukoowu bwaffe,<br />Otegedde byonna-ebikwekeddwa;<br />Tukemggentereddwa-abalabe bangi,<br />Ggwe wekka-,oli kiddukiro kyaffe<br />Tuzze gy'oli,oyise ffe-abanaku<br />Kubanga-ebyama byonna-obimanyi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-omanyi ebibi byaffe-ebyabaawo <br />Bwe twakujeemera,bwe twabula;<br />Twawaba nnyo ng'endiga-ezisaasaana,<br />Twali tuzaaye n'otuzaawula.<br />Ggwe-eyanyiga-ebiwundu byaffe byonna <br />N'otuwa-amaanyi,otusaasire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe-omanyi byonna-,ebiriwo kaakano <br />Omulabe waffe bw'atukema-ennyo <br />Entalo ze tulwana zituyinze,<br />Twetaaga ggwe,-ekiddukiro kyaffe.<br />Be twagala nabo banakuwala,<br />N'ensi-eno-oluusi tetusanyusa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe-omanyi byonna-,ebigenda-okubaawo,<br />Oluusi ssanyu,oluusi nnaku;<br />tunoonya bye tutayinza kufuna,<br />Naye gy'oli tujjula essanyu,<br />Obudde bw'obulamu buwungeera <br />Era-okufa kutusemberera <br />Era-okufa kutusemberera.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kyovudde-omanya byonna-ebituluma,<br />Kubanga watwala-obuntu bwaffe,<br />Mu nsi baakuyitanga ow'ennaku,<br />Era-eyamanyiira-obuyinike.<br />Kyetuvudde twanmgganga-okujja gy'oli,<br />Tufune amaanyi ge twetaaga.</lines>
+    </verse>
+  </lyrics>
+</song>

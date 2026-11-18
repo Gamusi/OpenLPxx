@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUSANYUKE ABALOKOLE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="29" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUSANYUKE abalonde<br />Abeesiga Yesu,<br />Ettabaaza zammwe zaake,<br />Obudde buzibye.<br />Mukama waffe alijja,<br />Kaakano ali kumpi,<br />Muyimuke mwekuume<br />Meleme-okwebaka</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mukoleeze-ettabaaza <br />zaake mu nzikiza, <br />Mulabe-obulokozi<br />Bwammwe busembedde.<br />Mukama bamulengera<br />Kaakano ali kumpi,<br />Mugende nga muyimba,<br />Okumusisinkana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abawala ab'amagezi <br />Muyimbe nnyo nnyini<br />Ennyimba-ez'amatendo <br />Ez'abamalayika.<br />Yesu atulindirira <br />Mulokozi w'abantu:<br />Balokole ba Yesu,<br />Musembere mwenna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tukkiriza ggwe Yesu<br />Mulokozi waffe,<br />Yanguwa-okujja,olye<br />Obwakabaka bwo. <br />Katonda atubeerenga <br />Okubuuliranga wonna, <br />Balokoke bonna.</lines>
+    </verse>
+  </lyrics>
+</song>

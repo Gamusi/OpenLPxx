@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE MUSANA GW'OBULAMU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="8" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE musana gw'obulamu,<br />Yakiranga ddala mu ffe,<br />Ekizikiza kyonna<br />Ka kive mu myoyo gyaffe,<br />Ng'otumulisa-,emmambya<br />Ng'esaze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Enkuba nga bw'etonnya,<br />Ku bimuli ne ku muddo,<br />Bw'otyo bw'otufukako<br />Ekisa eky'omwoyo gwo;<br />Ennyonta yaffe yonna,<br />Eggweewo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ng'enjuba bw'emerusa;<br />Ebibala eby'omu nsi,<br />Bwe butyo-obulungi bwo<br />Bwe bumeza-obutukuvu<br />Tukuweerezenga ggwe,<br />N'essanyu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe wekka ssuubi lyaffe,<br />So tewali akwenkana,<br />Beera kumpi gye tuli;<br />Mu makubo g'obulamu<br />Tulyoke tutuuke-eyo;<br />Mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

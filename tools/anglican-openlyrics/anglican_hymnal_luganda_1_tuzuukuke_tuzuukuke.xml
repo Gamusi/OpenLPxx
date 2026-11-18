@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TUZUUKUKE,TUZUUKUKE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="1" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TUZUUKUKE,tuzuukuke,<br />Emirimu tugikole;<br />Tuve mu tulo,tweweeyo<br />Ssaddaaka ez'okumwebaza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tufube nga twerowooza<br />Mpozzi-olwa leero okufa,<br />Tukulire mu mpisa ze,<br />Tusuubire okujja kwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tubeerenga ba mazima,<br />Bukuusa bwonna buggweewo;<br />Katonda-amanyi-eby'omunda,<br />N'ebirowoozo-abyekkaanya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twakenga ng'omusana gwe;<br />Amulisa-ekkubo lyaffe,<br />Nga bw'atuwa-ebyaffe byonna,<br />Tumuwe-okwagala kwaffe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuzuukuke,tumwebaze;<br />Awamu n'ababe bonna;<br />Abayimba-amatendo ge,<br />Mu ggulu ne mu nsi zonna.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tuzuukuse,tuzuukuse,<br />Otujjuze Omwoyo wo,<br />Otuwe obunyiikivu,<br />Tuweerezanga Katonda.</lines>
+    </verse>
+  </lyrics>
+</song>

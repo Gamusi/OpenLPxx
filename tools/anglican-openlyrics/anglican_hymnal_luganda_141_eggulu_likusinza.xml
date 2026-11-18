@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EGGULU LIKUSINZA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="141" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EGGULU likusinza<br />Mukama,Mutonzi!<br />Ebbanga likusuuta<br />N'ebirimu byonna.<br />Tebikoowa kutenda<br />-Emisana n'ekiro<br />-Amagezi go,n'amaanyi<br />-Ekitiibwa n'ekisa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Enjuba-ey'ekitiibwa,<br />Etenda-amaanyi go;<br />Omwezi n'emmunyeenye <br />Bisinza-erinnya lyo;<br />Bibuulira-amawanga <br />Agatannalaba,<br />Bulungi bwa Mukama <br />Bibuulira-amawanga<br />Agatannalaba,<br />Bulungi bwa Mukama <br />Eyatonda byonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kigambo kya mazima <br />Kye watuweereza,<br />Ktukuvu,kirungi,<br />Kisanyusa ddala.<br />-Amateeka ge watuwa <br />Malungi,ga kisa;<br />Gagaggawaza-abaavu,<br />Galeeta-amagezi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tewali n'omu-ayinza <br />Kwekuumira ddala,<br />N'okutuusa-amateeka,<br />N'obutayonoona.<br />Katonda,ombeerenga!<br />Nneme-okwerabira,<br />N'okukunakuwaza <br />Nga nkyamu bulijjo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eggye er'omu ggulu <br />-Ebitonde-eby'omu nsi,<br />Byonna bitendereza <br />Erinnya lyo-eddungi:<br />Nange Mukama wange <br />Ka neeweeyo gy'oli;<br />Omwoyo n'omubiri,<br />Okukuweereza.</lines>
+    </verse>
+  </lyrics>
+</song>

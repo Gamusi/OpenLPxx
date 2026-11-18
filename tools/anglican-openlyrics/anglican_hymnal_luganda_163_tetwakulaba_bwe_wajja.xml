@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TETWAKULABA BWE WAJJA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="163" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TETWAKULABA bwe wajja<br />N'otambula mu nsi yaffe;<br />So tetwalaba nnyumba yo,<br />Mu kyalo ekinyoomebwa;<br />Naye bwe tubiwulira<br />Tukkirza-era twebaza</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tetwakulaba bwe wafa <br />Ku lwaffe ku musaalaba;<br />Era ne bwe wakoowoola,<br />Tetwakuwulira n'omu;<br />Naye bwe tubirowooza <br />Twewuunya nga tukankana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tetwayimirira n'abo <br />Abaakunoonya mu ntaana,<br />Oba nabo be wasanga <br />Mu kkubo nga batambula;<br />Naye bwe tubiwulira <br />Tweyanza-era tusanyuka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tetwaliwo bwe walinnya <br />Mu ggulu eri Kitaawo;<br />-Abatume bwe baatunula<br />Nga beekaliriza-amaaso;<br />Naye tumanyira ddala <br />Nti baakulaba ng'ogenda.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Era kaakano ng'okufa,<br />Ffe nga tukulindirira;<br />Tetulaba kitiibwa kyo;<br />Okitukwese mu ggulu:<br />Naye tumanyi ng'olijja <br />N'ebire mu kitiibwa kyo.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KRISTO,BW'ATYO,BWE YEEWAYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="129" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KRISTO,bw'atyo,bwe yeewayo<br />Ku lwaffe, ku muti;<br />Bwe tutyo naffe tweweeyo,<br />Okulokolebwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omubiri gwe ye mmere <br />Eriisa-abeetaaga<br />Kigambo kye tekiggwaawo <br />Emirembe gyonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otuliise-omubiri gwo <br />Tunywe-omusaayi gwo;<br />Nga bwe tusembera gy'oli <br />Tufune-obulamu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kitiibwa eri Kitaffe <br />Era neri-Omwana.<br />N'eri-Omwoyo-Omutukuvu <br />Emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU YE ANJAGALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="362" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU ye anjagala,<br />Bw'atyo bwe yayogera:<br />Abaana-abato babe,<br />Be yawa-omukisagwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ayagala nze,ayagala nze,<br />Ayagala nze;yayogera bw'atyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu fenna-atwagala;<br />Yafa-okutununula,<br />Yatuggulira-oluggi,<br />Atusonyiwe-ebibi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ayagala nze,ayagala nze,<br />Ayagala nze;yayogera bw'atyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu ankulembera <br />Gye naagendanga yonna;<br />Tandekenga-,alintuusa <br />Mu ggulu nga njaguza.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ayagala nze,ayagala nze,<br />Ayagala nze;yayogera bw'atyo.</lines>
+    </verse>
+  </lyrics>
+</song>

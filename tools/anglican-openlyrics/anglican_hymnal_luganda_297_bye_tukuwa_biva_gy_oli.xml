@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BYE TUKUWA BIVA GY'OLI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="297" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BYE tukuwa biva gy'oli,<br />Newankubadde nga bingi;<br />Bibyo byonna bye tulina,<br />Birabo by'otuteresa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Otuwe-ekisa tubeerenga <br />-Abawanika bo-abeesigwa;<br />Nga twesolooza n'omwoyo <br />Ku bintu bye tuli nabyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Amawanga gonna-ag'omu nsi <br />Geetaaga nnyo-Omulokozi <br />Abantu be yafiirira <br />Bawaba-era basaasaana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gy'emirimu gyaffe fenna,<br />-Okukomyawo abakyama;<br />-Okunoonya-ababula,era <br />-Okujjanjaba-abafiiriddwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bw'atyo Yesu bwe yakola,<br />Ne yeewaayo-okubawonya;<br />Naffe tumugoberere,<br />Aboonoonyi balokoke.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu otuyigirize,<br />Ebyo bwe bikukolerwa;<br />Fenna-otunyiikize wonna <br />-Okugoba n'okwesolooza</lines>
+    </verse>
+  </lyrics>
+</song>

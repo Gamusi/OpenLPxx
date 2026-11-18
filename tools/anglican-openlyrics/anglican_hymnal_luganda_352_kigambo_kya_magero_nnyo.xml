@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KIGAMBO KYA MAGERO NNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="352" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KIGAMBO kya magero nnyo<br />Eky'Omwana wa Katonda;<br />Okuva mu ggulu n'akka<br />Alokole-abaana nga nze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kya mazima yayagala <br />Abaana n'abanyoomebwa;<br />Yayagala-abamukyawa <br />Yattibwa balokolebwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Okwagala kwe kungi nnyo <br />Okutayogerekeka,<br />Okwagala-omubi nga nze,<br />Nange kirungi mwagale.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oluusi nfumiitiriza <br />Ne ndowooza-omusaalaba,<br />Emisumaali n'amaggwa <br />Yesu nga bw'afa ku lwange.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Singa nnaliwo ng'attibwa,<br />Sandiyinzizza kumanya <br />Okwagala kwe-okungi-ennyo<br />Kwe yalina mu mwoyo gwe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kaakano nnyinza-okumanya <br />Nga bw'anjagalira ddala,<br />Naye ekinkwasa-ensonyi <br />Ye-engeri nze gye mwagala.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ggwe Mukama wange Yesu,<br />Ombeere mu mwoyo gwange <br />Nnyongere-ennyo-okukwagala<br />Emirembe n'emirembe.</lines>
+    </verse>
+  </lyrics>
+</song>

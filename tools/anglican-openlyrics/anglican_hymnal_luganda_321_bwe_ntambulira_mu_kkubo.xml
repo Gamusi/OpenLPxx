@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BWE NTAMBULIRA MU KKUBO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="321" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BWE ntambulira mu kkubo,<br />Yesu ankulembera;<br />Nnyinza-ntya-okubuusabuusa<br />Ye bw'antwala bulijjo?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Byonna ebibaawo ku nze <br />Tebiyinza kunnuma;<br />Yesu ye Mukuumi wange,<br />Ye angabira-obulamu-</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abalabe-abalinnumba <br />Ye alibawangula;<br />Era-alintuusa n'essanyu <br />Lingi mu mirembe gye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Enjala bw'eba nga-ennuma,<br />Andiisa ku mmere ye;<br />Era-ampozaawoza mangu <br />Ng'ampa-amazzi-ag'obulamu-</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu Mulokozi wange,<br />Eyanfuula-omuddu wo;<br />Ka nkutendereze bwe ntyo,<br />Emiremb-egitaggwaawo-.</lines>
+    </verse>
+  </lyrics>
+</song>

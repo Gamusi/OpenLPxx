@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE-OLI MUTUKUVU,MUKAMA KATONDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="197" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE-oli Mutukuvu,Mukama Katonda;<br />Enkya tukusuuta,tuyimbaa-ettendo lyo.<br />Ggwe-oli Mutukuvu,wa kisa,wa maanyi;<br />Katonda omu,mu Busatu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-oli Mutukuvu,bakusinza bonna,<br />Abali mu ggulu bakuvuunamira;<br />Kkerubi ne Sseraafi bakutendereza,<br />Eyali,aliwo-,alibeerawo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mutukuvu wekka,tewali mulala;<br />Ffe-ab'omu kizikiza,tetukulaba;<br />Ggwe-oli Mutukuvu,obasinga bonna,<br />-Amaanyi,-amagezi,era n'ekisa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe-oli Mutukuvu,Mukama Katonda;<br />Byonna bye watonda biraga-ettendo lyo.<br />Ggwe-oli Mutukuvu,wa kisa,wa maanyi,<br />Katonda omu,mu Busatu.</lines>
+    </verse>
+  </lyrics>
+</song>

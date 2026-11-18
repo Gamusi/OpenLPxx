@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NNAATEEKANGA KU YESU OMWANA GW'ENDIGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="178" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NNAATEEKANGA ku Yesu Omwana gw'endiga,<br />Ebibi byange byonna ebitasinika;<br />Agwetisse ye yekka omugugu gwange:<br />Ka ntambule n'essanyu,kubanga-agwetisse,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yatwala ennaku zange n'ebibi bingi nnyo,<br />Yatwala-,Omulokozi,endwadde z'omyoyo:<br />Ne nfuna n'emirembe mu linnya lya Yesu;<br />Ayagala nga Yesu,Mukama aluwa?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu Mukama wange,Yesu Mulokozi;<br />Erinnya lyo lisinga gonna ag'omu nsi.<br />Erinnya lyo liwooma,lireeta-essanyu nnyo:<br />Tewali alokoka-,awatali linnya aluwa?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nze njagala-okubeera n'omwoyo-omuwombeefu;<br />-Okufaanana nga Yesu omutuuukirivu:<br />Nze njagala-okutuula mu ggulu ne Yesu,<br />-Okuyiga-ennyimba-ennungi-eza bamalayika</lines>
+    </verse>
+  </lyrics>
+</song>

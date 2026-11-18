@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA TWAGALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="202" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA twagala,<br />Ekifo mw'obeera,<br />Kye kitusanyusa<br />Okukijjukira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye nnyumba yo ddala <br />Mwe tukumgaanira,<br />Otusembeze gy'oli <br />Abazze-okusaba</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gye babatiriza<br />Abava mu kibi;<br />Wonna watukuvu,<br />Kye kifo-ekirungi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We wali-emmeeza yo,<br />Gye tulira naawe<br />N'owa-abakwagala <br />Emmere y'obulamu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwe batubuulira <br />Ebyawandiikibwa;<br />Ennaku ziggwaawo,<br />Tubeera n'essanyu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ennyimba-entukuvu <br />ziwoomesa-ennaku;<br />Ziyimusa-emyoyo,<br />Tubeera n'amaanyi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Otuwe-ekisa kyo <br />Okukwagala mu nsi,<br />Era ne mu ggulu <br />Okukusuutanga</lines>
+    </verse>
+  </lyrics>
+</song>

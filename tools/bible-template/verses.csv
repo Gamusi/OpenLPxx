@@ -1,0 +1,4 @@
+book_id,chapter_number,verse_number,verse_text
+1,1,1,"[SYNTHETIC TEST VERSE] Genesis 1:1 — Sample placeholder text for OpenLP CSV import verification."
+1,1,2,"[SYNTHETIC TEST VERSE] Genesis 1:2 — Unicode check: Ekitiibwa kibeere eri Katonda, ŋŋenda n’essanyu."
+40,1,1,"[SYNTHETIC TEST VERSE] Matthew 1:1 — Sample New Testament placeholder verse for lookup and projection testing."

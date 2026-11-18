@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YIMUKA! OJJE-ERI YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="251" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YIMUKA-! ojje-eri Yesu<br />Akuli kumpi nnyo;<br />Oyatule-ebibi byo<br />Osenge Mukama</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yimuka ojje! Yimuka ojje! akulindiridde:<br />Oyatul(e) ebibi byo,oweebwe n'omukisa <br />Gw'agabira obuwa; aweebw(e) ekitiibwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yimuka-!ojje-eri Yesu <br />Va mu kizikiza:<br />Leka-okubuusabuusa,<br />Obudde buyita.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yimuka ojje! Yimuka ojje! akulindiridde:<br />Oyatul(e) ebibi byo,oweebwe n'omukisa <br />Gw'agabira obuwa; aweebw(e) ekitiibwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yimuka-! ojje-eri Yesu<br />Akuli kumpi nnyo;<br />N'okuyita-akuyise <br />Anaakusonyiwa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yimuka ojje! Yimuka ojje! akulindiridde:<br />Oyatul(e) ebibi byo,oweebwe n'omukisa <br />Gw'agabira obuwa; aweebw(e) ekitiibwa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yimuka-ojje-! eri Yesu <br />Jjangu,otidde ki?<br />Yafiirira-aboonoonyi:<br />Jjangu,omwesige.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yimuka ojje! Yimuka ojje! akulindiridde:<br />Oyatul(e) ebibi byo,oweebwe n'omukisa <br />Gw'agabira obuwa; aweebw(e) ekitiibwa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TUTENDE NNYO MUKAMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="374" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TUTENDE nnyo Mukama<br />-Olw'okutulabirira;<br />Ye nsibuko y'essanyu,<br />Tumwebaze Mukama.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Laba-eby'okukungula<br />Byengedde mu nnimiro;<br />Naffe ka tusanyuke<br />-Okutuusa bulijjo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Emmere gye tusiga,<br />Tutunuulira oyo<br />Afukirira-ettaka<br />Okukuza-ebibala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka tukutendereze <br />Ggwe nannyini kwagala;<br />Kubanga mu ggwe wekka<br />Mwe tufuna-obulamu.</lines>
+    </verse>
+  </lyrics>
+</song>

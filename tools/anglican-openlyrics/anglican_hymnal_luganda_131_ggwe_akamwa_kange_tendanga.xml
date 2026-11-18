@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE-AKAMWA KANGE, TENDANGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="131" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE-akamwa kange,tendanga<br />Omubiri gwa Yesu<br />N'omusaayi-gwe-eby'omuwendo<br />Ebiva mu Kabaka<br />Eyazaalibwa Malyamu,<br />Ye Mununuzi w'ensi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bw'atyo ffe bwe yatuweebwa <br />Okuzaalibwa mu nsi;<br />Yagumiikiriza-ennaku<br />Anyweze-obubaka bwe;<br />Yabonyaabonyezebwa nnyo<br />Okutuusa ku kufa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ekiro-eky'enkomerero <br />Ng'ali mu batume be,<br />Yesu yabakuutira nnyo,<br />Bakwatega-ey'obulamu <br />Ye gye yawa n'engalo ze <br />Emmere y'omuwendo mungi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kigambo yafuuka-emmere,<br />Eriissa-abantu bonna;<br />Omusaayi gwe ye nviinyo<br />Ebireeta-obulamu:<br />Bwe tubikkiriza ebyo,<br />Tumanya-okwagala kwe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kale ka tutende Yesu,<br />Ku lw'embaga ye eno;<br />Mu kifo ky'ebibi-eby'ensi <br />Tufune-eby'omu ggulu;<br />-Essubi lyaffe libeerenga <br />Mu ye ow'olubeerera.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Omukisa n'ekitiibwa,<br />Bya Kitaffe n'Omwana <br />Obukulu-era n'ettendo <br />Bibe-eri ye bulijjo.<br />Bitulagenga-okwagala <br />Kw'oyo-omu ne Kitaffe.</lines>
+    </verse>
+  </lyrics>
+</song>

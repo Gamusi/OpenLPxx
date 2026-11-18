@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ALIJJA:ESSUBI ERYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="121" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ALIJJA:essubi eryo<br />Lye litugumya-emyoyo<br />Ekiseera kitono<br />Okutuusa lw'alidda;<br />Naffe tulijaguza<br />Fenna Yesu bw'alijja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be twayagalanga ffe <br />Bwe baba nga beebase <br />Ne tweraliikirira <br />Ne tubeera mu nnaku;<br />Ka tuleke-okukaaba;<br />Tuliwona,bw'alijja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe tulaba ennaku,<br />Tetunyiiga n'akamu;<br />Okufiirwa bannaffe <br />N'ennaku ze tulaba;<br />Tubigumiikirize,<br />Okutuusa lw'alijja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka tulye ku mbaga ye <br />Ey'enviinyo n'emmere;<br />Bino bye bijjukizo,<br />Okutuusa ku biro <br />Lw'alituliisa fenna <br />Be yayita, bw'alijja.</lines>
+    </verse>
+  </lyrics>
+</song>

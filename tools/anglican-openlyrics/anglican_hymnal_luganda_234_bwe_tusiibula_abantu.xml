@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BWE TUSIIBULA-ABANTU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="234" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BWE tusiibula-abantu<br />Mu nsi,tulaba-ennaku:<br />so nga-,eri mu ggulu,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walibeer(a) essanyu,<br />Ssanyu,ssanyu,ssanyu:<br />Walibeer(a) essanyu,<br />Nga tetukyasiibula.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bonna-abaagala Yesu<br />Bonna balikumggaana,<br />Obutasiibula.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Walibeer(a) essanyu,<br />Ssanyu,ssanyu,ssanyu:<br />Walibeer(a) essanyu,<br />Nga tetukyasiibula.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tulibeera n'essanyu <br />Bwe tuliraba Yesu <br />-Omulokozi waffe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Walibeer(a) essanyu,<br />Ssanyu,ssanyu,ssanyu:<br />Walibeer(a) essanyu,<br />Nga tetukyasiibula.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mu ggulu tuliyimba <br />Amatendo ga Yesu <br />Emirembe gyonna.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Walibeer(a) essanyu,<br />Ssanyu,ssanyu,ssanyu:<br />Walibeer(a) essanyu,<br />Nga tetukyasiibula.</lines>
+    </verse>
+  </lyrics>
+</song>

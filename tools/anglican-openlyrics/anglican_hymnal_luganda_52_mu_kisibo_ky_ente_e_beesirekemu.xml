@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU KISIBO KY'ENTE-E BEESIREKEMU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="52" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU kisibo ky'ente-e Beesirekemu;<br />Mwe yazazikibwa,Yesu Omwana,<br />Ne mmunyeenye ku ggulu nga zaaka nnyo<br />Omwana wa Katonda ng'azaaliddwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu teyatya nte nga bwe zingoonga,<br />N'abantu tebaamumanya,Omwana.<br />Nze mmwagala Yesu eyazaalibwa,<br />Abeerenga nange wonna we mbeera.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beera kumpi nange,Omulokozi,<br />Nkusaba-okusembera wano we ndi;<br />Tusaasire fenna,abaana-abato <br />Tulyoke tubeere naawe mu ggulu</lines>
+    </verse>
+  </lyrics>
+</song>

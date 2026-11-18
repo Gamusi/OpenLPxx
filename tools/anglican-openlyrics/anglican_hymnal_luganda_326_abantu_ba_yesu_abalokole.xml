@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABANTU BA YESU ABALOKOLE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="326" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABANTU ba Yesu abalokole,<br />Abalaba-ekisa,era-ab'eddembe:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuli baddu b'ani? Tuli ba Yesu;<br />Twali ba Ssetaani,ne tusenguka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu be yalonda,be yanunula,<br />Baana ba Katonda,ab'emmeeme empya;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tuli baddu b'ani? Tuli ba Yesu;<br />Twali ba Ssetaani,ne tusenguka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuli ba kika kye,ab'omu nnyumba,<br />Baana mu kisa kye,talituboola.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tuli baddu b'ani? Tuli ba Yesu;<br />Twali ba Ssetaani,ne tusenguka.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kiki-ekyatufuula ffe-abalwanyi be?<br />Yesu yatugula n'omusaayi gwe.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tuli baddu b'ani? Tuli ba Yesu;<br />Twali ba Ssetaani,ne tusenguka.</lines>
+    </verse>
+  </lyrics>
+</song>

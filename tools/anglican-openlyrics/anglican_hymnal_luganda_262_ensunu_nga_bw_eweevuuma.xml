@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ENSUNU NGA BW'EWEEVUUMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="262" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ENSUNU nga bw'eweevuuma,<br />Ne yeegomba amazzi,<br />Bwe bagiyigga ewala-ennyo,<br />Bwe ntyo bwe nsinda nze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neegomba-amzzi g'obulamu <br />Agava waggulu;<br />Omwoyo ne gunnuma nnyo <br />Okunywa,nzikute.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ka ngume omwoyo;Yesu <br />Ye wa kisa kyonna;<br />Taalemenga kunsanyusa,<br />Bwe ngumiikiriza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eri Katonda Kitaffe,<br />N'Omwana we Yesu,<br />N'Omwoyo Omutukuvu,<br />Esaanidde ettendo</lines>
+    </verse>
+  </lyrics>
+</song>

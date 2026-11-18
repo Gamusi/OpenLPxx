@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA WANGE BYE NKYAMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="301" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA wange bye nkyama,<br />Ewala mu kkubo lyange,<br />-onjigirize-okkukiriza<br />Byonna, byonna, by'oyagala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu nzikiza bwe ntambula,<br />Onjakize-omusana gwo;<br />Nneme-okubulira ddala;<br />Beera nange, Mulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Obuyinike bwe bunsanga,<br />Nga nfiiriddwa be njagala,<br />Oyimuse-omwoyo gwange<br />Onnyimuse, onnyimuse,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bw'obanga-ompita-okuleka<br />Bye nsinga-okwagala, byonna<br />Bitwale, si byange, bibyo;<br />Nzikiriza, nzikiriza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kino kye neetaaga kyokka,<br />Omwoyo wo-okuyingira<br />Mu mutima gwange mu nda,<br />Ayingire, ayingire.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwe ndituuka-eyo mu ggulu<br />Ndikwakaliriza-amaaso;<br />Ne ntendereza-amaaso;<br />Ne ntendereza ggwe-eyampa,<br />Obulamu obutaggwaawo-.</lines>
+    </verse>
+  </lyrics>
+</song>

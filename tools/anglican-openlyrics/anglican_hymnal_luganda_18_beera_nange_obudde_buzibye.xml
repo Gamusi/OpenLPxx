@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BEERA NANGE,OBUDDE BUZIBYE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="18" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BEERA nange,obudde buzibye;<br />Enzikiza-ekwata,beera nange:<br />Sirina nze mubeezi mulala,<br />Ggwe-abeera-abanaku,nange mbeera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obudde bw'obulamu buziba,<br />Bwaka katono ne buwungeera;<br />Byonna eby'ensi bifuuka bidiba;<br />Ggwe-atadiba-,atafuuka,tondeka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nkwetaaga ggwe-emisana n'ekiro;<br />Kisa kyo kyokka Ssetaani ky'atya;<br />Katonda wange, bwe bijja-ebire;<br />-Omusana bwe gwaka,beera nange.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Siriiko kye ntya,Yesu nga wooli;<br />Beera nange ne mpangula-ebibi;<br />Owoomesa-amaziga n'ennaku:<br />Entaana nnafu,n'okufa kufu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nze bwe ndiba nga naatera-okufa:<br />Omasemasenga mu nzikiza:<br />Ondowoozese-essanyu n'engule:<br />Mu bulamu, mu kufa,tondeka</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU BUYINIKE-OBUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="370" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU buyinike-obungi<br />Bwe tuba tufiiriddwa,<br />Bannaffe be twagala,<br />Otusanyuse Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naye-oluusi tukaaba;<br />Olw'obunafu-obungi<br />Essuubi litubuze;<br />Otuyimuse Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe tweraliikirira<br />Ne tuggwaamu amaanyi,<br />Byonna nga kizikiza,<br />Otusaasire Yesu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oluusi bwe tukuvuma<br />Era nga twerabidde,<br />Okwagala kwo-okungi,<br />Otusonyiwe Yesu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ka tuyimuse-emyoyo<br />Era nga twolesebwa<br />Ekitiibwa mu ggulu,<br />Naffe tulituukayo.</lines>
+    </verse>
+  </lyrics>
+</song>

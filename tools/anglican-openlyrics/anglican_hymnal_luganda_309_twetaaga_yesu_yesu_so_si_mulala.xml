@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TWETAAGA YESU: YESU,SO SI MULALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="309" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TWETAAGA Yesu:Yesu,so si mulala<br />Ekisa kye kinaatumala ffe.<br />Twetaaga Yesu: tugobe Ssetaani<br />Ng'atusemberera mu ttima lye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twetaaga Yesu:Yesu Musaale waffe <br />Mu nzikiza mwe tutambulira;<br />Nga tumweyabiza,tulaba-essanyu;<br />Ye ngabo yaffe,gye twambalira.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twetaaga Yesu:Olwazi lw'emirembe;<br />Katonda kwe yatuyimiriza;<br />Nga tumulaba,tetuwunjawunja,<br />So tetubaako kyonna kye tutya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twetaaga Yesu:mu biro by'okulumwa;<br />Tewali-amwenkana-okusaasira;<br />N'okutuwa n'atuwa obutamma <br />Amaanyi ge agatuwanguza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Twetaaga Yesu:nga tufiiriddwa-abantu <br />Be twagala-,abeebakira mu ye:<br />Atukubagiza ne tutakaaba,<br />Nga tulowooza ku bigambo bye.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Twetaaga Yesu:anaatuukirizanga <br />Buli kye twetaaga-olw'ekisa kye;<br />Tuweebwa-obutuukirivu ku lulwe,<br />Nga tuyima mu ye tulokola.</lines>
+    </verse>
+  </lyrics>
+</song>

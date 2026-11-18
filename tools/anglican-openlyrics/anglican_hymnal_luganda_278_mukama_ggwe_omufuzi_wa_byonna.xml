@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA GGWE-OMUFUZI WA BYONNA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="278" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA ggwe-Omufuzi wa byonna,<br />Bye wakola bikusuuta byonna.<br />Ggwe-Omukuumi w'amawanga gonna,<br />Ogamulisizza-omusana gwo.<br />Fuga-emyoyo gyaffe,Ayi Mukama,<br />Tukuume-era-otuwe amaanyi go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ffe-abaana bo b'oyagala ennyo,<br />B'ogaase awamu n'Omwana wo,<br />Naawe-Omwoyo-Omutukuvu jjangu <br />Tugatte fenna mu mwoyo gyaffe <br />Tubeerenga mu ggwe omu wekka;<br />Fenna twagalanenga bulijjo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuwe tukyawe obubi bwonna,<br />Twagalenga-ebyo ebisaanira.<br />Essanyu lyaffe lituukirire,<br />-Obuyinike bwaffe-obumalewo.<br />Gabira-abaana bo amaanyi go <br />Tukugoberere n'amazima.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ayi Mukama,-otwambaze amaanyi go <br />Tube-abasserikale bo leero.<br />Tujjuze-amaanyi g'ekigambo kyo <br />Tuwangule mu lutalo lwaffe <br />Wanirira obuzibu bwaffe.<br />Tuleme oktya entiisa yonna.</lines>
+    </verse>
+  </lyrics>
+</song>

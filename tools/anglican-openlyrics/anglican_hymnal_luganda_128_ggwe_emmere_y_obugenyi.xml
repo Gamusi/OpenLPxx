@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE-EMMERE Y'OBUGENYI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="128" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE-emmere y'obugenyi,<br />Ggwe maanu y'abalonde,<br />Eriisa-abeesigwa:<br />Abatambuze-abakoowu<br />Tulumibwa enjala<br />Olw'obulungi bwo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-oluzzi olutaggwaawo <br />Era-olukulukuta <br />N'essanyu n'ekisa,<br />-Oluwummuza-ab'ennyonta <br />-Okutuusa lwe bawona <br />N'amazzi g'obulamu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tulabira kaakano <br />Kyokka mu ndabirwamu;<br />Ebitalabika:<br />Naye mu biro biri <br />Tunaatunuuliranga <br />Amaaso ge ddala</lines>
+    </verse>
+  </lyrics>
+</song>

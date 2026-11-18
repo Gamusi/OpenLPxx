@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABALOKOLE BA YESU,BE YATUUSA MU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="108" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABALOKOLE ba Yesu, be yatuusa mu ggulu,<br />Bonna baana baKatonda, bonna batuukirivu;<br />Aleruuya,Aleruuya,bwe bayimba bwe batyo:<br />Ne bakuba-ennanga zaabwe,olw'essanyu lingi nnyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>N'abawonya-ennaku zaabwe,n'abawa-obulamu bwe,<br />Ne baweebwa-obutuukirivu ku lw'omusaayi gwe;<br />Era-engoye zaabwe zonna ne zimasamasa nnyo;<br />Yesu n'abafuula-abaana,n'abasanyukirako</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omukadde,era nabbi,abamugoberera,<br />Omulenzi n'omuwala,era n'omuvubuka,<br />Abaayagala Katonda,era-abaamwuweereza;<br />Baali baddu ba Ssetaani,kaakano balokose.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwe baabeera mu nsi muno,bo baalwana n'amaanyi;<br />Ne balaba-ennaku nnyingi,ne bakolwa obubi;<br />Ne bakubibwa-amayinja,ne bajoogebwa-ababi;<br />Ne baduulirwa-ab'ettima,bwe baalumwa bwe batyo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu kiki-ekyabawanguza Ssetaani bulijjo? <br />Ku lw'amaanyi go baawangula,era ku lwekisa kyo:<br />Ne bayoza-engoye zaabwe mu musaayi gwa Yesu;<br />Bo baakemebwa Ssetaani,ne banywerera ddala.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Katonda wa bakatonda,ggwe-eyazaalibwa wekka,<br />Ggwe-omusana omulungi, olw'abo tusanyuka:<br />Ka tukwate-empisa zaabwe,nga tukwesiga wekka <br />Yesu Mulokozi waffe,ggwe eyatufiirira</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AMAZE-OMULIMU GWE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="368" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AMAZE-omulimu gwe<br />Alwanye-olutalo lwe;<br />Avudde mu mayengo,<br />Yeesiimye-okuwunguka.<br />Kitaffe tuwaayo gy'oli,<br />Omwana w(o) eyeebase</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eyo teri kukaaba;<br />Awonye-ennaku-ez'ensi;<br />Atuuse mu maaso ge,<br />Oyo eyatonda-ensi.<br />Kitaffe tuwaayo gy'oli,<br />Omwana w(o) eyeebase</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eyo-amaanyi g'okufa <br />Tegakyamutuutako;<br />Omununuzi gy'ali<br />Eyawangula-okufa<br />Kitaffe tuwaayo gy'oli,<br />Omwana w(o) eyeebase</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naffe-abasigaddewo<br />Tulinda nnyo n'essuubi;<br />Okumulaba Yesu,<br />Ku lunaku-olwentiisa.<br />Kitaffe tuwaayo gy'oli,<br />Omwana w(o) eyeebase</lines>
+    </verse>
+  </lyrics>
+</song>

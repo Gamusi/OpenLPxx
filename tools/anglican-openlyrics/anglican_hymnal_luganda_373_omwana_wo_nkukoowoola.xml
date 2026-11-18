@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWANA WO NKUKOOWOOLA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="373" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWANA wo nkukoowoola;<br />Era wansuubiza<br />Okutuusa ekyengera<br />Byonna ggwe-obigaba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tutunuulira ggwe wekka<br />Ekyeya bwe kijja;<br />Era ne ttoggo bw'atuuka,<br />Tukulindirira.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enkuba-ebaza-ebibala<br />Era n'omusana;<br />Bwe bireeta ekyengera<br />Naffe tumalibwa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naye byetulina bibyo<br />Otuwe-olw'ekisa;<br />Tuwe tukwesige wekka<br />Kubanga-otwagala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kaakano ffe tukusaba<br />Byonna obituwe.<br />Tukugulumize wekka,<br />Katonda-atwagala.</lines>
+    </verse>
+  </lyrics>
+</song>

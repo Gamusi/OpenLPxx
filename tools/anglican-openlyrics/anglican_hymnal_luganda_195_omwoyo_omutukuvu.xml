@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWOYO OMUTUKUVU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="195" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWOYO Omutukuvu,<br />Omugabi w'obulamu;<br />Jjangu,tukwegayiridde,<br />Jjangu-,okke mu myoyo gyaffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tutegeeze ffe bwe tuli,<br />Tunakuwalire-ebibi:<br />Tutegeeze Yesu bw'ali,<br />Tumwebaze-obulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twewadde mu mikono gyo;<br />Twesiga amagezi go.<br />Tumaleemu-ebibi byaffe;<br />Twewaddeyo-,otulokole.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eddagala bwe likaawa,<br />akambe ko bwe kasala,<br />Twesiga-,Omusawo waffe;<br />Endwadde yaffe-etuyinze.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kale,omuliro gujje,<br />Gummalemu-amasengere,<br />-Amalala,-ettima,ne byonna <br />Ebitasiimibwa Yesu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tujjuze-amaanyi n'ekisa,<br />-Emirembe n'okusanyuka <br />N'okwewombeeka,twagale <br />Bannaffe okukira ffe.</lines>
+    </verse>
+  </lyrics>
+</song>

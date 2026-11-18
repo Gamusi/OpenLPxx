@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OKWOLESEBWA KULUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="149" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OKWOLESEBWA kulungi,<br />Nabbi kwe yalaba-edda;<br />Maloboozi ga kitalo<br />Olwo ge yawulira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu yeekaalu ya Katonda,<br />Ng'atudde ku ntebe ye;<br />Bakkeerubi,Basseraafi;<br />Bayimba-Antifoona-eno:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ekitiibwa kyo kinene,<br />Mu nsi-era ne mu ggulu;<br />Oweebwe-ekitiibwa kyonna,<br />Mukama Mutukuvu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu ggulu bakyamusuuta,<br />Ne mu nsi ne baddamu <br />Nga bayimba:Mutukuvu<br />Mukama-ow'eggye lyonna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wamu ne Bamalayika,<br />Wamu n'Ekkanisa ye,<br />Naffe tumutendereze,<br />Naffe tumuyimbire.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ekitiibwa kyo kinene,<br />Mu nsi-era ne mu ggulu;<br />Oweebwe-ekitiibwa kyonna,<br />Mukama Mutukuvu.</lines>
+    </verse>
+  </lyrics>
+</song>

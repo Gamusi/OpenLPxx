@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ALERUUYA! ALERUUYA! ALEERUYA!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="86" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ALERUUYA! Aleruuya! Aleruuya!<br />-Abaana ba Kabaka mwenna<br />Musanyuke mujaguze,<br />-Amaanyi g'okufa gafudde:<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Awo-olwatuuka Malyamu,<br />Era ne Magudaleene,<br />N'omukyala wa Kuloopa:<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ku lunaku-olwa Ssabbiiti <br />Enkya mu matulutulu<br />Ne bagenda-awaali entaana:<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne basanga Malayika,<br />Mu byeru n'abagamba nti:<br />Yesu-agenze-e Ggaliraaya:<br />Aleruuya</lines>
+    </verse>
+    <verse name="v5">
+      <lines>-Ekiro-ekyo_abatume baatya,<br />Yesu n'ajja n'agamba nti: <br />Emirembe gibe mu mmwe:<br />Aleruuya</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tomasi bwe yawulira,<br />Bwe baamulabidde ddala,<br />N'abuusabuusa mu nda ye:<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yesu n'agamba Tomasi <br />Nti,Leeta omukono gwo, <br />-Ogusse mu mbiriizi zange:<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Leka-okuba-atakkiriza,<br />Tomasi n'amuddamu nti:<br />Ggwe Katonda wange ddala <br />Aleruuya!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Naye-alina-omulisa-oyo<br />Akkiriza nga talina <br />Ky'alabako n'akatono:<br />Aleruuya!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mu tendereze Kitaffe,<br />N'ettendo libe-eri-Omwana,<br />N'Omwoyo Omutukukuvu.<br />Aleruuya!</lines>
+    </verse>
+  </lyrics>
+</song>

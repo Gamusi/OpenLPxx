@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WULIRA-OKUSABA KWANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="359" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WULIRA-okusaba kwange<br />Okw'omwana wo-omuto nze,<br />Ekisa kyo okimpenga,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saasira-obunafu bwange <br />Obw'omwana wo-omuto nze;<br />Ekisa kyo okimpenga,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sonyiwa-ebyonoono byange,<br />Ng'obinaaza n'omusaayi,<br />Ogw'Omulokozi Yesu,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne mu maanyi ga Ssetaani,<br />Lokolanga-omwoyo gwange;<br />Wulira-okusaba kwange,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kkiriza omwoyo gwange <br />Ggwe nkuwadde-okugukuuma;<br />Nsanyusanga n'ekisa kyo,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Olw'obwesigwa bwo bwonna <br />Ayi-Katonda Onnyambenga;<br />Mbeefe gy'oli omwesigwa,<br />Bulijjo,bulijjo.</lines>
+    </verse>
+  </lyrics>
+</song>

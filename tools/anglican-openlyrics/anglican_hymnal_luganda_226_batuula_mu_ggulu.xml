@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BATUULA MU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="226" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BATUULA mu ggulu<br />Wamu naawe<br />Abatuukirivu;<br />Basanyuka.<br />Bayimba bulijjo,<br />Tweyanze ekisa kyo,<br />Ggwe-eyatwagala-ennyo,<br />Mulokozi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Omusaayi gwa Yesu <br />Gwanaaza nnyo;<br />Ebyambalo e'bya-<br />Batukuvu.<br />Kyebava batuula <br />Wamu naawe,Katonda;<br />Kyebava bayimba <br />Ettendo lyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ani ayagala <br />-Okutuuka-eyo?<br />Jjangu Yesu gy'ali;<br />Yanguwako.<br />Anaakusonyiwa,<br />Taaleme kukkiriza,<br />Nga bwe yasuubiza,<br />Mukama wo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tasingika ddala <br />Ekisa kye:<br />Alibalokola <br />Abantu be. <br />Asangula-ebibi <br />N'omusaayi-ogw'amaanyi:<br />Asinga obubi <br />Taamuleme.</lines>
+    </verse>
+  </lyrics>
+</song>

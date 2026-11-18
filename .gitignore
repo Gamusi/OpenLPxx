@@ -1,5 +1,13 @@
 *.apk
 *.xapk
 *.tar.gz
+*.exe
+*.pyc
+__pycache__/
 Thumbs.db
 .DS_Store
+**/.venv/
+distribution/build-env/
+distribution/app-build/
+distribution/build-work/
+distribution/installer/

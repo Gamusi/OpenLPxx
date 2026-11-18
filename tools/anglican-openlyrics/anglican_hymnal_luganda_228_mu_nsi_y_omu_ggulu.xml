@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU NSI Y'OMU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="228" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU nsi y'omu ggulu<br />Tewabaawo kiro,<br />Emirimu tegikoya<br />Bakoza-okwagala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eri teri nnaku,<br />Essanyu lingi nnyo:<br />Katonda waffe-asangula <br />Amaziga gonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eri teri kibi:<br />Abaliyo bonna <br />Bambadde-engoye-entukuvu,<br />Bayimbira Yesu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eri teri kufa:<br />Abaayingira-eyo,<br />Baamala bo okusikira<br />Obulamu-obutaggwaawo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu,musaale ggwe,<br />Otukulembere;<br />-Otuyise mu kabi konna <br />Otutuuse mu ggulu</lines>
+    </verse>
+  </lyrics>
+</song>

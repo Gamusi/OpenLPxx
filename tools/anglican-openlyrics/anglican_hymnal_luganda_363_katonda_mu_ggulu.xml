@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA MU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="363" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA mu ggulu,<br />Ggwe-otukuza byonna;<br />N'okwagala kwo-okw'ensusso<br />Tukuza-ennyumba-eno</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwe tukakasibwa <br />Nga tubatizibwa,<br />N'okunaazibwako-ebibi,<br />-Olw'ekisa kyo-ekingi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kristo ye kennyini,<br />Mw'aliisiza-ababe <br />-Omubiri n'Omusaayi ggwe,<br />Ye mmere y'obulamu-.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abantu-aboonoonyi,<br />Mwe basaasirirwa;<br />Bonna-abfiira mu kibi,<br />Mwe basonyiyirwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amaanyi g'omubi <br />Gawangulwa mangu;<br />Bwe gakoona ku nnyumba-eno,<br />Kubanga ntukuvu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>-Ettendo libe-eri ggwe,<br />Kitaffe n'Omwana,<br />N'Omwoyo-Omutkuvu,<br />Emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

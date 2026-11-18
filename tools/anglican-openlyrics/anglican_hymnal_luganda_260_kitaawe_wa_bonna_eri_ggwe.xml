@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KITAAWE WA BONNA-ERI GGWE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="260" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KITAAWE wa bonna-eri ggwe,<br />Tuyimusa-emitima gyaffe:<br />Ku bwa Yesu,lye-ekkubo lyaffe<br />Eritutuusa mu maaso go;<br />Ofuke emikisa gyo<br />Ku ffe abafukamidde.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kitaawe wa bonna-eri ggwe,<br />Tuyimusa emyoyo gyaffe,<br />Abeenenyezza-ebibi byaffe,<br />Abatamanya kukutenda;<br />Otujjuze Omwoyo wo,<br />Tukuyimbire-amatendo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kitaawe wa bonna-eri ggwe,<br />Tukuleetera-okutya kwaffe,<br />Okutalabibwa bannaffe <br />Naye okumanyibwa gy'oli;<br />Otukwate ku mukono <br />Tulemenga okubungeeta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kitaawe wa bonna-,otuwe,<br />Okukutenderezanga-ennyo;<br />Tusanyukirenga Mukama <br />Ffe abantu be-abalokole.<br />Mu biro byonna-otulage <br />-Ekkubo-eddungi-eridda gy'oli.</lines>
+    </verse>
+  </lyrics>
+</song>

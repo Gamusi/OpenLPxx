@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TEMUYONOONANGA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="356" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TEMUYONOONANGA,<br />Temuyombanga;<br />Muli ba Mukama,<br />Muli ba Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kristo muwombeefu,<br />Alina-ekisa;<br />Era n'abaana be <br />Bamufaanane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Waliwo Ssetaani <br />Abateganya;<br />Abasendasenda <br />Mulokle-ebibi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mumujeemerenga,<br />Ne bw'abakema;<br />Musabe Mukama <br />Mube balungi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Edda mwasuubiza <br />Nga muli bato;<br />-Okugaana Ssetaani,<br />N'amakubo ge.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Muli Bakristaayo <br />Mulwanyise nnyo <br />Buli kibi kyonna,<br />Mube balungi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kristo abafuga,<br />Ye wa mazima;<br />Era n'abaana be <br />Bamufaanane.</lines>
+    </verse>
+  </lyrics>
+</song>

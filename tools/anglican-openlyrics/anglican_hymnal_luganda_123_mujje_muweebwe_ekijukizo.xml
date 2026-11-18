@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUJJE MUWEEBWE EKIJUKIZO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="123" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJJE muweebwe ekijukizo<br />-Eky'okufa n'okulumwa kwa Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bonna-abakkiriza ssadaaka ye,<br />Olw'ebibi byabwe,balokoke.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Omusaayi n'omubiri biriisa <br />Emyoyo gyaffe lwa kukkiriza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eyatuwa-obulokozi bwaffe,<br />Ye nnyini ali wakati mu ffe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tusemberenga n'okukkiriza,<br />Tufune-amaanyi ge twetaaga ffe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu-Omugabuzi w'embaga-eno,<br /> Tusseekimu ffe naawe mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

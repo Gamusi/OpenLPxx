@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA WANJAGALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="351" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA wanjagala<br />N'ompa-Omwana wo Yesu<br />Abe mukwano gwange<br />Annyambe mu bizibu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu tolekangayo <br />-Okuba mukwano gwange;<br />Bulijjo beera nange <br />Era n'okunnumggamya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naakwagala ntya Yesu?<br />Nze naakutonera ki?<br />Siraba kye mba nkuwa <br />Anti byonna bintu byo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naye kye nnina kimu <br />Nkuwadde-omwoyo gwange;<br />Naakugobereranga,<br />Ondagirire-ekkubo.</lines>
+    </verse>
+  </lyrics>
+</song>

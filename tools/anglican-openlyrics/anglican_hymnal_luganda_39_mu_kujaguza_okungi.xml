@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU KUJAGUZA OKUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="39" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU kujaguza okungi<br />Muyimbe n'essanyu lingi;<br />Yesu ssanyu lyaffe<br />Ali mu kisibo,<br />Yenna amasamasa<br />Ku mubiri gwa nnyina,<br />Yesu okusooka,<br />N'enkomerero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ayi Yesu, Omwana omuto <br />Ggwe gwe neegomba bulijjo <br />Nsaasira siraba,<br />-Omwana asinga bonna;<br />Ku lw'obulungi bwonna, <br />Ggwe ow'ekitiibwa; <br />Nsembeza gy'oli, <br />Nsembeza gyoli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obulungi bwa Kitaffe! <br />Ekisa ky'Omwana Yesu; <br />Ffe endiga twakyama; <br />-Olw'ebibi byaffe byonna; <br />Naye fenna watuwa <br />-Essanyu ery'omu ggulu.<br />Singa gye tuli,<br />Singa gye tuli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Essunyu liri ludda wa <br />Oba nga teriri eyo? <br />Bamalayika be <br />Bayimba ennyimba empya <br />N'eng'oma nga zivuga; <br />Mu maaso ga Kabaka. <br />Singa gye tuli, <br />Singa gye tuli.</lines>
+    </verse>
+  </lyrics>
+</song>

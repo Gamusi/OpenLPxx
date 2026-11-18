@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NNINA-OMUKWANO GWANGE,YE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="332" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NNINA-omukwano gwange,ye<br />Yasooka-okwagala nze<br />N'ampalula mu kisa kye,<br />Kye kyakkirizisa nze.<br />Leero ndi muddu we,naye<br />Abaddu be ba ddembe;<br />Nze ndi wuwe,naye wange.<br />-Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nnina-omukwano gwange,ye <br />Yafa-okundokola nze,<br />Kubanga obulamu bwe <br />Ye bwe yagabira nze.<br />Nange sikyalina byange,<br />Ebyange bibye byonna;<br />Neewaayo mu mikono gye,<br />Mukwano gwange ddala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nnina-omukwano gwange,ye <br />Yaweebwa-amaanyi gonna;<br />Ge galintuusa ewuwe;<br />Sitya balabe bonna.<br />Eb'eggulu mbirengedde,<br />Bimyansa nnyo nga-effeza:<br />Kale nkole,nfube,nnwane! <br />Ye alintendereza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nnina-omukwano gwange,ye <br />Mulungi,ow'ekisa;<br />Angabira ku maanyi ge,<br />Annumggamya-era andiisa.<br />Ebiriwo n'ebiribaawo <br />Tebirinjawukanya;<br />Emirembe-,egitaliggwaawo<br />Yesu,mukwano gwange</lines>
+    </verse>
+  </lyrics>
+</song>

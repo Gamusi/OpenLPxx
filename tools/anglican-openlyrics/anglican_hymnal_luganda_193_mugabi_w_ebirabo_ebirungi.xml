@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUGABI W'EBIRABO-EBIRUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="193" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUGABI w'ebirabo-ebirungi,<br />Ebiva-eri Katonda Kitaffe,<br />Otuwe ffe-abeetaaga okwagala;<br />Kye kirabo ekitenkanika.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Engabo yaffe kwe kukkiriza,<br />N'effumu kye Kigambo kya Yesu;<br />Ekyo ku kifuba butukuvu,<br />Tunaanika mu bigere-ekisa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye-ekirabo kyo tukyetaaga,<br />Ekisinga-ebirala-obulungi,<br />Kwe kwagalana,nga bw'otwaga <br />Yesu,bwe tutyo twagalanenga</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Okwagala kugumiikiriza,<br />Kulina ekisa so si buggya;<br />Tekunoonya byakwo,tekunyiiga<br />Tekwegulumiza,tekukoowa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mwoyo-Omutukuvu,otuwenga <br />Okwagala kwa Yesu yennyini <br />Alyoke atubale mu babe,<br />Eby'omu nsi-eno bwe biriggwaawo.</lines>
+    </verse>
+  </lyrics>
+</song>

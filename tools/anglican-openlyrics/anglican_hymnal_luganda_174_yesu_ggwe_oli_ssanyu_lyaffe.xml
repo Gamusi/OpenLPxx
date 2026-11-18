@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU, GGWE-OLI SSANYU LYAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="174" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,ggwe-oli ssanyu lyaffe,<br />Ggwe-oli musana gw'obulamu;<br />Twaleka-eby'omu nsi muno,<br />Ne tusanyukira mu ggwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Amazima go gabeerera,<br />Olokola-abakwesiga,<br />Abakunoonya beesiima,<br />Abakulaba bakkuta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tulya ku mmere y'obulamu-,<br />Twettanira-okuliisibwa;<br />Tunywa ne ku musaayi gwo,<br />Gutuwonya-ennyonta yaffe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wonna tukyukira gyoli,<br />Ggwe-oli Kiwummulo kyaffe;<br />Bw'otusiima,tusanyuka,<br />Bw'obeera naffe tulama</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jangu-otubeesebeese ffe,<br />Tuleme-okubulubuuta,<br />Goba-ekizikiza-eky'ensi <br />Otwakize amaaso go.</lines>
+    </verse>
+  </lyrics>
+</song>

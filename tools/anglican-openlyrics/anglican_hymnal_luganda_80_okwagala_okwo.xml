@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OKWAGALA OKWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="80" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OKWAGALA okwo<br />Okw'Omulokozi<br />Kwe yanjagala nze<br />Nange-atasaanira;<br />Kale nze-ani<br />Omwonoonyi?<br />Naye yafa ku lwange nze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baatendereza nnyo <br />Nga bayimba-ennyimba,<br />Nga bayimba-ennyimba,<br />Nga bagamba bonna:<br />Ozaana waggulu! <br />Ate-amangu<br />Ne bagamba:<br />Komerera-Omulokozi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tewalina nnyumba,<br />Ggwe eyatonda-ensi.<br />Mu kufa, bonna bonna <br />Baakwabulira <br />Njogere ntya <br />-Omulokozi <br />Olw'okunjagala bw'otyo?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yaleka-ekitiibwa<br />N'aleetera-abantu <br />Obulokozi bwe <br />Ffe-abatasaanira:<br />Yanjagala<br />Nze-omwonoonyi<br />N'awaayo byonna ku lwange.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naye yakola ki?<br />Yawonya-abalwadde;<br />Abalema bonna <br />-Era Ne bamuzibe <br />Yabawonya.<br />Kya kitalo,<br />Kaakano bamuduulira!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ka mbeere nga nnyimba <br />Ku mukwano gwange; <br />Ye Kabaka, naye <br />N'anjagala bw'atyo<br />Mu bulamu <br />Bwange bwonna,<br />Ka nkwagale-Omulokozi</lines>
+    </verse>
+  </lyrics>
+</song>

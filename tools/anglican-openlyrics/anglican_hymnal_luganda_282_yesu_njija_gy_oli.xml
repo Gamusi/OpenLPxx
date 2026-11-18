@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU NJIJA GY'OLI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="282" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU njija gy'oli,<br />Nga nsuubira,<br />Nkufukaamirira,<br />Nga nkwesiga;<br />Njijudde nnyo-ebibi,<br />Naye kye mpoza nti:<br />Wanfiirira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mukama njatula <br />Ebyonoono;<br />Ne nkubikkulira <br />Ebibi byange.<br />Jjangu onnongoose <br />Onnalize ddala,<br />Ontukuze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu-otusonyiwe <br />Ggwe-omwesigwa <br />Laba,nfukamidde <br />Mu maaso go.<br />Onnaze mu musaayi-,<br />Ggwe-Omwana gw'endiga <br />Wa Katonda.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne nyoka nsanyuka <br />Nga ndokose,<br />Nze ne ntambulira <br />Wamu naawe.<br />Ne bwe ndizirika,<br />Ggwe-olimpanirira <br />Nneme-okugwa.</lines>
+    </verse>
+  </lyrics>
+</song>

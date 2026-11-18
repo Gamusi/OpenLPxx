@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KA NKWAGALE KATONDA;SIYINZA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="258" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KA nkwagale Katond;siyinza<br />Kwerokola lwa kwagala kwange;<br />Kuba-ebibi byange nnakusobya<br />So ne sisaanira mukisa gwo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naye ggwe-oli wange,nange wuwo;<br />Nze mwonoonyi,ggwe Katonda ddala;<br />Onnyweze kumpi mu kifuba kyo,<br />N'emikono gyo gye baafumita.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Obulumi bwo tebulowoozeka,<br />So tewali mu baana b'abantu <br />Ayinza-okwelesa-obuyinike <br />Newankubadde-ennaku zo zonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bye walumwa tebikomezeka,<br />Byonna ku lwange nze-alina-ebibi,<br />Wava ku ntebe y'ekitiibwa kyo,<br />Okumponya-atali mulongoofu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu,siiremenga kukwagala <br />-omulokozi,nga bwe wanjagala;<br />Ggwe kennyini so si birabo byo,<br />Ggwe njagala obutayosaawo.</lines>
+    </verse>
+  </lyrics>
+</song>

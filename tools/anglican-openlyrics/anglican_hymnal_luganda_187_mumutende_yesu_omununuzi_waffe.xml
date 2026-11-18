@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUMUTENDE YESU-OMUNUNUZI WAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="187" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUMUTENDE Yesu-Omununuzi waffe<br />Ab'omu nsi mwatule-ekisa kye;<br />Mumwebaze bamalayika-abakulu<br />Erinnya lye-eddungi lyebazibwe.<br />Ng'omusumba,anaakuumanga-ababe<br />Alibatwala mu mikono gye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mumutende,olw'ekitiibwa ky(e) ekingi,<br />Mumwebaze n'ennyimb(a) ez'essanyu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mumutende Yesu-Omununuzi waffe <br />Yatufiirira-olw'ebibi byaffe,<br />Ye lwe lwazi lwaffe-omuva-obulokozi,<br />Mumwebzae eyakomererwa;<br />Ye yatwala ennaku zaffe zonna,<br />Ye wa maanyi era wa kwagala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mumutende,olw'ekitiibwa ky(e) ekingi,<br />Mumwebaze n'ennyimb(a) ez'essanyu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mumutende YEsu-Omununuzi waffe<br />Ab'omu ggulu mumuyimbire;<br />Yesu afuga-emirembe n'emirembe;<br />Nga Kabaka; mumusseeko-engule.<br />Ye alidda okugoba-abalabe,<br />Obuyinza n'ekitiibwa bibye.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mumutende,olw'ekitiibwa ky(e) ekingi,<br />Mumwebaze n'ennyimb(a) ez'essanyu.</lines>
+    </verse>
+  </lyrics>
+</song>

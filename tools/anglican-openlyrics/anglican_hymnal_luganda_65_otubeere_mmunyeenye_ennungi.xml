@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OTUBEERE MMUNYEENYE ENNUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="65" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OTUBEERE Mmunyeenye ennungi,<br />Laga-ekifo Mukama gy'ali;<br />Oyakire mu nzikiza yaffe,<br />Tukwate-ekkubo-eridda gy'ali:<br />-Omununuzi ow'abantu bonna,<br />Kabaka,Omutonzi wa byonna,<br />Yeewombeeka ng'omwana-omuto.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kale tumuwe eby'obugagga,<br />-Akaloosa-ak'omuwendo-omungi?<br />Oba kumuwa zaabu n'eruulu,<br />-Obuyinja obumasamasa?<br />-Obugagga tumuweere bwereere,<br />Asinga-okwagala emitima <br />Gy'abantu n'okusaba kwabwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otubeere Mmunyeenye ennungi,<br />Laga-ekifo Mukama gy'ali:<br />Oyakire mu nzikiza yaffe <br />Tukwate-ekkubo-eridda gy'ali;<br />Twewombeeke nga Ye bwe Yakola,<br />Tweweeyo-olw'okubeera-abalala,<br />Tufubenga-okumufaanana</lines>
+    </verse>
+  </lyrics>
+</song>

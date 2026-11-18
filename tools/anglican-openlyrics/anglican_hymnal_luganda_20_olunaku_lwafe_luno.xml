@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OLUNAKU LWAFE LUNO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="20" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OLUNAKU lwaffe luno,<br />Kaakano luweddeko,<br />Enkya twebazizza Yesu,<br />Tumusuute-era-ekiro.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naye wano nga buzibye,<br />Awalala bukedde,<br />Buli ssawa wanaabeera<br />Abasuuta-erinnya lye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omusaana nga bwe gujja<br />Mu nsi-ezitali zimu<br />Nga gwetooloola-olukalu,<br />Nga gugoba-enzikiza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwe kutyo-okutendereza<br />Okw'abaana bo leero,<br />Tekusirika mu bantu,<br />Tekukoma n'akamu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ffe tugenda okwebaka,<br />Naye baganda baffe<br />Baakazuukuka-awalala,<br />Balyoke bakwebaze.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>-Obwakabaka bwo, Mukama,<br />Tebugenda kuggwaawo;<br />Bulibuna mu mawanga,<br />Ne bufuga-ensi zonna.</lines>
+    </verse>
+  </lyrics>
+</song>

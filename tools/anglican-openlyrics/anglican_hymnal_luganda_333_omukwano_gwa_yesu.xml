@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUKWANO GWA YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="333" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMUKWANO gwa Yesu<br />Tegutegeerekeka;<br />Omwoyo-Omutukuvu<br />Y'anjigiriza yekka;<br />Emirembe gijuza<br />Bwe gityo-omwoyo gwange,<br />Era gikulukuta Bulijjo-okunsanyusa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Byonna-ebitalabika <br />Kaakano mbirengedde;<br />Bibikkuliddwa gye ndi <br />Ku lw'ekisa kya Yesu;<br />Era-ebinafu by'ensi <br />Katonda yabironda,<br />Alyoke-akwase-ensonyi <br />Eby'amaanyi mangi nnyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eby'entiisa sibitya;<br />Nvumbudde-ekiwummulo;<br />Sikyayengetana,so <br />Sikyataagana nate.<br />Nnina-ennono y'obulamu,<br />Kwe kukkiriza Yesu,<br />Era nnyimba n'essanyu <br />Ye Mulokozi wange.</lines>
+    </verse>
+  </lyrics>
+</song>

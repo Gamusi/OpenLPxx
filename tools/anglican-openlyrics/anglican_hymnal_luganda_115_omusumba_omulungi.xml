@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUSUMBA-OMULUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="115" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMUSUMBA-omulungi<br />Kuuma-endiga zo zonna;<br />Mpaawo-alizisikula<br />-Okuva mu mikono gyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bulijjo twewombeeke <br />Okukugoberera,<br />Ng'abo abaatusooka, <br />Tukuumibwe-okwagala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bulijjo beera kumpi <br />Tuyige-eddoboozi lyo;<br />Tuleme-okukyamanga <br />Nga tuva mu kkubo lyo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yonna gy'onootutwala,<br />Tukugobererenga,<br />Okutuuka mu ggulu <br />Tufuge wamu naawe</lines>
+    </verse>
+  </lyrics>
+</song>

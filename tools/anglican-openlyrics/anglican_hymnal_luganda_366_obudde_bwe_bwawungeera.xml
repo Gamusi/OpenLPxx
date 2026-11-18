@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OBUDDE BWE BWAWUNGEERA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="366" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OBUDDE bwe bwawungeera<br />Abalwadde bajja gy'oli,<br />Baatuuka nga balumwa nnyo<br />Ne badda nga basanyuka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naffe leero tuzze gy'oli,<br />Emyoyo nga gituluma;<br />Tetukulaba n'amaaso,<br />Naye tumanyi nga wooli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ayi-Yesu otusaasire,<br />Ffe-abaana bo,tulwadde nnyo <br />Endwadde nnyingi-ez'emwoyo <br />N'ennaku zitusanze nnyo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abamu tebakwesiga,<br />Babuusabuusa ne batya;<br />Abalala bazze-ennyuma,<br />Ne beerabira-erinnya lyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tewali n'omu alina <br />Omwoyo oguteredde;<br />Kubanga bonna boonoonyi;<br />Tewali mutuukirivu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mukama otukomeko,<br />Mu ndwadde zaffe-otuwonye;<br />Nga-ab'edda bwe bajja gy'oli <br />Ne bawonyezebwa bonna.</lines>
+    </verse>
+  </lyrics>
+</song>

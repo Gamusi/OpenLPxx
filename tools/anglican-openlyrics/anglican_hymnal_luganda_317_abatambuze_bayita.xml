@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABATAMBUZE,BAYITA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="317" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABATAMBUZE ,bayita<br />Mu kiro ek'ennaku,<br />Nga bayimba eby'essuubi<br />Nga bagenda mu ggulu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tewali kutya nzikiza <br />Baakirwa omusana;<br />Bakwatagana mu ngalo <br />Ne gubakulembera.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abalonde ba Katonda,<br />Atuwa-omusana gwe <br />-Okutubeera mu lugendo,<br />Twekkaanye-ekkubo lyaffe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ffe tugenderera kimu <br />N'okukkiriza kumu;<br />Katonda fenna atuwa <br />-Essubi limu eddamu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tulina-oluyimba lumu <br />Nga tulwanyisa-ebibi;<br />Olugendo lwaffe lumu <br />Omusaale ye Yesu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Okwesiima kwaffe kumu <br />Bwe tulituuka gy'ali;<br />Gy'afuga mu kwagala kwe,<br />Kitaffe fenna omu.</lines>
+    </verse>
+  </lyrics>
+</song>

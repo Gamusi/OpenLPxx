@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KABAKA W'EGGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="196" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KABAKA w'eggulu,<br />Jjangu-Omusanyusa,<br />Omwoyo abeere naffe<br />Atubeere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-ensalo y'obulamu-<br />Otugaggawaze,<br />Otuwe emirembe gyo <br />-Ennaku zonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kka-okuva mu ggulu<br />Obeerenga naffe;<br />Otwetoolooze-okwagala<br />-Ennaku zonna.</lines>
+    </verse>
+  </lyrics>
+</song>

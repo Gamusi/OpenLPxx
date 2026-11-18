@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EDDA BONNA ABALWADDE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="364" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EDDA bonna abalwadde<br />Baakunoonyanga Yesu,<br />So tewali n'omu-eyadda<br />Awatali kuwona.<br />Otuwulire ggwe Yesu,<br />Ffe abakukaabidde.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abanaku n'abakooye,<br />Abalwala n'abafa;<br />Bakyetaaga-Omulokozi,<br />Obawonyeze ddala.<br />Otuwe ggwe bye twetaaga<br />Okuliisa-abayala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bonna-abzitoowereddwa <br />Ebibi bajje gy'oli,<br />Obatikkule-emigugu.<br />-Ebibazitoowerera.<br />Emibiri era-emyoyo <br />Yesu,-obiuule bibyo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obuyinike n'endwadde <br />Byombi bwe biriggwaawo;<br />Abakaaba balitenda <br />Ne basuuta-erinnya lyo;<br />Yesu,Omusawo waffe,<br />Beera wakati mu ffe.</lines>
+    </verse>
+  </lyrics>
+</song>

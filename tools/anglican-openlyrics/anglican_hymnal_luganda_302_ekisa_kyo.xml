@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKISA KYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="302" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKISA kyo tekitegeerekeka;<br />Mukama wannge, naye njagala<br />-Okuyiga bulijjo n'okwongera<br />Okutegeera mu mwoyo gwange<br />Bwe kyenkana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Okwagala kwo kukira byonna<br />Bye tulowooza ffe-abantu, naye<br />Neegomba nnyo-okubuulira wonna<br />Ekisa kyo-ekinene bwe kiri<br />Eri bonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ekisa kyo kinnemedde ddala<br />Okukitendereza-obulungi:<br />Naye emimwa gyannge gyagala,<br />Mukama okuyimba ettendo lyo<br />-Ennaku zonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Newankubadde nga nnemwa leero<br />Okutegeera-oba-okubuulira<br />Oba kukweyanza nga bw'osaana,<br />Naye nzize gy'oli onjijuze<br />Okwagala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sirina akanaakusanyusa<br />Mukama wange, nze munaku wo;<br />Edda nali seewangayo gy'oli,<br />Naye leero mpoza kino kyokka;<br />onjagala.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mukama onjijuze-okwagala,<br />Ntwala awali oluzzi olwo<br />-Olw'obulamu, nneme-okuluvaako<br />Okunoonya-amazzi gonna-amalala<br />-Ennaku zonna.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Era bwe ndikulaba n'amaaso<br />Ndiyiga-okukutendereza-ennyo;<br />Kubanga-okwagala-okwenkanaawo<br />Nga bwe kuli okw'ekitalo-ennyo,<br />Kumpalula.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EGGYE LYONNA ERY'OMU GGULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="59" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EGGYE lyonna ery'omu ggulu,<br />Mwetooloole-ensi yonna;<br />Mumuyimbire Kabaka<br />Azaaliddwa-olwa leero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Katusuute<br />Katwebaze <br />Kabaka <br />Azaliddwa</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kale abagezigezi <br />Mwanguwe okugenda, <br />Nga munoonya Kristo waffe <br />Kabaka w'ensi zonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katusuute<br />Katwebaze <br />Kabaka <br />Azaliddwa</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abasumba nga bakuuma <br />Ndiga zaabwe ekiro, <br />Naye eri mu kiraalo <br />Omusana nga gwaka.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Katusuute<br />Katwebaze <br />Kabaka <br />Azaliddwa</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Laba azze mu yeekaali <br />Naye nga tetumanyi; <br />Simulaba naye ye-oyo <br />Essuubi ly'ensi zonna.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Katusuute<br />Katwebaze <br />Kabaka <br />Azaliddwa</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kino kya kitalo ddala;<br />Omwana oyo-omuto <br />Alifuga ensi zonna <br />Emirembe-egitaggwaawo-</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Katusuute<br />Katwebaze <br />Kabaka <br />Azaliddwa</lines>
+    </verse>
+  </lyrics>
+</song>

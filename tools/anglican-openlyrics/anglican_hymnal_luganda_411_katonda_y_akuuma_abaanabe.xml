@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA Y'AKUUMA ABAANABE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="411" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU nsi-engimu-eyajjula-eby'obugagga,<br />Katonda y'akuuma-abaana be;<br />Emigga gy'amazzi egy'obuwangwa<br />Gye gibanywesa-abantu be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Entiisa bw'ejja,ab(a) entalo,<br />Abantu bafa n'obwavu n'enjala;<br />Emmund(u) ez'amaanyi nga zivuga;<br />Kyokka Mukama ng'al(i) awo naffe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mu ddundiro-eddungi ery'obuwangwa,<br />Katonda y'alunda-abaana be;<br />Era-ekiro twebaka mu kiwonvu;<br />Era Katonda y'akuuma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Entiisa bw'ejja,ab(a) entalo,<br />Abantu bafa n'obwavu n'enjala;<br />Emmund(u) ez'amaanyi nga zivuga;<br />Kyokka Mukama ng'al(i) awo naffe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wadde ebibi bingi ebitulumba,<br />Katonda y'akuuma abaana be;<br />Amaanyi ge n'ekisa bitukuumye;<br />Katonda ye Mulokozi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Entiisa bw'ejja,ab(a) entalo,<br />Abantu bafa n'obwavu n'enjala;<br />Emmund(u) ez'amaanyi nga zivuga;<br />Kyokka Mukama ng'al(i) awo naffe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fenna tuyimbe,tusuute Kitaffe;<br />Katonda akuumye abaana be;<br />Nga tumanyi tuligenda eyo gy'ali<br />Katonda ng'atwala abaana.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Entiisa bw'ejja,ab(a) entalo,<br />Abantu bafa n'obwavu n'enjala;<br />Emmund(u) ez'amaanyi nga zivuga;<br />Kyokka Mukama ng'al(i) awo naffe.</lines>
+    </verse>
+  </lyrics>
+</song>

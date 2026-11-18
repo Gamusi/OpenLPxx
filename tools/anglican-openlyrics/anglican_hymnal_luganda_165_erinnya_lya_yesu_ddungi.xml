@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ERINNYA LYA YESU DDUNGI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="165" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ERINNYA lya Yesu ddungi<br />Eri akkiriza;<br />Lisangula-amaziga ge,<br />Limalamu-okutya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Litereeza n'omwoyo gwe <br />Linyiga-ebiwundu;<br />Ye mmere y'omuyala-,era <br />Liwumuza-akooye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erinnya gganzi, lwe lwazi <br />Kwe nzimba-enju yange <br />Lye ggwanika-eritaggwaamu <br />Emirembe gyonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Musumba wange,nkwebaza,<br />Mulokozi wange;<br />Bulamu bwange,nkwebaza,<br />Era-ekkubo lyange.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Okufuba kwange kwonna <br />Tekuliimu maanyi;<br />Naye bwe ndikulabako,<br />Ndikutendereza.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Onteegeezenga bulijjo,<br />Ekisa kyo-ekingi <br />Erinnya lyo linsanyuse <br />Mu ntuuko-ez'okufa</lines>
+    </verse>
+  </lyrics>
+</song>

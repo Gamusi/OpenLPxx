@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA-ONSEMBEZE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="267" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA-onsembezw<br />Kumpi naawe,<br />Ne bwe ndikwatibwa<br />-Obuyinike.<br />Neeyongerenga-era<br />Okusemberera<br />-Okumpi naawe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obudde-obw'obulamu <br />Buwungeera:<br />So siraba n'omu <br />Anambeera,<br />Nga nkwegayirira <br />Olw'ekyo,sembera <br />-Okumpi nange.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kale-okwolesebwa <br />Kuve-eri ggwe;<br />Era-awalinnyibwa <br />Walabike.<br />Nga bamalayika <br />Bampenyezza-okujja <br />-Okumpi naawe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kyenva nsanyukira <br />Ekisa kyo,<br />Kubanga-owulira <br />Omuddu wo<br />Katonda tondeka,<br />Nga mbulubuutira <br />-Ewala naawe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Edda ndiyingira <br />Wa Kitange;<br />Nga nkomekkereza <br />-Emgendo zange.<br />Ekirinsanyusa <br />Yesu,kubeerera <br />-Awamu naawe.</lines>
+    </verse>
+  </lyrics>
+</song>

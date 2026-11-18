@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TEMUSOOKANGA KUNOONYA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="254" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TEMUSOOKANGA kunoonya<br />Ssanyu na bugagga bwa nsi,<br />Na kwesiima kwa mubiri<br />Biriggwaawo-,biriggwaawo-.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Temusookanga-kunoonya <br />Bwami bwa nsi na kitiibwa:<br />Oliba-oli-awo mangwago <br />Ne biggwaawo-,ne biggwaawo-.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Temusookanga kunoonya <br />Bisusunku na birerya <br />Ebitali bya Katonda:<br />Bisusunku na birerya <br />Ebitali bya Katonda:<br />Biriggwaawo-,birigwaawo-.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mmwe musookenga-okunoonya <br />Obwakabaka bwa Katonda:<br />Ekisa kye-eky'ekitalo<br />Tekiggwaawo-,tekiggwaawo-.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mmwe musookenga-okunoonya <br />Obulokozi bw'abantu:<br />Mubaleete eri Yesu;<br />Tebuggwaawo-,tebuggwaaawo-.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ebyo bye muba munoonya,<br />Muliweeebwa bye yagamba:,<br />Muliweebwa-eby'omu ggulu <br />Tebiggwaawo-,tebiggwaawo-.</lines>
+    </verse>
+  </lyrics>
+</song>

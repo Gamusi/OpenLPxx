@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU ABAKKIRIZA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="241" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU abakkiriza,<br />Bonna-abalina-ebibi:<br />Bwe bamusemberera,<br />Abakkiriza-ababi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu abakkiriza,<br />Bonn(a) abalin(a) ebibi:<br />Bwe bamusemberera,<br />Abakkiriz(a) ababi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jjangu,nnaakuwummuza:<br />Kkiriza-ekigambo kye:<br />Eyasinga-okwonoona.<br />Mukama toomugobe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu abakkiriza,<br />Bonn(a) abalin(a) ebibi:<br />Bwe bamusemberera,<br />Abakkiriz(a) ababi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Neeraba mu maaso go,<br />Bwe ndi-omwonoonyi ddala;<br />Naye bwe njija gy'oli<br />Sitya,ku lw'erinnya lyo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu abakkiriza,<br />Bonn(a) abalin(a) ebibi:<br />Bwe bamusemberera,<br />Abakkiriz(a) ababi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ka nkweyanze,Mukama,<br />Eyannyaniriza nze.<br />Nange-eyakujeemera <br />Gw'onaaza-omusaayi gwo.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yesu abakkiriza,<br />Bonn(a) abalin(a) ebibi:<br />Bwe bamusemberera,<br />Abakkiriz(a) ababi.</lines>
+    </verse>
+  </lyrics>
+</song>

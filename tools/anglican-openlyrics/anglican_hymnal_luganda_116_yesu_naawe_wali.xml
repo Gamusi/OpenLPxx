@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU NAAWE WALI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="116" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU naawe wali<br />Omuto ngaffe,<br />So tewali muto<br />Gw'otoyagadde;<br />Naffe twakusenga<br />Ku Bbatirizo,<br />Otujjukizenga<br />Endagaano eyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu kiseera ekyo <br />Baatuyingiza <br />Munda mu kisibo <br />Eky'Ekkanisa.<br />Bwe tuneesiganga <br />Ebigambo byo,<br />Onootukwatanga <br />Mu mikono gyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tetukyakulaba <br />Yesu,n'amaaso,<br />Naye tukusaba <br />Otukuume nnyo.<br />Edda tulituuka <br />Mu ggulu gy'oli,<br />Okufa kufuuka <br />Otulo w'oli</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ennyonta n'enjala <br />Tebiriruma <br />Ndiga zo z'otwala <br />Ggwe-olizikuuma.<br />Okufa ku bwaffe <br />Wakuwangula,<br />Amaziga gaffe <br />N'ogasangula.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ayi Musumba waffe <br />Obulamu bwo <br />Wabuwa ku lwaffe <br />Abagule bo.<br />Otujjukizenga <br />Emikisa gyo,<br />Ka tukwesigenga <br />Wonna,bulijjo.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,MUKAMA WANGE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="360" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,Mukama wange,<br />Laba nze ndi muddu wo;<br />Saasira-obuto bwange<br />Njagala-okujja gy'oli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwana gw'endiga,Yesu,<br />Naawe wafuuka-omwana,<br />Bwe ndowooza-ekisa kyo,<br />Njagala-okukulaba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ontegeeze bulijjo <br />Ebinsaanidde byonna,<br />Nnyiikirenga okukula-<br />Nga nkufaanana Yesu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Era n'obuwombeefu,<br />Bonna ka mbaweereze;<br />Era okwagalana-ennyo <br />Ka ndagenga bulijjo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ekyo ndikiyinza ntya?<br />Nga nkusaba bulijjo <br />Ggwe-ateesanyusa mu nsi <br />Ggwe nnannyini bulungi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwe ntyo bwe naayinzanga <br />-Okukuweereza Yesu;<br />Bonna-abantunuulira <br />Bandabe nga-omuddu wo.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bwe ntyo bwe naasanyusa <br />Katonda ow'okwagala <br />Nga mugulumiriza <br />Mu mirimu gye nkola.</lines>
+    </verse>
+  </lyrics>
+</song>

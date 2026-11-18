@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GGWE-OMWOYO GWANGE,WEEYONJE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="127" />
+    </songbooks>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GGWE-omwoyo gwange,weeyonje<br />Ggwe weeyonjenga n'essanyu;<br />Va mu nzikiza y'ennaku,<br />Laba omusana gw'ensi;<br />Jaguzanga nnyo namaanyi,<br />Tenderezanga omwami<br />Ateekawo-embaga eno<br />Okuliisa abalonde.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu-emmere-ey'omu ggulu,<br />Yesu agaba-obulamu;<br />-Onsembeze ku mmeeza leero;<br />-Onsembez-omubi-omwereere.<br />Owa,ku lw'embaga eno<br />-Okutegeera-okwagala kwo, <br />Onsembeze-omuddu wo nze <br />Mu lubiri ng'omugenyi.</lines>
+    </verse>
+  </lyrics>
+</song>

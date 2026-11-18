@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GUWEDDEWO OMUSANA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="16" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GUWEDDEWO-omusana;<br />Yesu tweyanza ggwe;<br />Ekiro tukusaba<br />Tuleke ebibi;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu budde obw'enzikiza,<br />Ayi Yesu,otukuumenga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Biweddewo kaakano<br />Bigambo bya leero;<br />-Omulokozi,tuwonye<br />Mu maayi g'ekibi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu budde obw'enzikiza,<br />Ayi Yesu,otukuumenga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Emirimu giwedde;<br />Tukwegayirira,<br />-Otuggyeko-akabi konna;<br />Otuzibirenga.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mu budde obw'enzikiza,<br />Ayi Yesu,otukuumenga.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tukuume-emyoyo gyaffe;<br />Katonda ggwe-omanyi,<br />Obubi bw'omu kkubo<br />Ffe lye tuyitamu.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mu budde obw'enzikiza,<br />Ayi Yesu otukuumenga.</lines>
+    </verse>
+  </lyrics>
+</song>

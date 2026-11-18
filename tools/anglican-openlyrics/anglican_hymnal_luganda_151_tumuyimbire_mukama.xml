@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TUMUYIMBIRE MUKAMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="151" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TUMUYIMBIRE Mukama,<br />Tuyimbe n'essanyu;<br />Mujje,mujje nno tuyimbe,<br />Tumuyimbire n'essanyu<br />Nnyimba ne Zabbuli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kabaka waffe Mukama<br />Ye Katonda yekka;<br />Entikko z'ensonzi zize,<br />N'ennyanja ye yagikola,<br />Mulokozi waffe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ffe fenna tuli zzadde lye,<br />Omutonzi waffe;<br />Mujje, mujje nno tuyimbe,<br />Tumuyimbire Katonda <br />-Omulokozi waffe</lines>
+    </verse>
+  </lyrics>
+</song>

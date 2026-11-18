@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA WAFFE BULIJJO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="4" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA waffe bulijjo,<br />Mu linnya lyo tutanule,<br />Tukole-emirimu gyaffe;<br />Twagala n'okumanya ggwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tukolenga by'oyagala,<br />Tubeerenga mu maaso go,<br />Tulabe n'omukisa gwo,<br />Era tukusanyukire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amaaso go gatulaba:<br />Mukama otuzibire,<br />Tukuwe n'emyoyo gyaffe,<br />Tukole by'otulagira.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Era tubeere-abaddu bo,<br />Tutunule,tusabe nnyo,<br />Tukwatenga-amateeka go,<br />Tuwulire-ebigambo byo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kyonna kyonna kye tulina,<br />Yesu,kikyo so si kyaffe,<br />Tubeere naawe bulijjo,<br />Tutambule mu kkubo lyo</lines>
+    </verse>
+  </lyrics>
+</song>

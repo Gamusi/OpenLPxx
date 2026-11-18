@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EBINY(U) EBIRUNGI (E)NNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="347" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EBINT(U) ebirungi (e)nnyo<br />Ebitonde byonna<br />Byonna ebyewuunyisa<br />Byatondwa Katonda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ebimuli ebyaanya <br />Ye yatinda langi <br />Obunyonyi-obuyimba<br />Buyinza-okubuuka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ebint(u) ebirungi (e)nnyo <br />Ebitonde byonna <br />Byonna ebyewuunyisa <br />Byatondwa Katonda.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ensozi ez'omuddo <br />Omuli n'emigga,<br />Enjuba-egwa n'evaayo <br />-Eggulu litangaala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ebint(u) ebirungi (e)nnyo <br />Ebitonde byonna <br />Byonna ebyewuunyisa <br />Byatondwa Katonda.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Empewo eya ttoggo,<br />-Omusana gw'ekyeya,<br />Ebibala-ebyengera,<br />Byonna yabitonda.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ebint(u) ebirungi (e)nnyo <br />Ebitonde byonna <br />Byonna ebyewuunyisa <br />Byatondwa Katonda.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ensenyi n'ebibira,<br />-Ensuku n'ennimiro;<br />Biyiriro by'emigga <br />N'ebifo-ebirungi.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ebint(u) ebirungi (e)nnyo <br />Ebitonde byonna <br />Byonna ebyewuunyisa <br />Byatondwa Katonda.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tulaba,twewuunya nnyo <br />Ne tutendereza <br />Omuyinza wa byonna <br />Eyatonda bw'atyo.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ebint(u) ebirungi (e)nnyo <br />Ebitonde byonna <br />Byonna ebyewuunyisa <br />Byatondwa Katonda.</lines>
+    </verse>
+  </lyrics>
+</song>

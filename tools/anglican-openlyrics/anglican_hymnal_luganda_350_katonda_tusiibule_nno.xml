@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA TUSIIBULE NNO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="350" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA tusiibule nno:<br />Kkiriza-ettendo lyaffe<br />Sonyiwa bonna-abeenenya,<br />Abakweka ttalanta;<br />Tulemenga<br />Okunyiiza-Omwoyo wo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otubeere tulemenga <br />Okwesanyusa fekka;<br />Tukuza essanyu lyaffe <br />Mu kuwummula kwaffe:<br />Naawe beera <br />Ssanyu lingi gye tuli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Byonna bye tuyize wano,<br />Bituukirze mu ffe;<br />Naye byonna-ebitasaana,<br />Otwerabize mangu:<br />tunoonyenga <br />Amagezi-amalungi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ayi Kitaffe-obukuume <br />Abatalidda nate;<br />-Ebiro byabwe-eby'okusiga <br />Bireete-okukungula,<br />Abalidda <br />Bakolenga n'amaanyi.</lines>
+    </verse>
+  </lyrics>
+</song>

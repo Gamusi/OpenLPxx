@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUMUTENDE YE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="148" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUMUTENDE ye<br />Mmwe eb'omu bbanga<br />Ne bakkerubi<br />-Olw'obutonzi bwe.<br />Mmwe-eggulu musuute<br />Eyabatonda;<br />Mumuvuunamire<br />Mu bukulu bwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mumutende ye <br />Mmwe ab'oku nsi,<br />Mukube-ennanga <br />Mmwe abalonde be.<br />Mumutende-olwa byonna <br />Eby'ekisa kye;<br />Musuute-eyabawa <br />Okuyimbanga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mumutende ye <br />Mmwe ebivuga <br />-Eby'engeri zonna <br />-Ez'amaloboozi.<br />Mukube nnyo-ennanga <br />Lw'ekitiibwa kye,<br />Mmwe-ebitaasa mwenna<br />Mumuwe-ettendo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mumutende ye <br />Era mwebaze,<br />Mu biro byonna <br />Mumusuutenga;<br />Eyatwagala-ennyo <br />N'atununula <br />Atenderezebwe <br />-Emirenbe gyonna</lines>
+    </verse>
+  </lyrics>
+</song>

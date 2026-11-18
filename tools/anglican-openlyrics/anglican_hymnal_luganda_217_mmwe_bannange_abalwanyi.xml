@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MMWE BANNANGE ABALWANYI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="217" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MMWE bannange-abalwanyi,<br />Mujje mangu gye tuli,<br />Abalabe weebali,<br />So nga tetutya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ku by'ensi tetussaako <br />Myoyo gyaffe kaakano,<br />Yesu atuwanguza.<br />Atuwa-amaanyi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abalumba ba maanyi,<br />Batutaayiza bubi,<br />Tulina-Omulokozi,<br />Alijja mangu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kye twegomba kye kino<br />Okuleka-ebyonoono,<br />Yesu anaatuggyako,<br />Ebibi byaffe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kaakano kizikiza,<br />Mugume temwekanga;<br />Mu ggulu omusana <br />Gulirabika.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mwekalirize-amaaso,<br />Nga muddamu nnyo-amaanyi,<br />Okufa gwe mulyango,<br />Ogw'obulamu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Abalwanyi be mwenna,<br />Temujja kugobebwa:<br />Yesu abawanguza,<br />-Olw'omusaayi gwe.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ka tuyimuse-emyoyo,<br />Nga tuguma bulijjo,<br />Okutuusa ku biro <br />Yesu lw'alijja.</lines>
+    </verse>
+  </lyrics>
+</song>

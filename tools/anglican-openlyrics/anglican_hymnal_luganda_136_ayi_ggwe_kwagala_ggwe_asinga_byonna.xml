@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>AYI GGWE KWAGALA,GGWE ASINGA BYONNA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="136" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>AYI ggwe kwagala,ggwe asinga byonna<br />Tufukamidde okukusaba,<br />Abo b'ogasse okubeera-obumu<br />Babeerenga naawe ennaku zonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ayi ggwe bulamu,obabikkulire <br />Okwagala okw'ekisa-ekingi;<br />Okukkiriza okunywevu ddala,<br />N'okwesiga ng'okw'omwana-omuto.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Obasanyusenga bwe baba mu nnaku,<br />-Obawe-emirembe egitakoma;<br />Obawe-emikisa mu bulamu bwabwe,<br />Baagalanenga-emirembe gyonna</lines>
+    </verse>
+  </lyrics>
+</song>

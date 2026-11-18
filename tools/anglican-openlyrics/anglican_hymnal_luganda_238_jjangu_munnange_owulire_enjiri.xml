@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>JJANGU MUNNANGE OWULIRE-ENJIRI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="238" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JJANGU munnange owulire-enjiri<br />Y'okwagala kwa Yesu,<br />Bwe yaleka ennyumba y'ekitiibwa<br />N'ebintu byonna eby'essanyu,<br />Yesu yafa,Yesu yatufiirira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ffe fenna tulina ebibi,<br />Katonda atunuulira,<br />Ebyonoono byaffe abimanyi byonna,<br />Ye wa kisa yatutumira Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ababi abaamukyawa Yesu,<br />Baamuwanika ku muti,<br />Naye okufa kwe kutuwa eddembe,<br />Okuva mu musango-omubi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kale omulenzi,ne mwannyina,<br />Mukkirize kaakano Yesu;<br />Tewali bulokozi mu mulala,<br />Mu nsi zonna oba mu ggulu</lines>
+    </verse>
+  </lyrics>
+</song>

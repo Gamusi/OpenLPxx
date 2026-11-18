@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NEEGOMBA NNYO-OKUWULIRA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="169" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NEEGOMBA nnyo-okuwulira<br />Ku linnya lya Yesu;<br />Tewali na limu ku nsi<br />Eririfaanana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lintegeeza-Omulokozi <br />Bwe yafa ku lwange,<br />Era-okufa kwe-okw'ensonyi <br />Kwanfuula-ow'eddembe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erinnya-eryo linsanyusa <br />Mu biro-eby'ennaku;<br />Era bwe mba nga nkooye nnyo <br />Linzizaamu-amaanyi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka nnyimbenga nnyo n'essanyu:<br />Awamu n'essubi;<br />Kubanga Yesu yamgamba,<br />Nti nkomawo mangu.</lines>
+    </verse>
+  </lyrics>
+</song>

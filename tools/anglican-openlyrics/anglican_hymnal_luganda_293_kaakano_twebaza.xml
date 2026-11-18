@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KAAKANO TWEBAZA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="293" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KAAKANO twebaza,<br />Katonda-ow'emirembe<br />Eyatukolera<br />Ebitusanyusa ffe;<br />Okuva mu buto<br />Yatuwa omukisa;<br />Era-ebirabo bye<br />Tebitegeezeka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Katonda ow'ekisa <br />Weemale-emyoyo gyaffe;<br />Tuwe-emirembe gyo <br />Beeranga kumpi naffe,<br />Otulung'amyenga<br />Mu kkubo ly'obulamu;<br />Ffe naawe mu ggulu.<br />tusanyuke fenna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tweyongere fenna <br />Okwebaza Katonda,<br />Kitaffe,n'Omwana,<br />N'-Omwoyo Omutukuvu,<br />Abeererawo-wekka,<br />Tukuvuunamira,<br />Ggwe asinzibwa bonna <br />Mu nsi ne mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

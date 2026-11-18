@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU OMULINDWA, JJANGU!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="31" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU omulindwa, jjangu!<br />Ffe tukulindirira;<br />Ebibi byonna-otuggyeko<br />Otuwummuze mangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe ssuubi ly'abantu bonna,<br />Ggwe ssanyu ly'aboonoonyi.<br />Amawanga gonna gonna,<br />Gakwetaaga Katonda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baakutuuma-erinnya Yesu<br />Eyanunula-abantu,<br />Wazaalibwa nga Kabaka<br />Era ng'omwana omuto.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Olw'omwoyo wa Katonda <br />Otufugire ddala; <br />Beera mu ffe-otuwe-amaanyi <br />Otutuuse mu ggulu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NSANYUKIRA OLUYIMBA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="54" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NSANYUKIRA-oluyimba<br />Lwa bamalayika<br />Lwe baayimba okulanga<br />Okujja kwa Yesu.<br />Nze sirina bulungi,<br />Nnina-ebibi bingi;<br />Naye yakka ku lwange<br />Yesu Mulokozi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mmanyi Mukama waffe <br />Yafuuka omuto,<br />-Okulaga empisa ennungi <br />Ffe tuzikwatenga <br />Era bwe naafubanga <br />Okumufaanana <br />Ye tanneerabirenga,<br />Kubanga-anjagala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siyinza kumulaba <br />Kaakano n'amaaso <br />Naye ennyimba zange <br />Anaaziwwulira.<br />Bwe naamugonderanga,<br />Alintuusa-ewuwe <br />Ne mutenderezanga <br />Nga bwe kisaanidde.</lines>
+    </verse>
+  </lyrics>
+</song>

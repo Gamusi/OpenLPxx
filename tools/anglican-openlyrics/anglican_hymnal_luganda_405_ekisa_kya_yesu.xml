@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKISA KYA YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="405" />
+    </songbooks>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ekisa kya Yesu,n'okwagala kwe, mbyewuunya. kyokka Ekisa kya Yesu,nokwagala kwe mbyewuunya<br />Ye sutya va e yo mu ggulu gye ya linga kubwa liri. n,azaalwa mu bwavubu tyo ne mu kya o e kinyoomebwa;<br />Olwomukwano kyokka<br />Yali wamukwa- nomubuli bantu Yesuoyo naddala muaboaba bia basinga Yesuoyo Nawo nya endwaddeeziwerako N'a zuuki zako ne kubafu dde<br />Gwamanyi negwata manyi Ngaabasasira</lines>
+    </verse>
+  </lyrics>
+</song>

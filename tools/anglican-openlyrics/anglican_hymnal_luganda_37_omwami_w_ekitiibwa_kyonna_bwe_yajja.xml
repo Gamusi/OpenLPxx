@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMWAMI W'EKITIIBWA KYONNA BWE YAJJA KU NSI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="37" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMWAMI w'ekitiibwa kyonna bwe yajja ku nsi,<br />Abakopi n'abagenyi baamweyuna mangu,<br />Bwe baalaba nga basinza ne bamalayika</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baayimba:Ssanyu,ssanyu, ssanyu nnyo, <br />Tumutende,Omwami waff(e) era Omwami wammwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kale tumutende tumusinze wa kitiibwa,<br />Azze leero tumulabye Mwami waffe ddala,<br />Amaloboozi gaffe n&amp;quot;aga bamalayika</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baayimba:Ssanyu,ssanyu, ssanyu nnyo, <br />Tumutende,Omwami waff(e) era Omwami wammwe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abatonde bonna wonna baana ba Katonda,<br />Mutegeere-obulokozi bwaffe bwe tutenda, <br />Mutunuulire mwenna, tumusembeze fenna,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Baayimba:Ssanyu,ssanyu, ssanyu nnyo, <br />Tumutende,Omwami waff(e) era Omwami wammwe.</lines>
+    </verse>
+  </lyrics>
+</song>

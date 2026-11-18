@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUSUMBA WANGE MUKAMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="171" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-OMUSUMBA wange Mukama,<br />-Obulungi bwe tebuggwawo-<br />Seetaagenga nga ndi wuwe,<br />Naye nga wange bulijjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Antwala ye ku mabbali <br />Ag'amazzi-amateefu;<br />Mu ddundiro eddungi-ennyo <br />Eyo gy'anaadiisizaanga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Edda nali nga mpabye nnyo,<br />N'annoonya lwa kisa kye,<br />N'anteeka mu mikono gye,<br />N'antwala-ewuwe n'essanyu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mu kiwonvu eky'okufa <br />Siritya-akabi konna;<br />Omuggo gwe n'oluga lwe,<br />Ebyo bye birinsanyusa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ansembeza ku mmeeza ye,<br />Ne nnywa ku kikompe kye;<br />Era-ansiga-amafuta ge,<br />N'ampa-emikisa gye gyonna.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwe butyo obulungi bwo,<br />Mukama tebuliggwaawo;<br />Nnakwebazanga bulijjo,<br />Ggwe oli-omusumba</lines>
+    </verse>
+  </lyrics>
+</song>

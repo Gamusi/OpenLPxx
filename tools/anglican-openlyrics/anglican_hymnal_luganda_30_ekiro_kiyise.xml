@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKIRO KIYISE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="30" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKIRO kiyise,<br />Obudde bukedde;<br />Kale twambule-ebikolwa<br />Eby'ekizikiza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twambale-amazima,<br />Ng'eby'okulwanyisa;<br />Tutambule nga tuwoomye,<br />Nga tujjudde-essanyu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ebyonoono byonna<br />N'ebinyumu by'ensi <br />N'embaga-ez'okutamiira,<br />Byonna tubyambule.</lines>
+    </verse>
+  </lyrics>
+</song>

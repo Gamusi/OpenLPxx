@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>GY'OLI YESU TUWAAYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="9" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GY'OLI Yesu tuwaayo<br />Olunaku lwo luno;<br />Ggwe wekka obimanyi nnyo;<br />Tuleme-okulwonoona,<br />Otuwe-emikisa gyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwe lunaaleeta-essanyu,<br />Mubeezi waffe jjangu,<br />Tuleme-okutegebwa<br />Mu nkwe z'omulyolyomi;<br />Tuli mu lukoola ffe,<br />Omulabe-omugobe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twagala kino kyokka<br />Okusiimibwa Yesu,<br />Bw'anaaba akomyewo<br />Okutuyita leero,<br />Atusange ffe fenna<br />Nga tumulindirira.</lines>
+    </verse>
+  </lyrics>
+</song>

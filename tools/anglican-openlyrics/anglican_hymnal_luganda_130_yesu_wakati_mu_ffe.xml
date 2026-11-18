@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU WAKATI MU FFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="130" />
+    </songbooks>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU wakati mu ffe<br />Yimirira leero;<br />Ku lw'Okuzuukira kwo<br />-Otuwe ku maanyi go;<br />Era tutambulenga<br />Mu kkubo lyo n'essanyu<br />N'obwesigwa bwonna</lines>
+    </verse>
+  </lyrics>
+</song>

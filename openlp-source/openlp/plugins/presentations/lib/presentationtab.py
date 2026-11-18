@@ -19,7 +19,7 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>. #
 ##########################################################################
 
-from PyQt5 import QtWidgets
+from PyQt5 import QtCore, QtWidgets
 
 from openlp.core.common.i18n import UiStrings, translate
 from openlp.core.lib.settingstab import SettingsTab
@@ -132,9 +132,13 @@ class PresentationTab(SettingsTab):
             controller = self.controllers[key]
             checkbox = self.presenter_check_boxes[controller.name]
             checkbox.setChecked(self.settings.value('presentations/' + controller.name))
-            if controller.name == 'Powerpoint' and controller.is_available():
+            if (controller.name == 'Powerpoint'
+                    and self.settings.value('presentations/' + controller.name) == QtCore.Qt.Checked
+                    and controller.is_available()):
                 powerpoint_available = True
-            if controller.name == 'Impress' and controller.is_available():
+            if (controller.name == 'Impress'
+                    and self.settings.value('presentations/' + controller.name) == QtCore.Qt.Checked
+                    and controller.is_available()):
                 impress_available = True
         self.override_app_check_box.setChecked(self.settings.value('presentations/override app'))
         # Load PowerPoint settings

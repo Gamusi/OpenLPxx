@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BULI MUNTU YENNA AWULIRE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="210" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BULI muntu yenna awulire<br />Ebigambo by'Omulokozi w'ensi,<br />Bunya wonna wonna nti Akkiriza<br />Alirokoka mu ye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mujje nno gye ndi abakooy(e) ennyo <br />Mulyoke muwummulenga n'essanyu.<br />Buli muntu ajja naamwaniriza,<br />Siimugobere bweru.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Buli muntu yenna asembere <br />Oluggi lw'omu ggulu lugguddwaawo,<br />Yesu ge mazima,lye kkubo lyaffe;<br />Ekibalwisa kiki?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mujje nno gye ndi abakooy(e) ennyo <br />Mulyoke muwummulenga n'essanyu.<br />Buli muntu ajja naamwaniriza,<br />Siimugobere bweru.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Buli muntu yenna amwagala<br />Kye kigambo kya Katonda-atalimba;<br />Kale bannange,tubunye-ettendo lye,<br />Atugabidde buwa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mujje nno gye ndi abakooy(e) ennyo <br />Mulyoke muwummulenga n'essanyu.<br />Buli muntu ajja naamwaniriza,<br />Siimugobere bweru.</lines>
+    </verse>
+  </lyrics>
+</song>

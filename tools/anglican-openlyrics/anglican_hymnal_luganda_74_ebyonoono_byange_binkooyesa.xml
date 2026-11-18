@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EBYONOONO BYANGE BINKOOYESA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="74" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EBYONOONO byange binkooyesa<br />Neegomba nnyo-okutuuka mu ggulu;<br />Teri kibi kyonna-ekiyingira<br />Naye-eddoboozi limpitaJjangu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nze muddu w'ekibi okuva-edda,<br />Naasuubira ntya-okuyimirira <br />Mu maaso ga Mukama w'emyoyo?<br />Naye akkiriza-okunsembeza.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe njagala-okukola-obulungi,<br />Ekibi kimba kumpi bulijjo;<br />Naye nze mpulira bw'oyegera <br />Weenenye,kkiriza-,onoolokoka</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mpulira eddoboozi lyo,Yesu,<br />Emikono gyo gye ginsembeza,<br />Era-omusaayi gwo guntangira;<br />Ogwayiika-edda ku musaalaba</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mulokozi w'abalina-ebibi,<br />Onnyambaze obutuukirivu,<br />Ndyoke ndabikire mu ggwe wekka,<br />Eyanzigyako-empeera-ey'ekibi</lines>
+    </verse>
+  </lyrics>
+</song>

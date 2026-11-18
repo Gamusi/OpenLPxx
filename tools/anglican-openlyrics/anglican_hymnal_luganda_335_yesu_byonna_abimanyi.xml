@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU BYONNA ABIMANYI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="335" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU byonna abimanyi,<br />Kinsanyusa;<br />Antwala yekka mu kkubo,<br />Seetaaga mukulembezi,<br />Wabula ye,wabula ye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ebiribaawo sibitya,<br />Ng'antwala nze;<br />Yesu yekka-ankulembera <br />Nange ka mugoberere,<br />Kinsaanidde,kinsaanidde.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siyinza kwerabirira <br />Ndi munafu;<br />Ankutte-omukono gwange <br />Antambuza mu bulabe,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nnina-ekiddukiro gy'ali,<br />Kya maanyi nnyo;<br />Ekitalumbika babi <br />Ekirimu bye neetaaga,<br />Ne mpummula,ne mpummula.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kyenvudde musanyukira <br />Bw'ambeera nze,<br />Ebitayinzika gye ndi <br />By'asoboola,by'amala ye,<br />Gwe njagala,gwe njagala.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BWE BUKEDDE-OLWA LEERO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="3" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NGA bwe bukedde-olwa leero,<br />Bwe tuyimusa bwe tutyo;<br />-Emitima gyaffe,tusaba,<br />Otukuume olwa leero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuyambe-obutayogera,<br />Bya kuyombagana byonna;<br />Kuuma,wunjula-amaaso go;<br />Okulaba-ebitasaana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kka,emyoyo gyaffe gibe,<br />Mirongoofu nnyo mu byonna;<br />-Emibiri gyaffe-eminafu,<br />Biweebwe-emmere y'obulamu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bye tukoze byonna leero,<br />Bitendereze Katonda,<br />-Ekiro ne bwe kinaatuuka<br />Tetuutye entiisa yonna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Otenderezebwenga nnyo;<br />Ggwe Kitaffe-era n'Omwana,<br />Naawe Omwoyo-Omutukuvu;<br />Ggwe-afuga-emirembe gyonna.</lines>
+    </verse>
+  </lyrics>
+</song>

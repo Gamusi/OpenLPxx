@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KU LUNAKU LUNO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="49" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KU lunaku luno,<br />Yesu ow'okwagala,<br />Leero yazaalibwa<br />Eno ye Ssekukkulu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leka tumusinze,<br />Omulokozi waffe <br />Mumuwe-ekitiibwa <br />Nga mujaguza leero.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu ye kwagala,<br />Ye atwagala fenna;<br />Naffe tumwagale,<br />Kubanga ye yasooka.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WALIWO-ENSI ESINGA-ENO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="229" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WALIWO-ensi esinga-eno,<br />Nga nnungi! nga nnungi!<br />Tetuukayo kibi kyonna,<br />Ensi-eyo,nga nnungi!<br />Tulikuba ennanga-empya,<br />Wamu ne bamalayika,<br />Ennanga zaabwe za zaabu:<br />Ensi-eyo,nga nnungi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mbu teri bire ku ggulu,<br />Ensi-eyo,nga nnungi!<br />Teri nnaku na kukaba,<br />Ensi-eyo,nga nnungi!<br />Banywa mu luzzi-olw'ekisa<br />Ne balaba-Omulokozi<br />Amaaso ge gwe musana;<br />Ensi eyo,nga nnungi!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Newankubadde nga fenna<br />Tujjudde ekibi,<br />Naye Yesu yakkiriza <br />Okufa,ku lwaffe!<br />Tulitukuzibwa fenna<br />Olw'omusaayi gwa Yesu,<br />Tulifuga wamu naye,<br />Mu nsi-eyo ennungi.</lines>
+    </verse>
+  </lyrics>
+</song>

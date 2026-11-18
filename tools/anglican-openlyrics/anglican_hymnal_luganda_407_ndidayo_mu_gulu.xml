@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NDIDAYO MU GULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="407" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ndiddayo mu ggulu(era)<br />Ne nfuna essanyu (kuba)<br />Omulimu gwange ku nsi guliba guweddeyo<br />Ndiddayo mu ggulu:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obulamu bwange ku nsi nange bwe nditwalibwa,<br />Omusana n'ekiro nga bikomye:<br />Ke kiseera ak'omuwendo n'omukisa gwa Yesu <br />Ndiddayo ewaffe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ndiddayo mu ggulu(era) <br />Ne nfuna essanyu (kuba)<br />Omulimu gwange ku nsi guliba guweddeyo<br />Ndiddayo mu ggulu:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Olugendo lwange mu nsi mwe mpita mbonobona<br />Mu ggulu ndibeera mu kiwummulo<br />Bwe ndibeera mu Yesu mu kibug'ekitukuvu,<br />Ndiyimba ewaffe<br />Ndiddayo mu ggulu(era) <br />Ne nfuna essanyu (kuba)<br />Omulimu gwange ku nsi guliba guweddeyo<br />Ndiddayo mu ggulu:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu kiwonvu ky'okufa siriba na kukankana<br />Yesu bw'aliba nga ankulembedde;<br />Ekisuubizo Yesu kye yampa bwe tutandeka <br />Ndituuka ewaffe</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ndiddayo mu ggulu(era) <br />Ne nfuna essanyu (kuba)<br />Omulimu gwange ku nsi guliba guweddeyo<br />Ndiddayo mu ggulu:</lines>
+    </verse>
+  </lyrics>
+</song>

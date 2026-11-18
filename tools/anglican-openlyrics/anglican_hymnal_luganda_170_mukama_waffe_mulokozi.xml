@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUKAMA WAFFE MULOKOZI!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="170" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUKAMA waffe Mulokozi!<br />Ggwe owummuza bonna-abakooye<br />Ggwe osanyusa-abalina-ennaku<br />Ggwe-asaasira-abali mu kabi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-osaasira anatera okufa <br />Yesu wekka, ggwe kkubo lyaffe,<br />Empeera yaffe eva gyoli,<br />Mukama waffe Mulokozi!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe nnaabanga njagala-okugwa <br />Nnaakuyitanga-ombeere Yesu,<br />Ne bwe ndikyama tolindeka;<br />Mukama waffe Mulokozi!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nkwatudde Yesu -Omulokozi,<br />Siirekenga kukweyanza nnyo;<br />Ggwe-osaatiidde ettendo lyonna <br />Mukama waffe Mulokozi!</lines>
+    </verse>
+  </lyrics>
+</song>

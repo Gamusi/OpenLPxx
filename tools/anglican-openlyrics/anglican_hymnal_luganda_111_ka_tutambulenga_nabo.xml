@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KA tutambulenga nabo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="111" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abanoonya erinnya lyo,<br />Era n'abatukuvu bo<br />Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Laba-eggye ly'abatukuvu <br /> Wamu n'abo tusanyuke;<br /> Era bwe mba nga nzirise <br /> Linzizaamu nnyo amaanyi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tetubalaba kaakano <br /> Baamala okuwunguka;<br /> Naffe tuli mu lugendo <br /> Tulibeera wamu nabo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fenna awamu tuli mu ggwe,<br /> Tetubalaba n'amaaso,<br /> Naye olw'okukkiriza <br /> Tuli mu kisibo kimu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu maaso go ffe awamu,<br /> Bulijjo tutendereza;<br /> Mu mwoyo tulabagana,<br /> Ne twebaza ekisa kyo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eggye lyonna-ery'omu ggulu <br /> Abo be ndibeera nabo;<br /> Era naawe Omwagalwa,<br /> Ani alitwawukanya?</lines>
+    </verse>
+  </lyrics>
+</song>

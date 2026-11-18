@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKISEERA KYE KITUUSE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="56" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKISEERA kye kituuse<br />-Ab'omu ggulu weebali;<br />Bonna batendereza nnyo<br />Nga bayimba bwe bati:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ekitiibwa kibe eri Katonda</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abasumba bwe baalaba <br />Bamalayika bali <br />Nga bayimba oluyimba <br />-Olwali -olw'okujaguza:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ekitiibwa kibe eri Katonda</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu kiraalo bwe baagenda<br />Baamulaba omuto; <br />Bakkiriza nga ye Kristo,<br />Baamufukaamirira: <br />Ekitiibwa kibe eri Katonda</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Naffe olw'okwagala kwe <br />Leero ka tuyimbe nnyo,<br />Tumutendereze -Omwana <br />Eyazaalibwa mu nsi: <br />Ekitiibwa kibe eri Katonda</lines>
+    </verse>
+  </lyrics>
+</song>

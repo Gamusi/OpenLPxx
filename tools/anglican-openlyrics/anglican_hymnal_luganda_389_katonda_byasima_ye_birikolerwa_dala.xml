@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA BYASIMA YE BIRIKOLERWA DALA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="389" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Katonda byasima birikolerwa dala,<br />Nebyo byateseza byoka,biritukirizibwa,<br />Ate bulijo lusembera olunaku-olukulu-enyo,<br />Etendolye bwerinabunanga munsi,ngamayengo-agomu nyanja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Okuva-obukikanobukika abantu webabunye Mu-<br />mimwa gyaba tume be basindise,ekigambokye kyogedwa,<br />Nti mumpulirenga mwena-abatula kubizinga ne munsi zona,<br />Etendolye bwerinabunanga munsi,ngamayengo-agomu nyanja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fe-abanabe tunakola ki okukomekereza<br />Emirimu egyobutukirivu,gyeyatandika-Omwami?<br />Fe tunayanguirizatutya olunaku-olukulu-enyo?<br />Etendolye bwerinabunanga munsi,ngamayengo-agomu nyanja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tuimuse-ebenderaye mumasogamawanga,<br />Fe-abomu gyerye tutambulenga mu buinzabwa mazima.<br />Twe yongerenga-okuwangula obwononefu obwensi,<br />Etendolye bwerinabunanga munsi,ngamayengo-agomu nyanja.</lines>
+    </verse>
+  </lyrics>
+</song>

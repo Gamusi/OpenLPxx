@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU AZUUKIDDE OLWA LEERO, ALERUUYA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="83" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU-azuukidde olwa leero,Aleruuya<br />Leero naffe ka tuyimbe, Aleruuya<br />Yatufiirira edda, Aleruuya<br />Yatulokola mu kufa, Aleruuya</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu tumutendereza,Aleruuya <br />Ye kabaka-ow'omu ggulu,Aleruuya <br />Yattibwa,N'aziikibwa, Aleruuya <br />Okununula ffe abantu,Aleruuya</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obulumi bwa Mukama,Aleruuya <br />Bwatuleetera-obulamu,Aleruuya <br />Leero gy'ali mu ggulu, Aleruuya <br />Gye bayimbira n'essanyu,Aleruuya</lines>
+    </verse>
+  </lyrics>
+</song>

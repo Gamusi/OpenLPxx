@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUJJE, NGA MWETEREEREKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="134" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJJE,nga mwetereereka<br />Mwenna-eriKatonda,<br />Okwagala kwe kujjuze<br />-Emyoyo gyammwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wulira:ggwe-alindirira <br />-Omugole wo leero,<br />Mu kwagalana-okutaggwaawo <br />Mugattibwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naawe akkiriza wano <br />Okumufumbirwa,<br />Laba Kitaffe awulira <br />-Obweyamo bwo!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nammwe ababeetoolodde <br />Okubaasabira,<br />Katonda waffe-akakasa <br />-Ebirayiro.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mujje nga mwetereereka;<br />Mukama waffe-ajja,<br />Okubasembeza gy'ali,<br />-Abagole be</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwe mutyo mwetereereke <br />Agabire bonna <br />Omwaoyo-Omutukuvu<br />Abasaba.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUJAGUZE NNO!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="164" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJAGUZE nno!<br />Mmwe-abantu mwenna<br />Yesu Mulokozi ye yajja gye tuli</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mumutende, mumutende oyo eyattibwa <br />Mumutende,mumutende,eyazuukira.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mujaguze nno!<br />Omusana gwaka,<br />Ebiro byayita eby'obutamanya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mumutende, mumutende oyo eyattibwa <br />Mumutende,mumutende,eyazuukira.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mujaguze nno! <br />Omusaayi-gwayika,<br />Ogwa Yesu Mukama-ogunaaza-ebibi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mumutende, mumutende oyo eyattibwa <br />Mumutende,mumutende,eyazuukira.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mujaguze nno!<br />Atusonyiwa-era,<br />Omutuukirivu yatufiirira ffe.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mumutende, mumutende oyo eyattibwa <br />Mumutende,mumutende,eyazuukira.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mujaguze nno! <br />Okufa kufudde,<br />Yesu ye yakuwangulua n'azuukira.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mumutende, mumutende oyo eyattibwa <br />Mumutende,mumutende,eyazuukira.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mujaguze nno!<br />Yesu atufuga,<br />Atufuga fenna-era-atuwolereza.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Mumutende, mumutende oyo eyattibwa <br />Mumutende,mumutende,eyazuukira.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Mujaguze nno!<br />Ajja kudda nate,<br />Ajja kudda nate n'ekitiibwa Yesu.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Mumutende, mumutende oyo eyattibwa <br />Mumutende,mumutende,eyazuukira.</lines>
+    </verse>
+  </lyrics>
+</song>

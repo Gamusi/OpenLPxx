@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MMWE-ENSOZI-EMPANVU-ENNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="213" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MMWE-ensozi-empanvu-ennyo,<br />Mujaguze mwenna!<br />-Ensenyi n'ebiwonvu,<br />Mumutendereze.<br />Muwulire-eddoboozi lye<br />Libuulira-eby'okujja kwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kale mmwe-ebizinga <br />Ebiri mu nnyanja;<br />Empewo-ennyingi-ennyo <br />Zikuntira ku mmwe;<br />Zirongoosa ekkubo lye <br />Kabaka ow'ekitiibwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mmwe-amawanga mwenna,<br />Muzuukuke mangu;<br />-Abantu bammwe bonna <br />Beefunire-eddembe <br />Ery'Omwana wa Katonda <br />Ly'abaleetera kaakano.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amawanga gonna <br />Agali-ewala ennyo,<br />Agatamanyanga <br />Mulokozi w'ensi;<br />Kale,mwenna mujje gy'ali,<br />Oyo eyakomererwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mwenna muyimbe nnyo,<br />Nga mugenda gy'ali;<br />Mwenna mukumgaane <br />-Okuva mu nsi zonna;<br />Tuyingire mu kibuga,<br />Ekyaffe,-eky'olubeerera.</lines>
+    </verse>
+  </lyrics>
+</song>

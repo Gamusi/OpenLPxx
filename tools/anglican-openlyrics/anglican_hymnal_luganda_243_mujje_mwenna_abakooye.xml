@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUJJE MWENNA-ABAKOOYE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="243" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJJE mwenna-abakooye<br />Nze naabawummuza:<br />-Eddoboozi nga lya kisa<br />Ery'Omulokozi:<br />Litutegeeza bw'ali<br />Ow'ekisa kyonna,<br />Bw'ayagala-okuwonya<br />Emyoyo gy'abantu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mujje mwenna-abakyamye<br />Nze naabamulisa:<br />-Eddoboozi nga lya ssanyu <br />Mu nzikiza-ekutte.<br />Mu nsiko ey'omu nsi<br />Twali tuwabye nnyo,<br />Mu kkubo lye yatuzza,<br />Ffe ne tusanyuka</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mujje mwenna-abafudde <br />Naabawa obulamu-:<br />-Eddoboozi lye lya manyi,<br />Lituzzaamu-omwoyo.<br />Entalo zaffe nzibu;<br />-Omulabe mukambwe;<br />Amaanyi g'okulwana<br />Gava eri Yesu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Era-anajjanga gye ndi<br />Nze siimugobenga:<br />-Eddoboozi lya Mukama <br />Lye litugumya-ennyo:<br />Ekisa-ekyenkanaawo<br />Tewali-asaanidde,<br />Ye ye-atusembezezza<br />Kale tumwebaze</lines>
+    </verse>
+  </lyrics>
+</song>

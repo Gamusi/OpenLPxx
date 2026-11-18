@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUYAGA GWALI GUWUUMA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="269" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMUYAGA gwali guwuuma,<br />-Abatume ne bakankana;<br />Naye wali nga weebase,<br />Ng'okooye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baakuyita,-Otusaasire,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tolaba nga tufa bufi?<br />-Ekigambo kyo kyawulirwa:<br />Muteeke.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Empewo ne zisirika,<br />Ennyanja n'ebeera nteefu,<br />-Omuyaga nga guwulidde <br />-Eddoboozi lyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwe tutyo ffe tukwatibwa <br />Entiisa nnyingi bulijjo;<br />Ennaku bwe zitujjira <br />Nga-omuyaga.</lines>
+    </verse>
+  </lyrics>
+</song>

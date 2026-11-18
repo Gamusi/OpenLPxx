@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUKULU W'EKKANISA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="189" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-OMUKULU w'ekkanisa<br />Ffe tukutendereza;<br />Nga tonnaba kulabika,<br />Tukulindirire ggwe.<br />Tuyimuse-eddoboozi<br />Ery'okwebaza kwaffe,<br />Tujaguza nga twewaayo<br />Gyoli Katonda waffe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nga tukyalumwa-ennaku,<br />Omuliro bwe gwaka;<br />Tusanyukira-okwagala <br />Yesu kwe watulaga.<br />Edda twali basibe <br />Mu kkomera-ery'amaanyi<br />Watujjira,n'enjegere <br />Zaakutuka mangwago.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abantu bo bayita <br />Mu migga si mitnde,<br />Egy'okukemebwa, naye <br />Tebatya ng'obatwala;<br />Amaanyi ga Ssetaani,<br />N'ag'ekibi,n'ag'ensi,<br />Galemeddwa,tuwangula,<br />Ku bwa Mukama waffe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>tunyooma-eby'ensi byonna,<br />Tunoonya-eby'onu ggulu,<br />Engule etawotoka,<br />Etutegekeddwa-eri.<br />Mu nsi tulaba-ennaku,<br />Naye gyoli mu ggulu,<br />Essanyu lituukirira <br />Mirembe n'emirembe.</lines>
+    </verse>
+  </lyrics>
+</song>

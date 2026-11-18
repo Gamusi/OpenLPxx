@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OLWA LEERO MBAGA:OLUNAKU LUNO LUKULU!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="106" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OLWA leero mbaga: Olunaku luno lukulu!<br />Bwe tulwaniriza,ka tulukwatenga.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leero-Omutonzi w'eggulu,olunaku n'ennyanja byonna,<br />Yatandika-omulimu gwe,olw'amagezi ge.<br />Olwa leero mbaga: Olunaku luno lukulu! <br />Bwe tulwaniriza,ka tulukwatenga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leero Mukama yazikiriza okufa mu kufa kwe,<br />Bw'atyo n'alyoka atuwa-essanyu n'essuubi lingi.<br />Olwa leero mbaga: Olunaku luno lukulu! <br />Bwe tulwaniriza,ka tulukwatenga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leero Katonda yajjuza-abatume amaanyi g'Omwoyo<br />Okuyigirizanga era n'okulunggamyanga.<br />Olwa leero mbaga: Olunaku luno lukulu! <br />Bwe tulwaniriza,ka tulukwatenga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Leero mwenna abakkiriza mu nsi yonna mumutende <br />Omununuzi wammwe namaloboozi gonna.<br />Olwa leero mbaga: Olunaku luno lukulu! <br />Bwe tulwaniriza,ka tulukwatenga.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Leero abali ewala mu nzikiza balitegeera <br />Ekitiibwa kye-ekingi n'obutuukirivu bwe.<br />Olwa leero mbaga: Olunaku luno lukulu! <br />Bwe tulwaniriza,ka tulukwatenga.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tukusaba, bulijjo-obeerenga mu myoyo gy'abantu bo,<br />Ggwe Mulokozi Yesu,era Mukama waffe.<br />Olwa leero mbaga: Olunaku luno lukulu! <br />Bwe tulwaniriza,ka tulukwatenga.</lines>
+    </verse>
+  </lyrics>
+</song>

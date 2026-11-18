@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OBUDDE BUZIBYE;YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="382" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OBUDDE buzibye;Yesu<br />Njijja ne mu maaso go,<br />Mu kizikiza n'ekisa,<br />Kuuma nze omuddu wo,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwana gw'endiga,gw'osinga<br />Okubeera omulungi;<br />Ggwe wansasiira;nnali nga<br />Naatera kufa bufi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twatula n'ebibi bingi;<br />Bitukwasa n'ensonyi;<br />Naye n'ekisa kyo kingi<br />Tetutya kujja gy'oli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mwana gw'endiga,gw'osinga<br />Okubeera omulungi;<br />Ggwe wansasiira;nnali nga<br />Naatera kufa bufi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Buli kye tukoze olabye,<br />Buli kye tukwonoonye;<br />Bwe tukyalaba,tusaba,<br />Yesu,otusonyiwe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mwana gw'endiga,gw'osinga<br />Okubeera omulungi;<br />Ggwe wansasiira;nnali nga<br />Naatera kufa bufi.</lines>
+    </verse>
+  </lyrics>
+</song>

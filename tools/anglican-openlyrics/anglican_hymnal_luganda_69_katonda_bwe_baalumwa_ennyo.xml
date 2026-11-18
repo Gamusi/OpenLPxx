@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KATONDA, BWE BAALUMWA-ENNYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="69" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KATONDA, bwe baalumwa-ennyo<br />Ennyonta-Abayisirsyiri<br />Walagira Musa bw'oti:<br />-Okukuba-olwazi n'omuggo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu lwazi olwakubibwa <br />Ne muvaamu-amazzi mangi;<br />Abaali balina-ennyonta,<br />Baaganywa ne basanyuka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe tuluba-olwazi olwo,<br />Tulaba Yesu mu ngero;<br />Gwe baakuba-edda ku lwaffe,<br />Ne muva omusaayi gwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwe tubeera mu nsi muno,<br />Tulumwa-ennyonta mu mwoyo;<br />Kale tegatugwanidde <br />Ffe amazzi g'obulamu?</lines>
+    </verse>
+  </lyrics>
+</song>

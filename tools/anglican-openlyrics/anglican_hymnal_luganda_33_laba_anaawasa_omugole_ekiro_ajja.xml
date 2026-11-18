@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LABA, ANAAWASA OMUGOLE EKIRO AJJA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="33" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LABA,anaawasa-omugole ekiro ajja;<br />-Abatukuvu, mufulume-okumusisinkana;<br />Mmwe mwesibenga nnyo-ebiwato byammwe n'ebimyu,<br />Era-ettabaaza zammwe zaakirenga ddala nnyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mmwe-abagayaavu n'babi,ziribasanga mmwe;<br />Mwebase,temweteeseteese,mmwe mwerabidde;<br />Abo bokka-abeeteeseteese,ne bayingira <br />Mu mbaga ye; mmwe -temuliyinza kuyingira</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Olunaku luno-olw'omusango weeruli; naye <br />Omwoyo gwange, tunula, toleka mulimu;<br />Okuume nnyo-ettabaaza, bw'atyo Omulokozi<br />N'ebyambalo-ebitukuvu, ye alikwambaza.</lines>
+    </verse>
+  </lyrics>
+</song>

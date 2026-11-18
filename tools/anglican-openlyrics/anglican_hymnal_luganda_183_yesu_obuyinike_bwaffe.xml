@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,-OBUYINIKE BWAFFE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="183" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,-obuyinike bwaffe<br />Wabwetikka wekka,<br />N'ositula-ennaku zaffe,<br />Ezitukooyesa.<br />Ffe-abatasaanidde n'akamu-<br />Bye watukolera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Okufa n'ekikolimo <br />Ebyanditusse ffe,<br />Wawangula-amaayi gaabyo,<br />N'obibetenta-era,<br />Kaakano tuli ba ddembe,<br />Abandisibiddwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Embuyaga n'empewo-ennyingi <br />Byakuntira ku ggwe,<br />Katonda ye yakuba ggwe,<br />Alyoke-ansaasire.<br />Kaakano tweggama mu ggwe,<br />Ng'otusiikiriza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fenna twawaba ng'endiga <br />Ezisaasaanye-ennyo,<br />Katonda n'akuteekako <br />Omusango gwaffe.<br />Wawaayo obulamu bwo <br />Olw'ebibi byaffe.</lines>
+    </verse>
+  </lyrics>
+</song>

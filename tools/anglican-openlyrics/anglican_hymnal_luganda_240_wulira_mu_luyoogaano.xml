@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WULIRA MU LUYOOGAANO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="240" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WULIRA mu luyoogaano<br />Eddoboozi lya Yesu,<br />Bw'akuyita omunaku<br />Okumugoberera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nga basuula obutimba <br />Mu nnyanja-abatume be,<br />Yabayita ng'abagamba<br />Bw'ati:Muyite nange.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bo ne balekawo mangu <br />Obutimba,ne bajja,<br />Bwe baawulira-eddoboozi<br />Erya Yesu ntiMujje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bw'atyo Yesu bw'atuyita <br />Okuleka-ebyonoono,<br />Era n'okutambulanga <br />Mu makubo g'obulamu-.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu ssanyu era mu nnaku,<br />Mu ndwadde ne mu bulamu-;<br />Tukyawulira-eddoboozi<br />Ly'Omulokozi waffe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mwana wange tosuulanga <br />Bye nkugabira buwa,<br />Laba bwe nnafiirira ggwe,<br />Mpa-omutima gwo gwonna</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU BIRO-EBY'EMPEWO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="43" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU biro-eby'empewo<br />E Beesirekemu;<br />Muwala omulongoofu<br />Yazaala-Omwana we.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Musanyuke mwenna <br />Muyimbe-ettendo lye;<br />Mujaguze, mujaguze,<br />Yesu azaaliddwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu azaaliddwa,<br />Mu kisa kye-ekingi <br />Eggye erya bamalayika <br />Batendereza nnyo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abasumba bazze <br />-Okusinza Omwana-oyo;<br />Abalaguzi batona,<br />Mugavu ne zaabu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ne bamalayika <br />Baase-okulamusa<br />Omwana-oyo mu kisibo <br />Ye Mukama waffe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Azze-okununula, <br />-Okuba -Omulokozi;<br />Azze- okuwangula-okufa,<br />Tasingika maanyi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Azze n'okwagala,<br />-Okuleeta-omukisa; <br />Eri abantu be bonna, <br />Atuyigirize.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oli mu kiraalo <br />Ggwe-eyava mu ggulu,<br />Amaggwa galifumita <br />Ekyenyi kyo, Yesu.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Naye ggwe-otwagaza,<br />-Ebigambo by'obulamu;<br />Era-otuyinzisa fenna <br />-Okukugoberera</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ka tumuweereze <br />Nga bamalayika;<br />Kale tusanyuke fenna <br />Azaaliddwa leero</lines>
+    </verse>
+  </lyrics>
+</song>

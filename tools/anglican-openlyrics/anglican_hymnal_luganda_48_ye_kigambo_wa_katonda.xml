@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YE KIGAMBO WA KATONDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="48" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YE Kigambo wa Katonda,<br />Kristo Yesu-Omwana we,<br />Ye n'afuuka omubiri<br />N'abeerako gye tuli<br />Ne tulaba omusana<br />-Okumulisa-enzikisa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eyatonda-ebintu byonna,<br />Era awataali ye <br />N'ekimu-ekyakolebwa;<br />Obulamu bw'ali mu ye <br />Atutukuza fenna;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwe baalagira banabbi <br />-Ab'amagezi-edda n'edda, <br />Mu kitabo-ekyawandiikibwa <br />Esuubi lye ettukuvu, <br />Eyazaalibwa-okubeera <br />Omununuzi waffe;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nga Kitaawe bwe yatuma;<br />Yagutuusa-omulimu,<br />Yayigiriza,yawonya,<br />Yafa,-era yazuukira; <br />Era alifuga-abantu <br />Bonna nga Omuwanguzi;</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kibuyaga n'emisana,<br />Ennimiro n'emigga; <br />Ebbugumu n'omuzira, <br />-Amayengo n'ebibira,<br />-Obulamu n'ebizinga <br />Binaasuuta-erinnya lye;</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Mwebaze mmwe-eby'omu ggulu<br />-Awamu n'ebyensi zonna,<br />Mmwe muyimbe abalonde <br />N'aboonoonyi muddemu <br />Buli olulimi lwonna,<br />Lwebaze ettendo lye ;</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Emirembe n'emirembe.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Oluyimba olukulu!<br />Abakadde n'abato,<br />Abalenzi n'abawala <br />Banaayatula Yesu,<br />Era banaatendereza; <br />Ye Mulokozi waabwe,</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Emirembe n'emirembe.</lines>
+    </verse>
+  </lyrics>
+</song>

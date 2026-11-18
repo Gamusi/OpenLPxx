@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>SIKUKULU EYASOKA YAJIRA ABASUMBA ABALUNDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="384" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sikukulu eyasoka yajira abasumba abalunda,<br />Ekisibo kyabwe ekyendinga,Malayika naja ekiro nagamba:<br />Sikukulu,Sikukulu Kabaka azalidwa lero.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Batunula nebalaba Emunyenye eyaka mubuvanjuba,<br />Emunyenye ku nsi ekitibwa kingi,Era nomusana nga gwaka mungi:<br />Sikukulu,Sikukulu Kabaka azalidwa lero.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwebala emunyenye eyo,Abagegezi nebava wala nyo,<br />Emunyenye kugigoberera,Kabaka oyo okumusinza:<br />Sikukulu,Sikukulu Kabaka azalidwa lero.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emuyenye eyasembera Ebeserekemu neimirira,<br />Era oluvo kweyaberera, Mukifo Yesu weyazazikibwa:<br />Sikukulu,Sikukulu Kabaka azalidwa lero.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nebaingira abasatu abo,Nebamutonera ebirabo byabye,<br />Zabu nobubane nomugavu,Nga bavunama nobuwombefu:<br />Sikukulu,Sikukulu Kabaka azalidwa lero.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kale nafe tumusinze,Tumutendereze Mukama wafe<br />Eyakola egulu nensi,Eyanunula abantu nomusai<br />Sikukulu,Sikukulu Kabaka azalidwa lero.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NSANYUKIRA EKIGAMBO KINO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="343" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NSANYUKIRA ekigambo kino<br />Yesu Mukama atwagala nnyo:<br />Alina bingi ebisanyusa;<br />Naye-ekisinga nti Nze kwagala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anjagala,anjagala;<br />Nga kitalo (o)kunjagala!<br />Anjagal(a) olw'ekisa kye,nange era mmwagala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe mba nnyonoona ne mmwerabira,<br />Yesu tandeka kubula ddala:<br />Ampita mangu-okumweyuna ye;<br />Era-anjijukiza-okwagala kwe;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anjagala,anjagala;<br />Nga kitalo (o)kunjagala!<br />Anjagal(a) olw'ekisa kye,nange era mmwagala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwe nditunuulira-ekitiibwa kyo,<br />Ndiyimuba ntya,bwe siyimba bwe ntyo?<br />Nnyimba emirembe n'emirembe,<br />Yesu kiki-ekyakunjagaza nze?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Anjagala,anjagala;<br />Nga kitalo (o)kunjagala!<br />Anjagal(a) olw'ekisa kye,nange era mmwagala.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Anjagala,nange mmwagala ye:<br />Yakka mu nsi plw'okwagala kwe;<br />-Okwagala kwamuleeta ku muti;<br />Yesu atwagala ffe bwagazi.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Anjagala,anjagala;<br />Nga kitalo (o)kunjagala!<br />Anjagal(a) olw'ekisa kye,nange era mmwagala.</lines>
+    </verse>
+  </lyrics>
+</song>

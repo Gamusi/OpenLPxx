@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>NG'EMPEEWO BW'EWEJJAWEJJA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="313" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NG'EMPEEWO bw'ewejjawejja.<br />Olw'amazzi-ewummule<br />Abayizzi gye bagoba<br />-Ewala nnyo mu kibira,<br />Bw'atyo omutambuze<br />Ye bw'awejjawejjera<br />Ggwe,amazzi g'obulamu,<br />Ggwe,omugga-ogutaggwaawo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Emmeeme yange-erumwa-enjala <br />Ku lw'Oyo-Omutukuvu,<br />-Emmere yange ge maziga <br />Emisana n'ekiro;<br />Abayigganya bonna <br />Nga banvuma-edda n'edda <br />Nti -Omulokozi yeekweka.<br />Ali ludda wa Katonda?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiki-ekikukutamizza,<br />Ky'ozitoowereddwa ggwe?<br />Kiki,ggwe emmeeme yange,<br />-Ekikweraliikiriza?<br />Weesige-Omulokozi <br />Bulijjo-weeyanze nnyo;<br />Sanyusanga-omuzira wo,<br />Suubiranga-eri Katonda</lines>
+    </verse>
+  </lyrics>
+</song>

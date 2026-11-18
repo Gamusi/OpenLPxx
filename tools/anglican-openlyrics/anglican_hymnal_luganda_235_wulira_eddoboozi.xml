@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>WULIRA-EDDOBOOZI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="235" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WULIRA-eddoboozi<br />Erijja gy'oli<br />Genda Yesu gy'ali<br />Akugamba nti:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mpa omutima gwo,<br />Nnakufiirira,<br />Nze,nze nkuyita ggwe,<br />Sembera gye ndi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bw'onoobanga-onoonya<br />Ekiddukiro;<br />Ddukira-eri Yesu,<br />Omulokozi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eddoboozi ttono <br />Naye lya maanyi;<br />Laba-okwagala kwe,<br />Ggwe omwonoonyi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Muwe omwoyo gwo <br />Yakufiirira;<br />Ye akuyita ggwe,<br />Genda mangu nnyo.</lines>
+    </verse>
+  </lyrics>
+</song>

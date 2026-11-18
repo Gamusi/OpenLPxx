@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OMUZIRA YENNA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="324" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OMUZIRA yenna<br />Ayagala-ennyo<br />-Okugobereranga<br />Mukama we ye;<br />Tewali na kabi<br />-Akalimuziyiza,<br />Bw'alayira-okubeera-<br />-Omutambuze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abamubuulira <br />-Eby'okumutiisa,<br />Balemwa-okumalawo-<br />Obuzira bwe:<br />Tewali mulabe <br />Alimuwangula;<br />Alituukiriza <br />Ng'omutambuze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mukama bw'anaaba <br />Ng'atukuuma ffe,<br />Tulifuna-obulamu-<br />Obutaliggwaawo-:<br />-Eby'omu nsi biriggwaaawo-!<br />Siityenga-eby'abantu;<br />Naabeeranga bulijjo-<br />Omutambuze</lines>
+    </verse>
+  </lyrics>
+</song>

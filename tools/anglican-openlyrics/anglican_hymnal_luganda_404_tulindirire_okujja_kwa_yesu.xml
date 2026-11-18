@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TULINDIRIRE OKUJJA KWA YESU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="404" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tulindirire - Tulindirire-okujja-kwa Yesu-Omulokozi<br />Tulongooseze - Tulongoseze-Omwana-wa-Mukama oluguudo lwe<br />Ajje Yesu - Ajje Yesu atulokole</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Liriba ssanyu,Yesu ng'atuuse,bw'atyo<br />N'atununula mu nsi eno ey'ekikolimo(Ky'okufa)<br />Lw'alizaalibwa Omwana,okuva mu ggulu gy'ali<br />Y'oyo ye yekka alitununula,tumukkirize <br />Y'oyo ye yekka alitununula,tumukkirize.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twali mu kabi - Twali mu kabi bw'atyo-Mukama-n'atusaasira<br />Naatuukiriza - Naatukiriza-ebya-Nabbi Isaya bye yalagula<br />Nti oli alijja - Nti oli alijja ye Mulokozi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Liriba ssanyu,Yesu ng'atuuse,bw'atyo<br />N'atununula mu nsi eno ey'ekikolimo(Ky'okufa)<br />Lw'alizaalibwa Omwana,okuva mu ggulu gy'ali<br />Y'oyo ye yekka alitununula,tumukkirize <br />Y'oyo ye yekka alitununula,tumukkirize.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lulikya lutya - Lulikya lutya ne-tumulaba-nga tuli naye<br />Tulijaguza - Tulijaguza -awali Mukama nga tuwangudde <br />Fenna ku olwo - Nti oli alijja ye Mulokozi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Liriba ssanyu,Yesu ng'atuuse,bw'atyo<br />N'atununula mu nsi eno ey'ekikolimo(Ky'okufa)<br />Lw'alizaalibwa Omwana,okuva mu ggulu gy'ali<br />Y'oyo ye yekka alitununula,tumukkirize <br />Y'oyo ye yekka alitununula,tumukkirize.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lw'alikomawo - Lw'alikomawo aliba-mu-ntebbe y'Obulokozi<br />Tulitwalibwa - Tulitwalibwa awali-Kitaffe gye yategeka<br />Eri gy'ali - Eri gy'ali mu-Kitiibwa</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Liriba ssanyu,Yesu ng'atuuse,bw'atyo<br />N'atununula mu nsi eno ey'ekikolimo(Ky'okufa)<br />Lw'alizaalibwa Omwana,okuva mu ggulu gy'ali<br />Y'oyo ye yekka alitununula,tumukkirize <br />Y'oyo ye yekka alitununula,tumukkirize.</lines>
+    </verse>
+  </lyrics>
+</song>

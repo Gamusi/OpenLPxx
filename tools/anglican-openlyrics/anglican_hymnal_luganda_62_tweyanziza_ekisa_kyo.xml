@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>TWEYANZIZA-EKISA KYO</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="62" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TWEYANZIZA-ekisa kyo<br />Okututuusa fenna,<br />Mu mwaka guno-omuggya<br />Ayi Kitaffe, wulira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mu bunafu n'ennaku, <br />Ka tuddukire gy'oli <br />Ng'ekkubo litubula; <br />Yesu-otukulembere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwe tulisemberera <br />Ekiwonvu-eky'okufa, <br />-Omuggo gwo n'oluga lwo <br />Bye biritusanyusa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bulijjo tubeerenga <br />Beesigwa,balongoofu;<br />Ka tugumiikirize,<br />Otusaayize-engule.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mu nsi ey'omu ggulu,<br />Tulikuba-ennanga-empya <br />Nga tukusuuta wekka,<br />Ggwe-afuga-abantu bonna</lines>
+    </verse>
+  </lyrics>
+</song>

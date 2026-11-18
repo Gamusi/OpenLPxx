@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>KABAKA OW'EKISA, TUNUULIRA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="124" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KABAKA-ow'ekisa,tunuulira<br />Leero ffe-abaana bo abasaba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ggwe-Omusumba eyatununula,<br />Kuuma leero endiga zo zonn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Omulokozi eyatufiirira,<br />Leero-otuwe-obulamu-obutaggwaawo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ggwe-emmere y'obulamu-otuliise <br />Tufune-amaayi mangi mu mwoyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Beera naffe buli gye tugenda,<br />-Omugabe waffe,era Omusaale.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwe tutyo bwe tulimala-okufa,<br />tulituuka nessanyu mu ggulu</lines>
+    </verse>
+  </lyrics>
+</song>

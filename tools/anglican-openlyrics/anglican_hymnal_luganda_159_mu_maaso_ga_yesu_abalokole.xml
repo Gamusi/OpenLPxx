@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MU MAASO GA YESU ABALOKOLE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="159" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MU maaso ga Yesu abalokole,<br />-Ekibiina-ekinene,bayimiridde;<br />Bayimba nti Eyatunaaza yekka<br />-Aweebwe ekitiibwa ennaku zonna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiki-ekyabanaaza-abalina-ebibi?<br />Yesu yatunaaza n'omusaayi bw'ati;<br />Tuyimba nti Eyatunaaza yekka,<br />Aweebwe-ekitiibwa ennaku nzonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kyebava bafaanana-abatukuvu;<br />Kyebava bayimba abangi wamu;<br />Ggwe Yesu wekka eyatutukuza,<br />Oweebwe-ekitiibwa ennaku zonna.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bo baali bajeemu,naye kaakano <br />Be baddu ba Yesu-abamuweeereza <br />Bayimba nti Eyatunaaza yekka <br />Aweebwe-ekitiibwa ennaku zonna</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu,ffe fenna twandifudde bufi;<br />Watwagala ne bwe twali ababi;<br />N'otusaasira ggwe n'otutukuza;<br />Oweebwe-ekitiibwa ennaku zonna.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bannange, n'essanyu tumuyimbire,<br />-Abalala balyoke bayimbe nabo,<br />Ggwe Yesu wekka eyatutukuza,<br />Oweebwe-ekitiibwa ennaku zonna.</lines>
+    </verse>
+  </lyrics>
+</song>

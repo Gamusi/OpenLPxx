@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABATUKUVU BA KATONDA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="107" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-ABATUKUVU ba Katonda<br />Entalo zaabwe zaggwaawo,<br />Tebakyetaaga mafumu,<br />Tebakyewoma mu ngabo.<br />Baweereddwa-omukisa bo,<br />Bajjudde-essanyu lya Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Abatukuvu ba Katonda <br />Batuuka mu kiwumulo,<br />Tebeesittala kaakano <br />So tebazirika nate.<br />Baweereddwa-omukisa bo,<br />Balaba-amaaso ga Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Abatukuvu ba Katonda <br />Edda baafuba n'amaanyi;<br />Mu nnyanja y'ennaku zaabwe,<br />-Amayengo nga gabakuba.<br />Baweereddwa-omukisa bo,<br />Bagobye mu mwalo gwabwe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>-Abatukuvu ba Katonda <br />-Emibiri gyabwe givunda,<br />Bw'aliijja balizuukira,<br />Ne basanyusibwa Yesu.<br />Baweereddwa omukisa-bo,<br />Kabaka waabwe-ajja mangu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Katonda w'abatukuvu <br />Yesu, -Omulokozi waffe <br />Omwoyo eyatukuuma,<br />Katonda-omu mu Busatu;<br />Otuwe-abakukkiriza,<br />-Otutuuka mu mirembe gyo</lines>
+    </verse>
+  </lyrics>
+</song>

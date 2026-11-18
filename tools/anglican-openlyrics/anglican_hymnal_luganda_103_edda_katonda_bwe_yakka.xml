@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EDDA KATONDA BWE YAKKA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="103" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EDDA Katonda bwe yakka<br />Ne wabaawo-entiisa;<br />Eggulu ne libwatuka,<br />Ne gwaka-omuliro.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naye-Omwoyo-Omtukuvu <br />Bwe yakka-olulala,<br />Yava mu ggulu ng'empewo <br />Ewuuma n'amaanyi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Omuliro-ogw'entisa-ogwo <br />-Ogwayokya Sinaayi,<br />Ne gukka mpola ku mitwe <br />Egy'abatukuvu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kale,tukwegayiridde,<br />Jjangu okke ku ffe:<br />-Omugabi w'obulamu,kka,<br />Jjangu,Musanyusa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuwe-ebirabo,-okwagala,<br />-Emirembe n'essanyu.<br />Okgumiikiriza-ekisa;<br />-Obutrrfu,-okwesiga.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tunaasuutanga bwe tutyo <br />Erinnya lye-ekkulu,<br />Kaonda Ayinza byonna,<br />Atukuza fenna.</lines>
+    </verse>
+  </lyrics>
+</song>

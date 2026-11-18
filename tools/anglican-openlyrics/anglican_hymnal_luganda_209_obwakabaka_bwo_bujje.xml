@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>OBWAKABAKA BWO BUJJE</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="209" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OBWAKABAKA bwo bujje<br />Kaakano tukyogedde:<br />Yesu onjigirize<br />-Okukisabira ddala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu,sooka oyigire <br />Muno mu mwoyo gwange:<br />Naakusembeza gye ndi,<br />Ongobemu ebibi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ombeerenga bulijjo<br />Mbuulire-ekigambo kyo;<br />Olyoke ojje nate,<br />Mu mwoyo gya bannange.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ebiro bwe biriggwaawo-;<br />Kitaawo bye yalaga,<br />Olijja n'ettendo lyo,<br />N'olya-obwakabaka bwo</lines>
+    </verse>
+  </lyrics>
+</song>

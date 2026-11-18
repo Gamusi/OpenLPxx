@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>EKIRO KYA SSEKUKKULU</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="46" />
+    </songbooks>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EKIRO kyo Ssekukkulu,<br />Amaloboozi g'ebide<br />Gaavuga okutegeeza<br />-Amawulire ag'essanyu;<br />Okubuna-abantu bonna,<br />Azaaliddwa-Omulokozi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ebigambo eby'essanyu,<br />Ebya bamalayika-abo <br />Abaalanga okujja kwe, <br />Kabaka wa bakabaka,<br />Mukama ow'abakama;<br />Atenderezebwe bonna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kaakano Omulokozi,<br />Azaaliddwa mmwe gye muli;<br />Bamalayika bayimba <br />Nga balanga okujja kwe.<br />Mu ggulu era ne mu nsi <br />Emirembe gibe mu mmwe.</lines>
+    </verse>
+  </lyrics>
+</song>

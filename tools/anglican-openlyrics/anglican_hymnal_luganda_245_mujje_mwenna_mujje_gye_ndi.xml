@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MUJJE MWENNA,MUJJE GYE NDI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="245" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MUJJE mwenna,mujje gye ndi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abakooye-ennyo.<br />Yesu bwe yagamba bw'atyo<br />Ab'omu nsi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu mumunoonya? Nedda<br />Ye-abanoonya mmwe;<br />Temweteekateeka,mujje<br />Nga bwe muli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mumuganye,munaalaba<br />Bw'anaabakola;<br />Anaabawonyanga-endwadde<br />Ez'omwoyo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Omusango gwabasinga?<br />Abasonyiwa;<br />Abaggyako-abantu bonna<br />Ebyonoono</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ekisa kye mukigaanyi?<br />Temukkiriza?<br />Temumuganya kugenda<br />Nga-asaaliddwa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oba-ennaku zammwe nnyingi?<br />Era mukooye?<br />Mumwanirize Mukama,<br />Muwummule.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>YESU,LEERO NKUKOOWOOLA</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="281" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YESU,leero nkukoowoola<br />Ombeere nkwegayirira,<br />Obulokozi bwo ndaga;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mala gasenza nze:<br />Mala gasenza nze:<br />Omusaa(yi) gwokka gwe neesiga:<br />Mala gasenza.nze</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obujeemu bwange n'obubi,<br />Ggwe-omanyi ddala bwe biri:<br />Ka nkwesige ggwe bwesizi;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mala gasenza nze:<br />Mala gasenza nze:<br />Omusaa(yi) gwokka gwe neesiga:<br />Mala gasenza.nze</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Siyinza kweteekateeka,<br />Siyinza kwegendereza;<br />Olw'erinnya lyo ndokola:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mala gasenza nze:<br />Mala gasenza nze:<br />Omusaa(yi) gwokka gwe neesiga:<br />Mala gasenza.nze</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nze nkuvuunamidde leero <br />Neewaayo mu mikono gyo:<br />Mukama,nze ndi muddu wo:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yesu nkusenze ggwe:<br />Yesu nkusenze ggwe:<br />(O)musaa(yi) gwo gwe gundokodde:<br />Yesu nkusenze ggwe.</lines>
+    </verse>
+  </lyrics>
+</song>

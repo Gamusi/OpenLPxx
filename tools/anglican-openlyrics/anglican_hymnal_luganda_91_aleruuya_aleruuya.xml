@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ALERUUYA! ALERUUYA!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="91" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ALERUUYA! Aleruuya!<br />Muyimbire Katonda;<br />Muyimuse-emyoyo gyammwe<br />Nga mujjudde nnyo-essanyu.<br />Yesu yatiibwa ku lwaffe,<br />N'ayiwa-omusayi gwe,<br />Okununula ffe-abantu,<br />Ye mulamu-,yazuukira.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Amaanyi gonna-ag'emagombe <br />Yagamenyera ddala,<br />N'atuggulira oluggi <br />Lw'obulamu-obutaggwaawo-.<br />Yesu yava mu magombe;<br />Ffe ku bubwe tulivaamu-;<br />Ye yayingira mu ggulu;<br />Naffe tulituukayo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ggwe wazuukira,Mukama;<br />Ggwe-oli mwaka gye tuli:<br />Olunaku luli kumpi,<br />Naffe tulikungulwa.<br />Nga enkuba n'omusana <br />Bwe byengeza-ebibala:<br />Bw'otyo Yesu bw'otubaza,<br />Ebibala-ebirungi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aleruuya! Aleruuya!<br />Tukusinza,Kitaffe,<br />Naawe,Mwana,tukusinza,<br />Wakuwangula-okufa.<br />Naawe,Mwoyo,tukusinza,<br />Atuwa obutukuvu;<br />Aleruuya! Aleruuya!<br />Twebaze-Obusatu</lines>
+    </verse>
+  </lyrics>
+</song>

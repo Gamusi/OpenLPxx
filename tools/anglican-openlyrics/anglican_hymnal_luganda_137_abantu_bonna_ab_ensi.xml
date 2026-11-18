@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>ABANTU BONNA AB'ENSI</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anglican Hymnal (Luganda)" entry="137" />
+    </songbooks>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ABANTU bonna ab'ensi,<br />Mukama mumuyimbire!<br />Mumutye,mumuwulire,<br />Mujje mumusanyukire.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mukama Katonda waffe <br />Ye yekka eyatutonda ffe;<br />ffe yatulonda,ffe babe,<br />Ffe ndiga z'oku ttale lye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Muyingire mu nzigi ze;<br />Musemberere n'empya ze;<br />Erinnya lye lisinzibwe,<br />Mujje mumuvuunamire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mujje mweyanze bulijjo:<br />Kubanga ye mulungi nnyo;<br />Tegaliggwa-amazima ge,<br />Newnkubadde-ekisa kye.</lines>
+    </verse>
+  </lyrics>
+</song>
